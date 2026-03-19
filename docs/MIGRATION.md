@@ -52,3 +52,24 @@ If `make` is not available, run:
 | Validar configuracao e risco de crypto | `python scripts/crypto_cli.py ...` | Principal para BTC up/down |
 | Validar configuracao e escopo sports | `python scripts/sports_cli.py ...` | Principal para dominio sports |
 | Compatibilidade com comando antigo | `python scripts/arb_cli.py ...` | Wrapper legado com warning deprecado |
+
+## Legacy Script Status (Phase 5.1)
+Fonte detalhada: `docs/LEGACY_STATUS.md`.
+
+| Script/Entrypoint | Status | Wrapper/Replacement | Target removal date |
+|---|---|---|---|
+| `scripts/crypto_cli.py` | official | - | - |
+| `scripts/sports_cli.py` | official | - | - |
+| `scripts/quality_gate.py` | official | - | - |
+| `scripts/arb_cli.py` | keep (wrapper) | `scripts/crypto_cli.py` | 2026-09-30 |
+| `logs/run_arb_dry_run.py` | keep (wrapper) | runtime crypto + `scripts/crypto_cli.py` | 2026-10-31 |
+| `run_arb_bot.bat` | keep (wrapper) | official CLIs | 2026-12-31 |
+| `start_btc_15m_monitors.bat` | deprecated | `scripts/crypto_cli.py` | 2026-09-30 |
+| `watch_btc_15m_kalshi.py` | deprecated | runtime crypto feed | 2026-10-31 |
+| `watch_btc_15m_poly.py` | deprecated | runtime crypto feed | 2026-10-31 |
+| `logs/analyze_arb.py` | deprecated | runtime crypto diagnostics | 2026-10-31 |
+
+## Fallback Policy
+- Nenhum comando legado sera removido sem wrapper equivalente ativo.
+- Todos os wrappers devem emitir warning unico e claro de deprecacao.
+- Remocoes so acontecem apos a data-alvo e validacao no `scripts/quality_gate.py`.
