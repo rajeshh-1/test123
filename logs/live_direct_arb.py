@@ -3,6 +3,7 @@ import asyncio
 import csv
 import json
 import os
+import sys
 import time
 from dataclasses import dataclass
 from datetime import datetime, timezone
@@ -14,16 +15,31 @@ import requests
 import websockets
 from web3 import Web3
 
-from arb_engine.config import LIVE_CONFIRM_PHRASE, build_runtime_config, load_env_file, validate_startup
-from arb_engine.edge import calculate_edge_from_legs
-from arb_engine.jsonl_log import JsonlLogger
-from arb_engine.persistence import ArbSQLiteStore
-from arb_engine.pretrade import PreTradeRequest, validate_pretrade
+_REPO_ROOT = Path(__file__).resolve().parent.parent
+if str(_REPO_ROOT) not in sys.path:
+    # Legacy entrypoint compatibility: allow importing the new package layout.
+    sys.path.insert(0, str(_REPO_ROOT))
 
 try:
-    from kalshi_order_client import KalshiOrderClient
+    from bot.core.config import LIVE_CONFIRM_PHRASE, build_runtime_config, load_env_file, validate_startup
+    from bot.core.edge import calculate_edge_from_legs
+    from bot.core.pretrade import PreTradeRequest, validate_pretrade
+    from bot.core.storage.jsonl_logger import JsonlLogger
+    from bot.core.storage.sqlite_store import ArbSQLiteStore
+except ModuleNotFoundError:
+    from arb_engine.config import LIVE_CONFIRM_PHRASE, build_runtime_config, load_env_file, validate_startup
+    from arb_engine.edge import calculate_edge_from_legs
+    from arb_engine.pretrade import PreTradeRequest, validate_pretrade
+    from arb_engine.jsonl_log import JsonlLogger
+    from arb_engine.persistence import ArbSQLiteStore
+
+try:
+    from bot.core.execution.kalshi_client import KalshiOrderClient
 except Exception:
-    KalshiOrderClient = None
+    try:
+        from kalshi_order_client import KalshiOrderClient
+    except Exception:
+        KalshiOrderClient = None
 
 
 def _utc_now() -> datetime:

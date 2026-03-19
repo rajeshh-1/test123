@@ -1,6 +1,6 @@
 import pytest
 
-from arb_engine.edge import EdgeInputs, calculate_edge_from_legs, calculate_net_edge
+from bot.core.edge import EdgeInputs, calculate_edge_from_legs, calculate_net_edge
 
 
 def test_edge_formula_with_fee_slippage_legrisk():
@@ -45,4 +45,3 @@ def test_edge_rejects_negative_inputs():
                 custo_leg_risk=0.0,
             )
         )
-

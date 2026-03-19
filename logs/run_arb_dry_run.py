@@ -1,12 +1,35 @@
 import argparse
+import importlib.util
 import subprocess
 import sys
+import warnings
 from datetime import datetime, timezone
 from pathlib import Path
 
 import numpy as np
 import pandas as pd
+
+_REPO_ROOT = Path(__file__).resolve().parent.parent
+if str(_REPO_ROOT) not in sys.path:
+    # Legacy entrypoint compatibility: allow importing the new package layout.
+    sys.path.insert(0, str(_REPO_ROOT))
+
 from live_direct_arb import run_live_mode
+
+try:
+    from scripts.arb_cli import validate_from_namespace as _validate_from_arb_cli
+except Exception:
+    _validate_from_arb_cli = None
+    try:
+        _ARB_CLI_PATH = Path(__file__).resolve().parent.parent / "scripts" / "arb_cli.py"
+        if _ARB_CLI_PATH.exists():
+            spec = importlib.util.spec_from_file_location("scripts.arb_cli", str(_ARB_CLI_PATH))
+            if spec and spec.loader:
+                module = importlib.util.module_from_spec(spec)
+                spec.loader.exec_module(module)
+                _validate_from_arb_cli = getattr(module, "validate_from_namespace", None)
+    except Exception:
+        _validate_from_arb_cli = None
 
 
 def parse_args():
@@ -1028,6 +1051,16 @@ def run_fault_injection(args, repo_root: Path, output_dir: Path, summary_lines: 
 
 def main():
     args = parse_args()
+    warnings.warn("DEPRECATED: use scripts/arb_cli.py", UserWarning, stacklevel=1)
+    print("DEPRECATED: use scripts/arb_cli.py", file=sys.stderr)
+
+    cfg_errors: list[str] = []
+    if _validate_from_arb_cli is not None:
+        try:
+            _, cfg_errors = _validate_from_arb_cli(args)
+        except Exception as e:
+            cfg_errors = [f"arb_cli_validation_error={e}"]
+
     args.kalshi_file = str(Path(args.kalshi_file).resolve())
     args.poly_file = str(Path(args.poly_file).resolve())
     args.analyzer = str(Path(args.analyzer).resolve())
@@ -1047,6 +1080,21 @@ def main():
     summary_lines.append(f"slippage_expected_bps={args.slippage_expected_bps}")
     summary_lines.append(f"leg_risk_cost={args.leg_risk_cost}")
     summary_lines.append(f"payout_esperado={args.payout_esperado}")
+    summary_lines.append("legacy_entrypoint_deprecated=true")
+    summary_lines.append("legacy_replacement=scripts/arb_cli.py")
+    if _validate_from_arb_cli is None:
+        summary_lines.append("arb_cli_validation=skipped_import_error")
+    else:
+        summary_lines.append(f"arb_cli_validation_errors={len(cfg_errors)}")
+        for err in cfg_errors:
+            summary_lines.append(f"arb_cli_validation_error={err}")
+    if cfg_errors:
+        rc = 1
+        summary_lines.append("exit_code=1")
+        summary_text = "\n".join(summary_lines) + "\n"
+        Path(args.summary_file).resolve().write_text(summary_text, encoding="utf-8")
+        print(summary_text, end="")
+        return
 
     rc = 1
     try:

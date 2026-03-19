@@ -3,7 +3,5 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-LOGS_DIR = ROOT / "logs"
-if str(LOGS_DIR) not in sys.path:
-    sys.path.insert(0, str(LOGS_DIR))
-
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))

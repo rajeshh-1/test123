@@ -1,15 +1,5 @@
-"""Core production primitives for Kalshi x Polymarket arbitrage."""
+﻿import warnings
 
-from .edge import EdgeInputs, EdgeResult, calculate_edge_from_legs, calculate_net_edge
-from .pretrade import PreTradeDecision, PreTradeRequest, validate_pretrade
+warnings.warn("DEPRECATED: use bot.core.*", UserWarning, stacklevel=2)
 
-__all__ = [
-    "EdgeInputs",
-    "EdgeResult",
-    "PreTradeDecision",
-    "PreTradeRequest",
-    "calculate_net_edge",
-    "calculate_edge_from_legs",
-    "validate_pretrade",
-]
-
+from bot.core import *  # noqa: F401,F403

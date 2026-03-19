@@ -1,5 +1,5 @@
-from arb_engine.edge import calculate_edge_from_legs
-from arb_engine.pretrade import PreTradeRequest, validate_pretrade
+from bot.core.edge import calculate_edge_from_legs
+from bot.core.pretrade import PreTradeRequest, validate_pretrade
 
 
 def _best_ask(orderbook: dict) -> tuple[float, float]:
@@ -70,4 +70,3 @@ def test_mock_orderbook_pipeline_rejects_by_liquidity():
     )
     assert decision.ok is False
     assert decision.reason_code == "insufficient_liquidity"
-
