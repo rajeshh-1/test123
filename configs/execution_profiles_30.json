@@ -1,0 +1,302 @@
+[
+  {
+    "name": "baseline",
+    "latency_ms_kalshi": 200,
+    "latency_ms_poly": 200,
+    "adverse_drift_bps": 2.0,
+    "book_haircut_pct": 10.0,
+    "partial_fill_prob": 0.05,
+    "timeout_prob": 0.01,
+    "slippage_extra_bps": 1.0
+  },
+  {
+    "name": "latency_high_low_deg_01",
+    "latency_ms_kalshi": 1200,
+    "latency_ms_poly": 1200,
+    "adverse_drift_bps": 2.0,
+    "book_haircut_pct": 10.0,
+    "partial_fill_prob": 0.05,
+    "timeout_prob": 0.01,
+    "slippage_extra_bps": 2.0
+  },
+  {
+    "name": "latency_high_low_deg_02",
+    "latency_ms_kalshi": 2000,
+    "latency_ms_poly": 2000,
+    "adverse_drift_bps": 2.0,
+    "book_haircut_pct": 10.0,
+    "partial_fill_prob": 0.05,
+    "timeout_prob": 0.05,
+    "slippage_extra_bps": 2.0
+  },
+  {
+    "name": "latency_high_low_deg_03",
+    "latency_ms_kalshi": 3000,
+    "latency_ms_poly": 3000,
+    "adverse_drift_bps": 2.0,
+    "book_haircut_pct": 10.0,
+    "partial_fill_prob": 0.05,
+    "timeout_prob": 0.05,
+    "slippage_extra_bps": 3.0
+  },
+  {
+    "name": "latency_high_low_deg_04",
+    "latency_ms_kalshi": 3000,
+    "latency_ms_poly": 3000,
+    "adverse_drift_bps": 6.0,
+    "book_haircut_pct": 10.0,
+    "partial_fill_prob": 0.15,
+    "timeout_prob": 0.05,
+    "slippage_extra_bps": 3.0
+  },
+  {
+    "name": "latency_high_low_deg_05",
+    "latency_ms_kalshi": 2000,
+    "latency_ms_poly": 2000,
+    "adverse_drift_bps": 6.0,
+    "book_haircut_pct": 25.0,
+    "partial_fill_prob": 0.15,
+    "timeout_prob": 0.05,
+    "slippage_extra_bps": 4.0
+  },
+  {
+    "name": "book_bad_latency_mid_01",
+    "latency_ms_kalshi": 600,
+    "latency_ms_poly": 600,
+    "adverse_drift_bps": 6.0,
+    "book_haircut_pct": 40.0,
+    "partial_fill_prob": 0.15,
+    "timeout_prob": 0.05,
+    "slippage_extra_bps": 4.0
+  },
+  {
+    "name": "book_bad_latency_mid_02",
+    "latency_ms_kalshi": 600,
+    "latency_ms_poly": 600,
+    "adverse_drift_bps": 12.0,
+    "book_haircut_pct": 55.0,
+    "partial_fill_prob": 0.3,
+    "timeout_prob": 0.1,
+    "slippage_extra_bps": 6.0
+  },
+  {
+    "name": "book_bad_latency_mid_03",
+    "latency_ms_kalshi": 1200,
+    "latency_ms_poly": 1200,
+    "adverse_drift_bps": 12.0,
+    "book_haircut_pct": 55.0,
+    "partial_fill_prob": 0.3,
+    "timeout_prob": 0.1,
+    "slippage_extra_bps": 8.0
+  },
+  {
+    "name": "book_bad_latency_mid_04",
+    "latency_ms_kalshi": 1200,
+    "latency_ms_poly": 1200,
+    "adverse_drift_bps": 20.0,
+    "book_haircut_pct": 70.0,
+    "partial_fill_prob": 0.3,
+    "timeout_prob": 0.1,
+    "slippage_extra_bps": 10.0
+  },
+  {
+    "name": "book_bad_latency_mid_05",
+    "latency_ms_kalshi": 600,
+    "latency_ms_poly": 600,
+    "adverse_drift_bps": 20.0,
+    "book_haircut_pct": 70.0,
+    "partial_fill_prob": 0.45,
+    "timeout_prob": 0.2,
+    "slippage_extra_bps": 12.0
+  },
+  {
+    "name": "book_bad_latency_mid_06",
+    "latency_ms_kalshi": 1200,
+    "latency_ms_poly": 1200,
+    "adverse_drift_bps": 30.0,
+    "book_haircut_pct": 70.0,
+    "partial_fill_prob": 0.45,
+    "timeout_prob": 0.25,
+    "slippage_extra_bps": 15.0
+  },
+  {
+    "name": "stress_mix_01",
+    "latency_ms_kalshi": 200,
+    "latency_ms_poly": 200,
+    "adverse_drift_bps": 6.0,
+    "book_haircut_pct": 25.0,
+    "partial_fill_prob": 0.15,
+    "timeout_prob": 0.05,
+    "slippage_extra_bps": 2.0
+  },
+  {
+    "name": "stress_mix_02",
+    "latency_ms_kalshi": 200,
+    "latency_ms_poly": 200,
+    "adverse_drift_bps": 12.0,
+    "book_haircut_pct": 25.0,
+    "partial_fill_prob": 0.15,
+    "timeout_prob": 0.05,
+    "slippage_extra_bps": 3.0
+  },
+  {
+    "name": "stress_mix_03",
+    "latency_ms_kalshi": 600,
+    "latency_ms_poly": 600,
+    "adverse_drift_bps": 12.0,
+    "book_haircut_pct": 40.0,
+    "partial_fill_prob": 0.15,
+    "timeout_prob": 0.1,
+    "slippage_extra_bps": 5.0
+  },
+  {
+    "name": "stress_mix_04",
+    "latency_ms_kalshi": 600,
+    "latency_ms_poly": 600,
+    "adverse_drift_bps": 20.0,
+    "book_haircut_pct": 40.0,
+    "partial_fill_prob": 0.3,
+    "timeout_prob": 0.1,
+    "slippage_extra_bps": 7.0
+  },
+  {
+    "name": "stress_mix_05",
+    "latency_ms_kalshi": 1200,
+    "latency_ms_poly": 1200,
+    "adverse_drift_bps": 20.0,
+    "book_haircut_pct": 40.0,
+    "partial_fill_prob": 0.3,
+    "timeout_prob": 0.2,
+    "slippage_extra_bps": 9.0
+  },
+  {
+    "name": "stress_mix_06",
+    "latency_ms_kalshi": 1200,
+    "latency_ms_poly": 1200,
+    "adverse_drift_bps": 30.0,
+    "book_haircut_pct": 55.0,
+    "partial_fill_prob": 0.3,
+    "timeout_prob": 0.2,
+    "slippage_extra_bps": 11.0
+  },
+  {
+    "name": "stress_mix_07",
+    "latency_ms_kalshi": 2000,
+    "latency_ms_poly": 2000,
+    "adverse_drift_bps": 12.0,
+    "book_haircut_pct": 25.0,
+    "partial_fill_prob": 0.3,
+    "timeout_prob": 0.1,
+    "slippage_extra_bps": 6.0
+  },
+  {
+    "name": "stress_mix_08",
+    "latency_ms_kalshi": 2000,
+    "latency_ms_poly": 2000,
+    "adverse_drift_bps": 20.0,
+    "book_haircut_pct": 55.0,
+    "partial_fill_prob": 0.3,
+    "timeout_prob": 0.2,
+    "slippage_extra_bps": 12.0
+  },
+  {
+    "name": "stress_mix_09",
+    "latency_ms_kalshi": 2000,
+    "latency_ms_poly": 2000,
+    "adverse_drift_bps": 30.0,
+    "book_haircut_pct": 55.0,
+    "partial_fill_prob": 0.45,
+    "timeout_prob": 0.2,
+    "slippage_extra_bps": 14.0
+  },
+  {
+    "name": "stress_mix_10",
+    "latency_ms_kalshi": 3000,
+    "latency_ms_poly": 3000,
+    "adverse_drift_bps": 12.0,
+    "book_haircut_pct": 25.0,
+    "partial_fill_prob": 0.3,
+    "timeout_prob": 0.1,
+    "slippage_extra_bps": 7.0
+  },
+  {
+    "name": "stress_mix_11",
+    "latency_ms_kalshi": 3000,
+    "latency_ms_poly": 3000,
+    "adverse_drift_bps": 20.0,
+    "book_haircut_pct": 40.0,
+    "partial_fill_prob": 0.45,
+    "timeout_prob": 0.2,
+    "slippage_extra_bps": 13.0
+  },
+  {
+    "name": "stress_mix_12",
+    "latency_ms_kalshi": 3000,
+    "latency_ms_poly": 3000,
+    "adverse_drift_bps": 30.0,
+    "book_haircut_pct": 55.0,
+    "partial_fill_prob": 0.45,
+    "timeout_prob": 0.25,
+    "slippage_extra_bps": 16.0
+  },
+  {
+    "name": "stress_mix_13",
+    "latency_ms_kalshi": 1200,
+    "latency_ms_poly": 1200,
+    "adverse_drift_bps": 6.0,
+    "book_haircut_pct": 25.0,
+    "partial_fill_prob": 0.05,
+    "timeout_prob": 0.05,
+    "slippage_extra_bps": 3.0
+  },
+  {
+    "name": "crash_tail_01",
+    "latency_ms_kalshi": 2000,
+    "latency_ms_poly": 2000,
+    "adverse_drift_bps": 30.0,
+    "book_haircut_pct": 70.0,
+    "partial_fill_prob": 0.45,
+    "timeout_prob": 0.25,
+    "slippage_extra_bps": 18.0
+  },
+  {
+    "name": "crash_tail_02",
+    "latency_ms_kalshi": 3000,
+    "latency_ms_poly": 3000,
+    "adverse_drift_bps": 30.0,
+    "book_haircut_pct": 70.0,
+    "partial_fill_prob": 0.45,
+    "timeout_prob": 0.25,
+    "slippage_extra_bps": 20.0
+  },
+  {
+    "name": "crash_tail_03",
+    "latency_ms_kalshi": 3000,
+    "latency_ms_poly": 3000,
+    "adverse_drift_bps": 20.0,
+    "book_haircut_pct": 70.0,
+    "partial_fill_prob": 0.45,
+    "timeout_prob": 0.25,
+    "slippage_extra_bps": 18.0
+  },
+  {
+    "name": "crash_tail_04",
+    "latency_ms_kalshi": 3000,
+    "latency_ms_poly": 3000,
+    "adverse_drift_bps": 30.0,
+    "book_haircut_pct": 55.0,
+    "partial_fill_prob": 0.45,
+    "timeout_prob": 0.25,
+    "slippage_extra_bps": 17.0
+  },
+  {
+    "name": "crash_tail_05",
+    "latency_ms_kalshi": 2000,
+    "latency_ms_poly": 2000,
+    "adverse_drift_bps": 30.0,
+    "book_haircut_pct": 70.0,
+    "partial_fill_prob": 0.3,
+    "timeout_prob": 0.25,
+    "slippage_extra_bps": 16.0
+  }
+]

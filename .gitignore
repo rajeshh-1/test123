@@ -31,6 +31,9 @@ logs/__pycache__/
 logs/_tmp_*
 live_orders_audit.csv
 mm_dryrun_log.csv
+reports/profile_grid/*.jsonl
+reports/profile_grid/*.sqlite
+reports/profile_grid_smoke/
 
 # Archives
 *.zip

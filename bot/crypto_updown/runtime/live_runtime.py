@@ -1,5 +1,7 @@
 from dataclasses import dataclass
 from datetime import datetime, timezone
+import random
+import time
 from typing import Any, Callable, Optional
 
 from bot.core.reason_codes import (
@@ -10,6 +12,7 @@ from bot.core.reason_codes import (
     LEG_TIMEOUT,
     PARTIAL_FILL,
 )
+from bot.crypto_updown.runtime.execution_profile import ExecutionProfile
 
 
 def _iso_utc_now() -> str:
@@ -33,6 +36,7 @@ class LegExecutionResult:
     reason_code: str
     detail: str
     elapsed_sec: float = 0.0
+    metadata: Optional[dict[str, Any]] = None
 
 
 @dataclass(frozen=True)
@@ -90,6 +94,13 @@ class CryptoExecutionRuntime:
             pass
 
     def _record_leg(self, *, trade_id: str, market_key: str, leg: LegOrderRequest, result: LegExecutionResult) -> None:
+        fill_price = float(leg.price)
+        metadata = dict(result.metadata or {})
+        if "effective_price" in metadata:
+            try:
+                fill_price = float(metadata["effective_price"])
+            except Exception:
+                fill_price = float(leg.price)
         if self.store is not None:
             try:
                 self.store.record_order(
@@ -104,7 +115,12 @@ class CryptoExecutionRuntime:
                     price=leg.price,
                     quantity=leg.quantity,
                     status=result.status,
-                    metadata={"reason_code": result.reason_code, "detail": result.detail, "elapsed_sec": result.elapsed_sec},
+                    metadata={
+                        "reason_code": result.reason_code,
+                        "detail": result.detail,
+                        "elapsed_sec": result.elapsed_sec,
+                        "simulation": metadata,
+                    },
                 )
             except Exception:
                 pass
@@ -116,10 +132,14 @@ class CryptoExecutionRuntime:
                         trade_id=trade_id,
                         market_key=market_key,
                         order_id="",
-                        fill_price=leg.price,
+                        fill_price=fill_price,
                         fill_qty=result.filled_qty,
                         fee=0.0,
-                        metadata={"leg_name": leg.leg_name, "reason_code": result.reason_code},
+                        metadata={
+                            "leg_name": leg.leg_name,
+                            "reason_code": result.reason_code,
+                            "simulation": metadata,
+                        },
                     )
                 except Exception:
                     pass
@@ -138,8 +158,108 @@ class CryptoExecutionRuntime:
                 "reason_code": result.reason_code,
                 "detail": result.detail,
                 "elapsed_sec": result.elapsed_sec,
+                "simulation": metadata,
             },
         )
+
+    @staticmethod
+    def _latency_for_venue_ms(profile: ExecutionProfile, venue: str) -> int:
+        venue_norm = str(venue).strip().lower()
+        if venue_norm == "kalshi":
+            return int(profile.latency_ms_kalshi)
+        return int(profile.latency_ms_poly)
+
+    def build_simulated_leg_executor(
+        self,
+        *,
+        profile: ExecutionProfile,
+        rng: random.Random | None = None,
+        simulate_sleep: bool = False,
+        sleep_fn: Callable[[float], None] | None = None,
+    ) -> Callable[[LegOrderRequest], LegExecutionResult]:
+        local_rng = rng or random.Random()
+        sleeper = sleep_fn or time.sleep
+
+        def _execute_leg(leg: LegOrderRequest) -> LegExecutionResult:
+            latency_ms = self._latency_for_venue_ms(profile, leg.venue)
+            elapsed_sec = max(0.0, float(latency_ms) / 1000.0)
+            if simulate_sleep and elapsed_sec > 0:
+                sleeper(elapsed_sec)
+
+            quantity = max(0.0, float(leg.quantity))
+            if local_rng.random() < float(profile.timeout_prob):
+                return LegExecutionResult(
+                    status=LEG_TIMEOUT,
+                    filled_qty=0.0,
+                    reason_code=LEG_TIMEOUT,
+                    detail="simulated leg timeout",
+                    elapsed_sec=elapsed_sec,
+                    metadata={
+                        "profile_name": profile.name,
+                        "latency_ms": latency_ms,
+                        "effective_price": float(leg.price),
+                        "requested_price": float(leg.price),
+                        "book_haircut_pct": float(profile.book_haircut_pct),
+                        "timed_out": True,
+                    },
+                )
+
+            depth_factor = max(0.0, 1.0 - (float(profile.book_haircut_pct) / 100.0))
+            raw_depth_factor = 0.70 + (1.60 * local_rng.random())
+            raw_depth = quantity * raw_depth_factor
+            effective_depth = raw_depth * depth_factor
+            filled_qty = min(quantity, effective_depth)
+
+            if filled_qty > 0.0 and local_rng.random() < float(profile.partial_fill_prob):
+                partial_factor = 0.35 + (0.5 * local_rng.random())
+                filled_qty = min(filled_qty, quantity * partial_factor)
+
+            adverse_bps = float(profile.adverse_drift_bps) + float(profile.slippage_extra_bps)
+            adverse_multiplier = 1.0 + (adverse_bps / 10000.0)
+            effective_price = float(leg.price) * adverse_multiplier
+
+            if filled_qty + 1e-9 < quantity:
+                return LegExecutionResult(
+                    status=PARTIAL_FILL,
+                    filled_qty=max(0.0, filled_qty),
+                    reason_code=PARTIAL_FILL,
+                    detail="simulated partial fill",
+                    elapsed_sec=elapsed_sec,
+                    metadata={
+                        "profile_name": profile.name,
+                        "latency_ms": latency_ms,
+                        "effective_price": effective_price,
+                        "requested_price": float(leg.price),
+                        "book_haircut_pct": float(profile.book_haircut_pct),
+                        "raw_depth": raw_depth,
+                        "raw_depth_factor": raw_depth_factor,
+                        "adverse_drift_bps": float(profile.adverse_drift_bps),
+                        "slippage_extra_bps": float(profile.slippage_extra_bps),
+                        "timed_out": False,
+                    },
+                )
+
+            return LegExecutionResult(
+                status="filled",
+                filled_qty=quantity,
+                reason_code=ACCEPTED,
+                detail="simulated full fill",
+                elapsed_sec=elapsed_sec,
+                metadata={
+                    "profile_name": profile.name,
+                    "latency_ms": latency_ms,
+                    "effective_price": effective_price,
+                    "requested_price": float(leg.price),
+                    "book_haircut_pct": float(profile.book_haircut_pct),
+                    "raw_depth": raw_depth,
+                    "raw_depth_factor": raw_depth_factor,
+                    "adverse_drift_bps": float(profile.adverse_drift_bps),
+                    "slippage_extra_bps": float(profile.slippage_extra_bps),
+                    "timed_out": False,
+                },
+            )
+
+        return _execute_leg
 
     def execute(
         self,
