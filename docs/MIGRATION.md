@@ -1,4 +1,4 @@
-# Migration Guide (Phase 2)
+# Migration Guide
 
 ## Objective
 Keep legacy commands working while the internal structure migrates to `bot/core` and `scripts/`.
@@ -32,8 +32,8 @@ All of them still work, but may print warnings:
 - `logs/arb_engine/jsonl_log.py` -> `bot/core/storage/jsonl_logger.py`
 - `logs/kalshi_order_client.py` -> `bot/core/execution/kalshi_client.py`
 
-## Planned next step
-Phase 4.x focuses on domain split hardening and safer runtime execution guards.
+## Operational Status
+Domain split and crypto runtime hardening are active in phase 4.x.
 
 ## Quality gate commands (Phase 3)
 - `make compile`
@@ -45,3 +45,10 @@ If `make` is not available, run:
 - or run commands directly:
   - `python -m compileall -q bot scripts tests logs/arb_engine logs/run_arb_dry_run.py logs/live_direct_arb.py logs/analyze_arb.py`
   - `python -m pytest -q`
+
+## Quando Usar Cada CLI
+| Situacao | CLI recomendado | Observacao |
+|---|---|---|
+| Validar configuracao e risco de crypto | `python scripts/crypto_cli.py ...` | Principal para BTC up/down |
+| Validar configuracao e escopo sports | `python scripts/sports_cli.py ...` | Principal para dominio sports |
+| Compatibilidade com comando antigo | `python scripts/arb_cli.py ...` | Wrapper legado com warning deprecado |
