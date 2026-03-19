@@ -26,3 +26,14 @@ All of them still work, but may print warnings:
 
 ## Planned next step
 In Phase 3, tests and smoke tests will be standardized around the new entrypoint and legacy wrappers.
+
+## Quality gate commands (Phase 3)
+- `make compile`
+- `make test`
+- `make check`
+
+If `make` is not available, run:
+- `python scripts/quality_gate.py check`
+- or run commands directly:
+  - `python -m compileall -q bot scripts tests logs/arb_engine logs/run_arb_dry_run.py logs/live_direct_arb.py logs/analyze_arb.py`
+  - `python -m pytest -q`

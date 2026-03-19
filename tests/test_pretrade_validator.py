@@ -54,3 +54,19 @@ def test_pretrade_rejects_low_liquidity():
     decision = validate_pretrade(req)
     assert decision.ok is False
     assert decision.reason_code == "insufficient_liquidity"
+
+
+def test_pretrade_rejects_market_key_mismatch():
+    req = _base_req()
+    req = PreTradeRequest(**{**req.__dict__, "market_key_p": "BTC15M_2026-03-19T12:30:00Z"})
+    decision = validate_pretrade(req)
+    assert decision.ok is False
+    assert decision.reason_code == "invalid_market_mismatch"
+
+
+def test_pretrade_rejects_edge_below_minimum():
+    req = _base_req()
+    req = PreTradeRequest(**{**req.__dict__, "min_edge_pct": 50.0})
+    decision = validate_pretrade(req)
+    assert decision.ok is False
+    assert decision.reason_code == "below_min_edge"

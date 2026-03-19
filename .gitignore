@@ -5,6 +5,8 @@ node_modules/
 __pycache__/
 *.py[cod]
 .pytest_cache/
+.coverage
+htmlcov/
 
 # Secrets and local env
 .env

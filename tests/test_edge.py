@@ -45,3 +45,15 @@ def test_edge_rejects_negative_inputs():
                 custo_leg_risk=0.0,
             )
         )
+
+
+def test_edge_rejects_negative_leg_prices():
+    with pytest.raises(ValueError):
+        calculate_edge_from_legs(
+            kalshi_leg_price=-0.01,
+            poly_leg_price=0.5,
+            fee_kalshi_bps=0.0,
+            fee_poly_bps=25.0,
+            slippage_expected_bps=0.0,
+            custo_leg_risk=0.0,
+        )
