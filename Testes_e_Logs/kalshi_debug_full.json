@@ -1,0 +1,730 @@
+{
+  "cursor": "CgwI_9-AzQYQgKutggISOUtYTVZFU1BPUlRTTVVMVElHQU1FRVhURU5ERUQtUzIwMjZFNDkzQTRFOEY5OS02NDM5NDMwRTVCQQ",
+  "markets": [
+    {
+      "can_close_early": true,
+      "close_time": "2026-03-13T00:00:00Z",
+      "created_time": "2026-02-26T11:35:29.041177Z",
+      "custom_strike": {
+        "Associated Events": "KXNBAPTS-26FEB26CHAIND,KXNBAPTS-26FEB26CHAIND,KXNBAPTS-26FEB26CHAIND,KXNBAPTS-26FEB26HOUORL,KXNBAPTS-26FEB26HOUORL,KXNBAPTS-26FEB26LALPHX,KXNBAPTS-26FEB26LALPHX,KXNBAPTS-26FEB26LALPHX,KXNBAPTS-26FEB26LALPHX,KXNBAPTS-26FEB26MIAPHI,KXNBAPTS-26FEB26MIAPHI,KXNBAPTS-26FEB26MINLAC,KXNBAPTS-26FEB26MINLAC,KXNBAPTS-26FEB26PORCHI,KXNBAPTS-26FEB26SACDAL,KXNBAPTS-26FEB26SASBKN,KXNBAPTS-26FEB26SASBKN,KXNBAPTS-26FEB26WASATL,KXNBAPTS-26FEB26WASATL,KXNBAREB-26FEB26MIAPHI",
+        "Associated Market Sides": "yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes",
+        "Associated Markets": "KXNBAPTS-26FEB26CHAIND-CHAKKNUEPPEL7-10,KXNBAPTS-26FEB26CHAIND-CHALBALL1-10,KXNBAPTS-26FEB26CHAIND-INDJWALKER5-10,KXNBAPTS-26FEB26HOUORL-ORLDBANE3-10,KXNBAPTS-26FEB26HOUORL-ORLPBANCHERO5-15,KXNBAPTS-26FEB26LALPHX-LALAREAVES15-15,KXNBAPTS-26FEB26LALPHX-LALLDONCIC77-20,KXNBAPTS-26FEB26LALPHX-PHXGALLEN8-10,KXNBAPTS-26FEB26LALPHX-PHXJGREEN4-15,KXNBAPTS-26FEB26MIAPHI-MIABADEBAYO13-10,KXNBAPTS-26FEB26MIAPHI-PHIVEDGECOMBE77-10,KXNBAPTS-26FEB26MINLAC-LACBMATHURIN9-10,KXNBAPTS-26FEB26MINLAC-LACKLEONARD2-20,KXNBAPTS-26FEB26PORCHI-PORDCLINGAN23-10,KXNBAPTS-26FEB26SACDAL-SACDDEROZAN10-10,KXNBAPTS-26FEB26SASBKN-SASDFOX4-10,KXNBAPTS-26FEB26SASBKN-SASSCASTLE5-10,KXNBAPTS-26FEB26WASATL-ATLNALEXANDERWALKER7-10,KXNBAPTS-26FEB26WASATL-WASKGEORGE18-10,KXNBAREB-26FEB26MIAPHI-MIAAWIGGINS22-2",
+        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R"
+      },
+      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20264ED114229DD",
+      "expected_expiration_time": "2026-02-27T06:00:00Z",
+      "expiration_time": "2026-03-13T00:00:00Z",
+      "expiration_value": "",
+      "fractional_trading_enabled": false,
+      "is_provisional": true,
+      "last_price": 0,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-03-13T00:00:00Z",
+      "liquidity": 0,
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
+      "mve_selected_legs": [
+        {
+          "event_ticker": "KXNBAPTS-26FEB26CHAIND",
+          "market_ticker": "KXNBAPTS-26FEB26CHAIND-CHAKKNUEPPEL7-10",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAPTS-26FEB26CHAIND",
+          "market_ticker": "KXNBAPTS-26FEB26CHAIND-CHALBALL1-10",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAPTS-26FEB26CHAIND",
+          "market_ticker": "KXNBAPTS-26FEB26CHAIND-INDJWALKER5-10",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAPTS-26FEB26HOUORL",
+          "market_ticker": "KXNBAPTS-26FEB26HOUORL-ORLDBANE3-10",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAPTS-26FEB26HOUORL",
+          "market_ticker": "KXNBAPTS-26FEB26HOUORL-ORLPBANCHERO5-15",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAPTS-26FEB26LALPHX",
+          "market_ticker": "KXNBAPTS-26FEB26LALPHX-LALAREAVES15-15",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAPTS-26FEB26LALPHX",
+          "market_ticker": "KXNBAPTS-26FEB26LALPHX-LALLDONCIC77-20",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAPTS-26FEB26LALPHX",
+          "market_ticker": "KXNBAPTS-26FEB26LALPHX-PHXGALLEN8-10",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAPTS-26FEB26LALPHX",
+          "market_ticker": "KXNBAPTS-26FEB26LALPHX-PHXJGREEN4-15",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAPTS-26FEB26MIAPHI",
+          "market_ticker": "KXNBAPTS-26FEB26MIAPHI-MIABADEBAYO13-10",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAPTS-26FEB26MIAPHI",
+          "market_ticker": "KXNBAPTS-26FEB26MIAPHI-PHIVEDGECOMBE77-10",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAPTS-26FEB26MINLAC",
+          "market_ticker": "KXNBAPTS-26FEB26MINLAC-LACBMATHURIN9-10",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAPTS-26FEB26MINLAC",
+          "market_ticker": "KXNBAPTS-26FEB26MINLAC-LACKLEONARD2-20",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAPTS-26FEB26PORCHI",
+          "market_ticker": "KXNBAPTS-26FEB26PORCHI-PORDCLINGAN23-10",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAPTS-26FEB26SACDAL",
+          "market_ticker": "KXNBAPTS-26FEB26SACDAL-SACDDEROZAN10-10",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAPTS-26FEB26SASBKN",
+          "market_ticker": "KXNBAPTS-26FEB26SASBKN-SASDFOX4-10",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAPTS-26FEB26SASBKN",
+          "market_ticker": "KXNBAPTS-26FEB26SASBKN-SASSCASTLE5-10",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAPTS-26FEB26WASATL",
+          "market_ticker": "KXNBAPTS-26FEB26WASATL-ATLNALEXANDERWALKER7-10",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAPTS-26FEB26WASATL",
+          "market_ticker": "KXNBAPTS-26FEB26WASATL-WASKGEORGE18-10",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAREB-26FEB26MIAPHI",
+          "market_ticker": "KXNBAREB-26FEB26MIAPHI-MIAAWIGGINS22-2",
+          "side": "yes"
+        }
+      ],
+      "no_ask": 100,
+      "no_ask_dollars": "1.0000",
+      "no_bid": 92,
+      "no_bid_dollars": "0.9200",
+      "no_sub_title": "yes Kon Knueppel: 10+,yes LaMelo Ball: 10+,yes Jarace Walker: 10+,yes Desmond Bane: 10+,yes Paolo Banchero: 15+,yes Austin Reaves: 15+,yes Luka Don\u010di\u0107: 20+,yes Grayson Allen: 10+,yes Jalen Green: 15+,yes Bam Adebayo: 10+,yes VJ Edgecombe: 10+,yes Bennedict Mathurin: 10+,yes Kawhi Leonard: 20+,yes Donovan Clingan: 10+,yes DeMar DeRozan: 10+,yes De'Aaron Fox: 10+,yes Stephon Castle: 10+,yes Nickeil Alexander-Walker: 10+,yes Kyshawn George: 10+,yes Andrew Wiggins: 2+",
+      "notional_value": 100,
+      "notional_value_dollars": "1.0000",
+      "open_interest": 0,
+      "open_interest_fp": "0.00",
+      "open_time": "2026-02-26T11:35:29.016812Z",
+      "previous_price": 0,
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask": 0,
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid": 0,
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "deci_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0010"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "",
+      "rules_secondary": "",
+      "settlement_timer_seconds": 5,
+      "status": "active",
+      "strike_type": "custom",
+      "subtitle": "",
+      "tick_size": 1,
+      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20264ED114229DD-4969F09EEB6",
+      "title": "yes Kon Knueppel: 10+,yes LaMelo Ball: 10+,yes Jarace Walker: 10+,yes Desmond Bane: 10+,yes Paolo Banchero: 15+,yes Austin Reaves: 15+,yes Luka Don\u010di\u0107: 20+,yes Grayson Allen: 10+,yes Jalen Green: 15+,yes Bam Adebayo: 10+,yes VJ Edgecombe: 10+,yes Bennedict Mathurin: 10+,yes Kawhi Leonard: 20+,yes Donovan Clingan: 10+,yes DeMar DeRozan: 10+,yes De'Aaron Fox: 10+,yes Stephon Castle: 10+,yes Nickeil Alexander-Walker: 10+,yes Kyshawn George: 10+,yes Andrew Wiggins: 2+",
+      "updated_time": "2026-02-26T11:35:29.300773Z",
+      "volume": 0,
+      "volume_24h": 0,
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask": 8,
+      "yes_ask_dollars": "0.0800",
+      "yes_bid": 0,
+      "yes_bid_dollars": "0.0000",
+      "yes_sub_title": "yes Kon Knueppel: 10+,yes LaMelo Ball: 10+,yes Jarace Walker: 10+,yes Desmond Bane: 10+,yes Paolo Banchero: 15+,yes Austin Reaves: 15+,yes Luka Don\u010di\u0107: 20+,yes Grayson Allen: 10+,yes Jalen Green: 15+,yes Bam Adebayo: 10+,yes VJ Edgecombe: 10+,yes Bennedict Mathurin: 10+,yes Kawhi Leonard: 20+,yes Donovan Clingan: 10+,yes DeMar DeRozan: 10+,yes De'Aaron Fox: 10+,yes Stephon Castle: 10+,yes Nickeil Alexander-Walker: 10+,yes Kyshawn George: 10+,yes Andrew Wiggins: 2+"
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-03-13T00:00:00Z",
+      "created_time": "2026-02-26T11:35:29.021976Z",
+      "custom_strike": {
+        "Associated Events": "KXNCAAMBGAME-26FEB26SCUSRAD,KXNCAAMBGAME-26FEB26UNCAWEBB",
+        "Associated Market Sides": "yes,yes",
+        "Associated Markets": "KXNCAAMBGAME-26FEB26SCUSRAD-RAD,KXNCAAMBGAME-26FEB26UNCAWEBB-UNCA",
+        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R"
+      },
+      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20267743F05E57D",
+      "expected_expiration_time": "2026-02-27T03:00:00Z",
+      "expiration_time": "2026-03-13T00:00:00Z",
+      "expiration_value": "",
+      "fractional_trading_enabled": false,
+      "is_provisional": true,
+      "last_price": 0,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-03-13T00:00:00Z",
+      "liquidity": 0,
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
+      "mve_selected_legs": [
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26SCUSRAD",
+          "market_ticker": "KXNCAAMBGAME-26FEB26SCUSRAD-RAD",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26UNCAWEBB",
+          "market_ticker": "KXNCAAMBGAME-26FEB26UNCAWEBB-UNCA",
+          "side": "yes"
+        }
+      ],
+      "no_ask": 100,
+      "no_ask_dollars": "1.0000",
+      "no_bid": 100,
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "yes Radford,yes UNC Asheville",
+      "notional_value": 100,
+      "notional_value_dollars": "1.0000",
+      "open_interest": 0,
+      "open_interest_fp": "0.00",
+      "open_time": "2026-02-26T11:35:28.995971Z",
+      "previous_price": 0,
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask": 0,
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid": 0,
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "deci_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0010"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "",
+      "rules_secondary": "",
+      "settlement_timer_seconds": 5,
+      "status": "active",
+      "strike_type": "custom",
+      "subtitle": "",
+      "tick_size": 1,
+      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20267743F05E57D-1B8A678C811",
+      "title": "yes Radford,yes UNC Asheville",
+      "updated_time": "2026-02-26T11:35:29.300773Z",
+      "volume": 0,
+      "volume_24h": 0,
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask": 0,
+      "yes_ask_dollars": "0.0000",
+      "yes_bid": 0,
+      "yes_bid_dollars": "0.0000",
+      "yes_sub_title": "yes Radford,yes UNC Asheville"
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-03-13T00:00:00Z",
+      "created_time": "2026-02-26T11:35:28.905522Z",
+      "custom_strike": {
+        "Associated Events": "KXNBA3PT-26FEB26CHAIND,KXNBAAST-26FEB26HOUORL,KXNBAAST-26FEB26HOUORL,KXNBAAST-26FEB26HOUORL,KXNBAGAME-26FEB26CHAIND,KXNBAGAME-26FEB26HOUORL,KXNBAGAME-26FEB26LALPHX,KXNBAGAME-26FEB26MIAPHI,KXNBAGAME-26FEB26MINLAC,KXNBAGAME-26FEB26NOPUTA,KXNBAGAME-26FEB26PORCHI,KXNBAGAME-26FEB26SACDAL,KXNBAGAME-26FEB26SASBKN,KXNBAGAME-26FEB26WASATL,KXNBAREB-26FEB26HOUORL,KXNCAAMBGAME-26FEB26BRYUMBC,KXNCAAMBGAME-26FEB26CHSLIU,KXNCAAMBGAME-26FEB26DELJVST,KXNCAAMBGAME-26FEB26ELONTOWS,KXNCAAMBGAME-26FEB26FGCUUNF,KXNCAAMBGAME-26FEB26HPPRE,KXNCAAMBGAME-26FEB26MASSLUVM,KXNCAAMBGAME-26FEB26MEALBY,KXNCAAMBGAME-26FEB26NCATUNCW,KXNCAAMBGAME-26FEB26NEWM,KXNCAAMBGAME-26FEB26SCUSRAD,KXNCAAMBGAME-26FEB26SFPASTNH,KXNCAAMBGAME-26FEB26UNCAWEBB,KXNCAAMBGAME-26FEB26WINCHSO",
+        "Associated Market Sides": "yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes",
+        "Associated Markets": "KXNBA3PT-26FEB26CHAIND-CHAKKNUEPPEL7-2,KXNBAAST-26FEB26HOUORL-HOUKDURANT7-2,KXNBAAST-26FEB26HOUORL-ORLABLACK0-2,KXNBAAST-26FEB26HOUORL-ORLPBANCHERO5-4,KXNBAGAME-26FEB26CHAIND-CHA,KXNBAGAME-26FEB26HOUORL-HOU,KXNBAGAME-26FEB26LALPHX-LAL,KXNBAGAME-26FEB26MIAPHI-PHI,KXNBAGAME-26FEB26MINLAC-MIN,KXNBAGAME-26FEB26NOPUTA-NOP,KXNBAGAME-26FEB26PORCHI-POR,KXNBAGAME-26FEB26SACDAL-DAL,KXNBAGAME-26FEB26SASBKN-SAS,KXNBAGAME-26FEB26WASATL-ATL,KXNBAREB-26FEB26HOUORL-ORLPBANCHERO5-4,KXNCAAMBGAME-26FEB26BRYUMBC-UMBC,KXNCAAMBGAME-26FEB26CHSLIU-LIU,KXNCAAMBGAME-26FEB26DELJVST-JVST,KXNCAAMBGAME-26FEB26ELONTOWS-TOWS,KXNCAAMBGAME-26FEB26FGCUUNF-FGCU,KXNCAAMBGAME-26FEB26HPPRE-HP,KXNCAAMBGAME-26FEB26MASSLUVM-UVM,KXNCAAMBGAME-26FEB26MEALBY-ALBY,KXNCAAMBGAME-26FEB26NCATUNCW-UNCW,KXNCAAMBGAME-26FEB26NEWM-WM,KXNCAAMBGAME-26FEB26SCUSRAD-RAD,KXNCAAMBGAME-26FEB26SFPASTNH-STNH,KXNCAAMBGAME-26FEB26UNCAWEBB-UNCA,KXNCAAMBGAME-26FEB26WINCHSO-WIN",
+        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R"
+      },
+      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026228982BB682",
+      "expected_expiration_time": "2026-02-27T06:00:00Z",
+      "expiration_time": "2026-03-13T00:00:00Z",
+      "expiration_value": "",
+      "fractional_trading_enabled": false,
+      "is_provisional": true,
+      "last_price": 0,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-03-13T00:00:00Z",
+      "liquidity": 0,
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
+      "mve_selected_legs": [
+        {
+          "event_ticker": "KXNBA3PT-26FEB26CHAIND",
+          "market_ticker": "KXNBA3PT-26FEB26CHAIND-CHAKKNUEPPEL7-2",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAAST-26FEB26HOUORL",
+          "market_ticker": "KXNBAAST-26FEB26HOUORL-HOUKDURANT7-2",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAAST-26FEB26HOUORL",
+          "market_ticker": "KXNBAAST-26FEB26HOUORL-ORLABLACK0-2",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAAST-26FEB26HOUORL",
+          "market_ticker": "KXNBAAST-26FEB26HOUORL-ORLPBANCHERO5-4",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAGAME-26FEB26CHAIND",
+          "market_ticker": "KXNBAGAME-26FEB26CHAIND-CHA",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAGAME-26FEB26HOUORL",
+          "market_ticker": "KXNBAGAME-26FEB26HOUORL-HOU",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAGAME-26FEB26LALPHX",
+          "market_ticker": "KXNBAGAME-26FEB26LALPHX-LAL",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAGAME-26FEB26MIAPHI",
+          "market_ticker": "KXNBAGAME-26FEB26MIAPHI-PHI",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAGAME-26FEB26MINLAC",
+          "market_ticker": "KXNBAGAME-26FEB26MINLAC-MIN",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAGAME-26FEB26NOPUTA",
+          "market_ticker": "KXNBAGAME-26FEB26NOPUTA-NOP",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAGAME-26FEB26PORCHI",
+          "market_ticker": "KXNBAGAME-26FEB26PORCHI-POR",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAGAME-26FEB26SACDAL",
+          "market_ticker": "KXNBAGAME-26FEB26SACDAL-DAL",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAGAME-26FEB26SASBKN",
+          "market_ticker": "KXNBAGAME-26FEB26SASBKN-SAS",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAGAME-26FEB26WASATL",
+          "market_ticker": "KXNBAGAME-26FEB26WASATL-ATL",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAREB-26FEB26HOUORL",
+          "market_ticker": "KXNBAREB-26FEB26HOUORL-ORLPBANCHERO5-4",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26BRYUMBC",
+          "market_ticker": "KXNCAAMBGAME-26FEB26BRYUMBC-UMBC",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26CHSLIU",
+          "market_ticker": "KXNCAAMBGAME-26FEB26CHSLIU-LIU",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26DELJVST",
+          "market_ticker": "KXNCAAMBGAME-26FEB26DELJVST-JVST",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26ELONTOWS",
+          "market_ticker": "KXNCAAMBGAME-26FEB26ELONTOWS-TOWS",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26FGCUUNF",
+          "market_ticker": "KXNCAAMBGAME-26FEB26FGCUUNF-FGCU",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26HPPRE",
+          "market_ticker": "KXNCAAMBGAME-26FEB26HPPRE-HP",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26MASSLUVM",
+          "market_ticker": "KXNCAAMBGAME-26FEB26MASSLUVM-UVM",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26MEALBY",
+          "market_ticker": "KXNCAAMBGAME-26FEB26MEALBY-ALBY",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26NCATUNCW",
+          "market_ticker": "KXNCAAMBGAME-26FEB26NCATUNCW-UNCW",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26NEWM",
+          "market_ticker": "KXNCAAMBGAME-26FEB26NEWM-WM",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26SCUSRAD",
+          "market_ticker": "KXNCAAMBGAME-26FEB26SCUSRAD-RAD",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26SFPASTNH",
+          "market_ticker": "KXNCAAMBGAME-26FEB26SFPASTNH-STNH",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26UNCAWEBB",
+          "market_ticker": "KXNCAAMBGAME-26FEB26UNCAWEBB-UNCA",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26WINCHSO",
+          "market_ticker": "KXNCAAMBGAME-26FEB26WINCHSO-WIN",
+          "side": "yes"
+        }
+      ],
+      "no_ask": 100,
+      "no_ask_dollars": "1.0000",
+      "no_bid": 100,
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "yes Kon Knueppel: 2+,yes Kevin Durant: 2+,yes Anthony Black: 2+,yes Paolo Banchero: 4+,yes Charlotte,yes Houston,yes Los Angeles L,yes Philadelphia,yes Minnesota,yes New Orleans,yes Portland,yes Dallas,yes San Antonio,yes Atlanta,yes Paolo Banchero: 4+,yes UMBC,yes LIU,yes Jacksonville St.,yes Towson,yes Florida Gulf Coast,yes High Point,yes Vermont,yes University at Albany,yes UNC Wilmington,yes William & Mary,yes Radford,yes Stonehill,yes UNC Asheville,yes Winthrop",
+      "notional_value": 100,
+      "notional_value_dollars": "1.0000",
+      "open_interest": 0,
+      "open_interest_fp": "0.00",
+      "open_time": "2026-02-26T11:35:28.872632Z",
+      "previous_price": 0,
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask": 0,
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid": 0,
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "deci_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0010"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "",
+      "rules_secondary": "",
+      "settlement_timer_seconds": 5,
+      "status": "active",
+      "strike_type": "custom",
+      "subtitle": "",
+      "tick_size": 1,
+      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026228982BB682-661DB9E41FD",
+      "title": "yes Kon Knueppel: 2+,yes Kevin Durant: 2+,yes Anthony Black: 2+,yes Paolo Banchero: 4+,yes Charlotte,yes Houston,yes Los Angeles L,yes Philadelphia,yes Minnesota,yes New Orleans,yes Portland,yes Dallas,yes San Antonio,yes Atlanta,yes Paolo Banchero: 4+,yes UMBC,yes LIU,yes Jacksonville St.,yes Towson,yes Florida Gulf Coast,yes High Point,yes Vermont,yes University at Albany,yes UNC Wilmington,yes William & Mary,yes Radford,yes Stonehill,yes UNC Asheville,yes Winthrop",
+      "updated_time": "2026-02-26T11:35:29.300773Z",
+      "volume": 0,
+      "volume_24h": 0,
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask": 0,
+      "yes_ask_dollars": "0.0000",
+      "yes_bid": 0,
+      "yes_bid_dollars": "0.0000",
+      "yes_sub_title": "yes Kon Knueppel: 2+,yes Kevin Durant: 2+,yes Anthony Black: 2+,yes Paolo Banchero: 4+,yes Charlotte,yes Houston,yes Los Angeles L,yes Philadelphia,yes Minnesota,yes New Orleans,yes Portland,yes Dallas,yes San Antonio,yes Atlanta,yes Paolo Banchero: 4+,yes UMBC,yes LIU,yes Jacksonville St.,yes Towson,yes Florida Gulf Coast,yes High Point,yes Vermont,yes University at Albany,yes UNC Wilmington,yes William & Mary,yes Radford,yes Stonehill,yes UNC Asheville,yes Winthrop"
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-03-13T00:30:00Z",
+      "created_time": "2026-02-26T11:35:28.484138Z",
+      "custom_strike": {
+        "Associated Events": "KXNBA3PT-26FEB26SASBKN,KXNBAAST-26FEB26HOUORL,KXNBAAST-26FEB26PORCHI,KXNBAAST-26FEB26SASBKN,KXNBAGAME-26FEB26MIAPHI,KXNBASPREAD-26FEB26CHAIND,KXNBASPREAD-26FEB26PORCHI,KXNBASPREAD-26FEB26WASATL,KXNBATOTAL-26FEB26HOUORL,KXNBATOTAL-26FEB26SASBKN",
+        "Associated Market Sides": "yes,yes,yes,yes,yes,yes,no,yes,yes,yes",
+        "Associated Markets": "KXNBA3PT-26FEB26SASBKN-BKNMPORTER17-4,KXNBAAST-26FEB26HOUORL-HOUASENGUN28-7,KXNBAAST-26FEB26PORCHI-CHIJGIDDEY3-4,KXNBAAST-26FEB26SASBKN-SASSCASTLE5-7,KXNBAGAME-26FEB26MIAPHI-MIA,KXNBASPREAD-26FEB26CHAIND-CHA3,KXNBASPREAD-26FEB26PORCHI-POR3,KXNBASPREAD-26FEB26WASATL-ATL2,KXNBATOTAL-26FEB26HOUORL-215,KXNBATOTAL-26FEB26SASBKN-212",
+        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R"
+      },
+      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20267E7215CEF0C",
+      "expected_expiration_time": "2026-02-27T04:00:00Z",
+      "expiration_time": "2026-03-13T00:30:00Z",
+      "expiration_value": "",
+      "fractional_trading_enabled": false,
+      "is_provisional": true,
+      "last_price": 0,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-03-13T00:30:00Z",
+      "liquidity": 0,
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
+      "mve_selected_legs": [
+        {
+          "event_ticker": "KXNBA3PT-26FEB26SASBKN",
+          "market_ticker": "KXNBA3PT-26FEB26SASBKN-BKNMPORTER17-4",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAAST-26FEB26HOUORL",
+          "market_ticker": "KXNBAAST-26FEB26HOUORL-HOUASENGUN28-7",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAAST-26FEB26PORCHI",
+          "market_ticker": "KXNBAAST-26FEB26PORCHI-CHIJGIDDEY3-4",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAAST-26FEB26SASBKN",
+          "market_ticker": "KXNBAAST-26FEB26SASBKN-SASSCASTLE5-7",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBAGAME-26FEB26MIAPHI",
+          "market_ticker": "KXNBAGAME-26FEB26MIAPHI-MIA",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBASPREAD-26FEB26CHAIND",
+          "market_ticker": "KXNBASPREAD-26FEB26CHAIND-CHA3",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBASPREAD-26FEB26PORCHI",
+          "market_ticker": "KXNBASPREAD-26FEB26PORCHI-POR3",
+          "side": "no"
+        },
+        {
+          "event_ticker": "KXNBASPREAD-26FEB26WASATL",
+          "market_ticker": "KXNBASPREAD-26FEB26WASATL-ATL2",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBATOTAL-26FEB26HOUORL",
+          "market_ticker": "KXNBATOTAL-26FEB26HOUORL-215",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNBATOTAL-26FEB26SASBKN",
+          "market_ticker": "KXNBATOTAL-26FEB26SASBKN-212",
+          "side": "yes"
+        }
+      ],
+      "no_ask": 100,
+      "no_ask_dollars": "1.0000",
+      "no_bid": 100,
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "yes Michael Porter Jr.: 4+,yes Alperen Sengun: 7+,yes Josh Giddey: 4+,yes Stephon Castle: 7+,yes Miami,yes Charlotte wins by over 3.5 Points,no Portland wins by over 3.5 Points,yes Atlanta wins by over 2.5 Points,yes Over 215.5 points scored,yes Over 212.5 points scored",
+      "notional_value": 100,
+      "notional_value_dollars": "1.0000",
+      "open_interest": 0,
+      "open_interest_fp": "0.00",
+      "open_time": "2026-02-26T11:35:28.460793Z",
+      "previous_price": 0,
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask": 0,
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid": 0,
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "deci_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0010"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "",
+      "rules_secondary": "",
+      "settlement_timer_seconds": 5,
+      "status": "active",
+      "strike_type": "custom",
+      "subtitle": "",
+      "tick_size": 1,
+      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20267E7215CEF0C-CA01880BE69",
+      "title": "yes Michael Porter Jr.: 4+,yes Alperen Sengun: 7+,yes Josh Giddey: 4+,yes Stephon Castle: 7+,yes Miami,yes Charlotte wins by over 3.5 Points,no Portland wins by over 3.5 Points,yes Atlanta wins by over 2.5 Points,yes Over 215.5 points scored,yes Over 212.5 points scored",
+      "updated_time": "2026-02-26T11:35:29.300773Z",
+      "volume": 0,
+      "volume_24h": 0,
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask": 0,
+      "yes_ask_dollars": "0.0000",
+      "yes_bid": 0,
+      "yes_bid_dollars": "0.0000",
+      "yes_sub_title": "yes Michael Porter Jr.: 4+,yes Alperen Sengun: 7+,yes Josh Giddey: 4+,yes Stephon Castle: 7+,yes Miami,yes Charlotte wins by over 3.5 Points,no Portland wins by over 3.5 Points,yes Atlanta wins by over 2.5 Points,yes Over 215.5 points scored,yes Over 212.5 points scored"
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-03-13T01:00:00Z",
+      "created_time": "2026-02-26T11:35:27.541808Z",
+      "custom_strike": {
+        "Associated Events": "KXNCAAMBGAME-26FEB26ALCNTXSO,KXNCAAMBGAME-26FEB26BRYUMBC,KXNCAAMBGAME-26FEB26CHSLIU,KXNCAAMBGAME-26FEB26CSBUCSD,KXNCAAMBGAME-26FEB26DELJVST,KXNCAAMBGAME-26FEB26MASSLUVM,KXNCAAMBGAME-26FEB26NAUIDHO,KXNCAAMBGAME-26FEB26NEWM,KXNCAAMBGAME-26FEB26SDSTUMKC,KXNCAAMBGAME-26FEB26TARLUVU,KXNCAAMBGAME-26FEB26UCRVUCSB,KXNCAAMBGAME-26FEB26UNCAWEBB,KXNCAAMBGAME-26FEB26UTACBU",
+        "Associated Market Sides": "yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes",
+        "Associated Markets": "KXNCAAMBGAME-26FEB26ALCNTXSO-TXSO,KXNCAAMBGAME-26FEB26BRYUMBC-UMBC,KXNCAAMBGAME-26FEB26CHSLIU-LIU,KXNCAAMBGAME-26FEB26CSBUCSD-UCSD,KXNCAAMBGAME-26FEB26DELJVST-JVST,KXNCAAMBGAME-26FEB26MASSLUVM-UVM,KXNCAAMBGAME-26FEB26NAUIDHO-IDHO,KXNCAAMBGAME-26FEB26NEWM-WM,KXNCAAMBGAME-26FEB26SDSTUMKC-SDST,KXNCAAMBGAME-26FEB26TARLUVU-UVU,KXNCAAMBGAME-26FEB26UCRVUCSB-UCSB,KXNCAAMBGAME-26FEB26UNCAWEBB-UNCA,KXNCAAMBGAME-26FEB26UTACBU-CBU",
+        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R"
+      },
+      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026E493A4E8F99",
+      "expected_expiration_time": "2026-02-27T06:00:00Z",
+      "expiration_time": "2026-03-13T01:00:00Z",
+      "expiration_value": "",
+      "fractional_trading_enabled": false,
+      "is_provisional": true,
+      "last_price": 0,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-03-13T01:00:00Z",
+      "liquidity": 0,
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
+      "mve_selected_legs": [
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26ALCNTXSO",
+          "market_ticker": "KXNCAAMBGAME-26FEB26ALCNTXSO-TXSO",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26BRYUMBC",
+          "market_ticker": "KXNCAAMBGAME-26FEB26BRYUMBC-UMBC",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26CHSLIU",
+          "market_ticker": "KXNCAAMBGAME-26FEB26CHSLIU-LIU",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26CSBUCSD",
+          "market_ticker": "KXNCAAMBGAME-26FEB26CSBUCSD-UCSD",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26DELJVST",
+          "market_ticker": "KXNCAAMBGAME-26FEB26DELJVST-JVST",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26MASSLUVM",
+          "market_ticker": "KXNCAAMBGAME-26FEB26MASSLUVM-UVM",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26NAUIDHO",
+          "market_ticker": "KXNCAAMBGAME-26FEB26NAUIDHO-IDHO",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26NEWM",
+          "market_ticker": "KXNCAAMBGAME-26FEB26NEWM-WM",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26SDSTUMKC",
+          "market_ticker": "KXNCAAMBGAME-26FEB26SDSTUMKC-SDST",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26TARLUVU",
+          "market_ticker": "KXNCAAMBGAME-26FEB26TARLUVU-UVU",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26UCRVUCSB",
+          "market_ticker": "KXNCAAMBGAME-26FEB26UCRVUCSB-UCSB",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26UNCAWEBB",
+          "market_ticker": "KXNCAAMBGAME-26FEB26UNCAWEBB-UNCA",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNCAAMBGAME-26FEB26UTACBU",
+          "market_ticker": "KXNCAAMBGAME-26FEB26UTACBU-CBU",
+          "side": "yes"
+        }
+      ],
+      "no_ask": 100,
+      "no_ask_dollars": "1.0000",
+      "no_bid": 86,
+      "no_bid_dollars": "0.8600",
+      "no_sub_title": "yes Texas Southern,yes UMBC,yes LIU,yes UC San Diego,yes Jacksonville St.,yes Vermont,yes Idaho,yes William & Mary,yes South Dakota St.,yes Utah Valley,yes UC Santa Barbara,yes UNC Asheville,yes California Baptist",
+      "notional_value": 100,
+      "notional_value_dollars": "1.0000",
+      "open_interest": 0,
+      "open_interest_fp": "0.00",
+      "open_time": "2026-02-26T11:35:27.522249Z",
+      "previous_price": 0,
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask": 0,
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid": 0,
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "deci_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0010"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "",
+      "rules_secondary": "",
+      "settlement_timer_seconds": 5,
+      "status": "active",
+      "strike_type": "custom",
+      "subtitle": "",
+      "tick_size": 1,
+      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026E493A4E8F99-6439430E5BA",
+      "title": "yes Texas Southern,yes UMBC,yes LIU,yes UC San Diego,yes Jacksonville St.,yes Vermont,yes Idaho,yes William & Mary,yes South Dakota St.,yes Utah Valley,yes UC Santa Barbara,yes UNC Asheville,yes California Baptist",
+      "updated_time": "2026-02-26T11:35:28.300991Z",
+      "volume": 0,
+      "volume_24h": 0,
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask": 14,
+      "yes_ask_dollars": "0.1400",
+      "yes_bid": 0,
+      "yes_bid_dollars": "0.0000",
+      "yes_sub_title": "yes Texas Southern,yes UMBC,yes LIU,yes UC San Diego,yes Jacksonville St.,yes Vermont,yes Idaho,yes William & Mary,yes South Dakota St.,yes Utah Valley,yes UC Santa Barbara,yes UNC Asheville,yes California Baptist"
+    }
+  ]
+}

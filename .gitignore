@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Secrets and local env
+.env
+.env.*
+!.env.arb.example
+!.env.claim.example
+
+# Private keys / credentials files
+*.pem
+*.key
+Bot_Principal/kalshi-key.pem.txt
+
+# Generated logs and artifacts
+.tmp_mcp_polymarket/
+Bot_Principal/arbitrage_report_*.txt
+logs/*.csv
+logs/*.txt
+logs/*.sqlite
+logs/*.jsonl
+logs/fault_injection/
+logs/__pycache__/
+logs/_tmp_*
+live_orders_audit.csv
+mm_dryrun_log.csv
+
+# Archives
+*.zip

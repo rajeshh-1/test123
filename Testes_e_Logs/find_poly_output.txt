@@ -1,0 +1,41 @@
+﻿=== Tentando slugs diretos no Polymarket ===
+
+  [404] lol-drx-challengers-kt-rolster-challengers-2026-02-26
+  [404] lol-drx-challengers-vs-kt-rolster-challengers-2026-02-26
+  [404] lol-drx-kt-rolster-2026-02-26
+  [404] lol-drx-challengers-ktc-2026-02-26
+  [404] lol-drxc-kt-rolster-challengers-2026-02-26
+  [404] lol-drxc-ktc-2026-02-26
+  [404] lol-drx-kt-2026-02-26
+
+
+Slug direto nao encontrado. Buscando via Events API...
+
+Events API retornou 500 eventos
+
+Buscando por tag 'league-of-legends'...
+Retornou 200 eventos com tag league-of-legends
+
+  [nba-will-the-mavericks-beat-the-grizzlies-by-more-than-5pt5-points-in-their-december-4-matchup] NBA: Will the Mavericks beat the Grizzlies by more than 5.5 points in their December 4 matchup?
+  [nfl-will-the-falcons-beat-the-panthers-by-more-than-3pt5-points-in-their-october-31st-matchup] NFL: Will the Falcons beat the Panthers by more than 3.5 points in their October 31st matchup?
+  [in-game-trading-will-the-49ers-beat-the-packers-by-more-than-3pt5-points-in-their-week-three-matchup] (In-Game Trading) Will the 49ers beat the Packers by more than 3.5 points in their week three matchup?
+  [2022-norway-chess-will-magnus-carlsen-lose-any-game] 2022 Norway Chess: Will Magnus Carlsen lose any game?
+  [nba-will-the-heat-beat-the-wizards-by-more-than-7pt5-points-in-their-november-18th-matchup] NBA: Will the Heat beat the Wizards by more than 7.5 points in their November 18th matchup?
+  [nfl-will-the-jaguars-beat-the-texans-by-more-than-3pt5-points-in-their-december-19-matchup] NFL: Will the Jaguars beat the Texans by more than 3.5 points in their December 19 matchup?
+  [nba-will-the-clippers-beat-the-celtics-by-more-than-2pt5-points-in-their-december-8-matchup] NBA: Will the Clippers beat the Celtics by more than 2.5 points in their December 8 matchup?
+  [nfl-will-the-chiefs-beat-the-bengals-by-more-than-3pt5-points-in-their-january-2-matchup] NFL: Will the Chiefs beat the Bengals by more than 3.5 points in their January 2 matchup?
+  [will-lightyear-gross-more-than-90-million-domestically-in-its-opening-weekend] Will 'Lightyear' gross more than $90 million domestically on its opening weekend?
+  [nfl-will-the-cardinals-beat-the-rams-by-more-than-2pt5-points-in-their-december-13-matchup] NFL: Will the Cardinals beat the Rams by more than 2.5 points in their December 13 matchup?
+
+Busca por texto 'DRX' nos eventos:
+Retornou 200 resultados
+  NBA: Will the Mavericks beat the Grizzlies by more than 5.5 points in their Dece | nba-will-the-mavericks-beat-the-grizzlies-by-more-than-5pt5-points-in-their-december-4-matchup
+  NFL: Will the Falcons beat the Panthers by more than 3.5 points in their October | nfl-will-the-falcons-beat-the-panthers-by-more-than-3pt5-points-in-their-october-31st-matchup
+  (In-Game Trading) Will the 49ers beat the Packers by more than 3.5 points in the | in-game-trading-will-the-49ers-beat-the-packers-by-more-than-3pt5-points-in-their-week-three-matchup
+  2022 Norway Chess: Will Magnus Carlsen lose any game? | 2022-norway-chess-will-magnus-carlsen-lose-any-game
+  NBA: Will the Heat beat the Wizards by more than 7.5 points in their November 18 | nba-will-the-heat-beat-the-wizards-by-more-than-7pt5-points-in-their-november-18th-matchup
+  NFL: Will the Jaguars beat the Texans by more than 3.5 points in their December  | nfl-will-the-jaguars-beat-the-texans-by-more-than-3pt5-points-in-their-december-19-matchup
+  NBA: Will the Clippers beat the Celtics by more than 2.5 points in their Decembe | nba-will-the-clippers-beat-the-celtics-by-more-than-2pt5-points-in-their-december-8-matchup
+  NFL: Will the Chiefs beat the Bengals by more than 3.5 points in their January 2 | nfl-will-the-chiefs-beat-the-bengals-by-more-than-3pt5-points-in-their-january-2-matchup
+  Will 'Lightyear' gross more than $90 million domestically on its opening weekend | will-lightyear-gross-more-than-90-million-domestically-in-its-opening-weekend
+  NFL: Will the Cardinals beat the Rams by more than 2.5 points in their December  | nfl-will-the-cardinals-beat-the-rams-by-more-than-2pt5-points-in-their-december-13-matchup

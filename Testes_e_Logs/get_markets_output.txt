@@ -1,0 +1,20 @@
+﻿­ƒöä Buscando mercado Kalshi: KXLOLGAME-26FEB26DRXCKTC-DRXC
+­ƒöä Buscando mercado Polymarket: lol-ktc-drxc-2026-02-26
+
+[ MATCH CONFIRMADO ] ­ƒÄ«
+Kalshi: Will DRX Challengers win the DRX Challengers vs. KT Rolster Challengers League of Legends match?
+Poly  : LoL: KT Rolster Challengers vs DRX Challengers (BO5) - LCK Challengers League Kickoff Playoffs
+Liquidez no Poly: $7,046.01
+
+   [ MAPEAMENTO ]
+   Kalshi YES = 'DRX Challengers'
+   Poly [1] = 'DRX Challengers' ($0.325)
+   Poly [0] = 'KT Rolster Challengers' ($0.675)
+
+   [ MATEM├üTICA DA ARBITRAGEM ]
+   A) Ganha DRX Challengers no Kalshi / Ganha KT Rolster Challengers no Poly:
+      Custo: $0.310 + $0.675 = $0.985
+   B) Perde DRX Challengers no Kalshi / Ganha DRX Challengers no Poly:
+      Custo: $0.700 + $0.325 = $1.025
+   ÔØî Sem oportunidade de lucro no momento.
+----------------------------------------------------------------------

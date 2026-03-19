@@ -1,0 +1,161 @@
+Total Kalshi markets: 28803
+Total Poly markets: 13596
+Unique normalized Kalshi names: 12128
+Unique normalized Poly names: 665
+Intersection count: 125
+
+Sample valid intersections:
+- carolina royal ravens
+- kraken
+- miami heretics
+- bnk fearx
+- dnsty
+- monte
+- kt rolster challengers
+- optic texas
+- xlg
+- boston breach
+- voca
+- novo
+- team aether
+- ucam club
+- yes
+- 100 thieves
+- giantx
+- hc sochi
+- keyd
+- fut
+- racing de chivilcoy
+- barca
+- fnatic
+- isurus
+- mayhem
+- wolves
+- crashers
+- sakura
+- fire flux
+- utah
+- eyeballers
+- bad luck
+- red canids
+- gaimin gladiators
+- mouz
+- dplus kia
+- omega
+- team we
+- lyon
+- algo
+- inner circle
+- toronto koi
+- t1
+- m80
+- mibr
+- vr2
+- pain
+- riyadh falcons
+- g2 minnesota
+- bonk
+
+Sample Kalshi missing names:
+- jon kenworthy
+- 7,495 or above
+- $65,750 to 65,999.99
+- $0.055 or above
+- 7,710 or above
+- martin st. louis
+- aryna sabalenka
+- $1,390 to 1,429.99
+- troy rohrbaugh
+- 119 or above
+- matthieu pavon beats danny willett
+- 88 or above
+- enschede
+- albert jones
+- carson young
+- 30,500 to 30,999.99
+- 7,735 or above
+- jonathan paz
+- all gamers
+- ralf rangnick
+- kevin porter jr.: 2+
+- ricky castillo
+- forza italia
+- 37 or above
+- connor hellebuyck
+- marinos
+- martin vorster
+- rasmus hojgaard beats nicolai hojgaard
+- 66 or below
+- $1,870 to 1,889.99
+- greenland
+- bytedance
+- before apr 2027
+- nolan arenado
+- 6,235 or above
+- 6,795 or above
+- sos deluxe: lana
+- 50 or above
+- mary allen
+- over 91.5 1h points scored
+- kiel
+- democrat
+- john hynes
+- tisza
+- emil bove
+- any other conference
+- 6,200 to 6,399.99
+- $0.0000155 or above
+- amie baca-oehlert
+- $2,510 to 2,529.99
+
+Sample Poly missing names:
+- team phantasma
+- massachusetts-lowell river hawks
+- capitals
+- south carolina gamecocks
+- unlv runnin' rebels
+- sacramento state hornets
+- fairleigh dickinson knights
+- depaul blue demons
+- tulsa golden hurricane
+- fluxo w7m
+- masonic
+- anyone's legend
+- detroit titans
+- american eagles
+- marsborne
+- prairie view a&m panthers
+- pelicans
+- high point panthers
+- prime
+- grizzlies
+- san diego state aztecs
+- west georgia wolves
+- infinite
+- strasbourg
+- kent state golden flashes
+- queens (nc) royals
+- weibo
+- uncg spartans
+- orbit anonymo
+- tyloo
+- east tennessee state buccaneers
+- hacha
+- houston cougars
+- yawara
+- kentucky wildcats
+- aimclub
+- norfolk state spartans
+- tennessee tech golden eagles
+- rice owls
+- wagner seahawks
+- iowa state cyclones
+- blue jackets
+- princeton tigers
+- golden knights
+- wofford terriers
+- red wings
+- leo
+- coppin state eagles
+- colorado state rams
+- michigan wolverines

@@ -1,0 +1,702 @@
+[
+  {
+    "ticker": "KXNBASPREAD-26FEB26SACDAL-SAC7",
+    "series_ticker": null,
+    "title": "Sacramento wins by over 7.5 Points?",
+    "category": null,
+    "yes_sub_title": "Sacramento wins by over 7.5 Points"
+  },
+  {
+    "ticker": "KXNBASPREAD-26FEB26SACDAL-SAC4",
+    "series_ticker": null,
+    "title": "Sacramento wins by over 4.5 Points?",
+    "category": null,
+    "yes_sub_title": "Sacramento wins by over 4.5 Points"
+  },
+  {
+    "ticker": "KXNBASPREAD-26FEB26SACDAL-SAC1",
+    "series_ticker": null,
+    "title": "Sacramento wins by over 1.5 Points?",
+    "category": null,
+    "yes_sub_title": "Sacramento wins by over 1.5 Points"
+  },
+  {
+    "ticker": "KXNBASPREAD-26FEB26NOPUTA-NOP20",
+    "series_ticker": null,
+    "title": "New Orleans wins by over 20.5 Points?",
+    "category": null,
+    "yes_sub_title": "New Orleans wins by over 20.5 Points"
+  },
+  {
+    "ticker": "KXNBASPREAD-26FEB26SACDAL-DAL2",
+    "series_ticker": null,
+    "title": "Dallas wins by over 2.5 Points?",
+    "category": null,
+    "yes_sub_title": "Dallas wins by over 2.5 Points"
+  },
+  {
+    "ticker": "KXNBASPREAD-26FEB26SACDAL-DAL5",
+    "series_ticker": null,
+    "title": "Dallas wins by over 5.5 Points?",
+    "category": null,
+    "yes_sub_title": "Dallas wins by over 5.5 Points"
+  },
+  {
+    "ticker": "KXNBASPREAD-26FEB26NOPUTA-NOP17",
+    "series_ticker": null,
+    "title": "New Orleans wins by over 17.5 Points?",
+    "category": null,
+    "yes_sub_title": "New Orleans wins by over 17.5 Points"
+  },
+  {
+    "ticker": "KXNBASPREAD-26FEB26SACDAL-DAL8",
+    "series_ticker": null,
+    "title": "Dallas wins by over 8.5 Points?",
+    "category": null,
+    "yes_sub_title": "Dallas wins by over 8.5 Points"
+  },
+  {
+    "ticker": "KXNBASPREAD-26FEB26NOPUTA-NOP14",
+    "series_ticker": null,
+    "title": "New Orleans wins by over 14.5 Points?",
+    "category": null,
+    "yes_sub_title": "New Orleans wins by over 14.5 Points"
+  },
+  {
+    "ticker": "KXNBASPREAD-26FEB26SACDAL-DAL11",
+    "series_ticker": null,
+    "title": "Dallas wins by over 11.5 Points?",
+    "category": null,
+    "yes_sub_title": "Dallas wins by over 11.5 Points"
+  },
+  {
+    "ticker": "KXNBASPREAD-26FEB26NOPUTA-NOP11",
+    "series_ticker": null,
+    "title": "New Orleans wins by over 11.5 Points?",
+    "category": null,
+    "yes_sub_title": "New Orleans wins by over 11.5 Points"
+  },
+  {
+    "ticker": "KXNBASPREAD-26FEB26SACDAL-DAL14",
+    "series_ticker": null,
+    "title": "Dallas wins by over 14.5 Points?",
+    "category": null,
+    "yes_sub_title": "Dallas wins by over 14.5 Points"
+  },
+  {
+    "ticker": "KXNBASPREAD-26FEB26NOPUTA-NOP8",
+    "series_ticker": null,
+    "title": "New Orleans wins by over 8.5 Points?",
+    "category": null,
+    "yes_sub_title": "New Orleans wins by over 8.5 Points"
+  },
+  {
+    "ticker": "KXNBASPREAD-26FEB26SASBKN-BKN4",
+    "series_ticker": null,
+    "title": "Brooklyn wins by over 4.5 Points?",
+    "category": null,
+    "yes_sub_title": "Brooklyn wins by over 4.5 Points"
+  },
+  {
+    "ticker": "KXNBASPREAD-26FEB26SACDAL-DAL17",
+    "series_ticker": null,
+    "title": "Dallas wins by over 17.5 Points?",
+    "category": null,
+    "yes_sub_title": "Dallas wins by over 17.5 Points"
+  },
+  {
+    "ticker": "KXNBASPREAD-26FEB26NOPUTA-NOP5",
+    "series_ticker": null,
+    "title": "New Orleans wins by over 5.5 Points?",
+    "category": null,
+    "yes_sub_title": "New Orleans wins by over 5.5 Points"
+  },
+  {
+    "ticker": "KXNBASPREAD-26FEB26SACDAL-DAL20",
+    "series_ticker": null,
+    "title": "Dallas wins by over 20.5 Points?",
+    "category": null,
+    "yes_sub_title": "Dallas wins by over 20.5 Points"
+  },
+  {
+    "ticker": "KXNBASPREAD-26FEB26NOPUTA-NOP2",
+    "series_ticker": null,
+    "title": "New Orleans wins by over 2.5 Points?",
+    "category": null,
+    "yes_sub_title": "New Orleans wins by over 2.5 Points"
+  },
+  {
+    "ticker": "KXNBASPREAD-26FEB26SACDAL-DAL23",
+    "series_ticker": null,
+    "title": "Dallas wins by over 23.5 Points?",
+    "category": null,
+    "yes_sub_title": "Dallas wins by over 23.5 Points"
+  },
+  {
+    "ticker": "KXNBASPREAD-26FEB26NOPUTA-UTA1",
+    "series_ticker": null,
+    "title": "Utah wins by over 1.5 Points?",
+    "category": null,
+    "yes_sub_title": "Utah wins by over 1.5 Points"
+  },
+  {
+    "ticker": "KXNBAGAME-26FEB28PORCHA-POR",
+    "series_ticker": null,
+    "title": "Portland at Charlotte Winner?",
+    "category": null,
+    "yes_sub_title": "Portland"
+  },
+  {
+    "ticker": "KXNBAGAME-26FEB28PORCHA-CHA",
+    "series_ticker": null,
+    "title": "Portland at Charlotte Winner?",
+    "category": null,
+    "yes_sub_title": "Charlotte"
+  },
+  {
+    "ticker": "KXNBASPREAD-26FEB26NOPUTA-UTA4",
+    "series_ticker": null,
+    "title": "Utah wins by over 4.5 Points?",
+    "category": null,
+    "yes_sub_title": "Utah wins by over 4.5 Points"
+  },
+  {
+    "ticker": "KXNBASPREAD-26FEB26NOPUTA-UTA7",
+    "series_ticker": null,
+    "title": "Utah wins by over 7.5 Points?",
+    "category": null,
+    "yes_sub_title": "Utah wins by over 7.5 Points"
+  },
+  {
+    "ticker": "KXNBASPREAD-26FEB26NOPUTA-UTA10",
+    "series_ticker": null,
+    "title": "Utah wins by over 10.5 Points?",
+    "category": null,
+    "yes_sub_title": "Utah wins by over 10.5 Points"
+  },
+  {
+    "ticker": "KXNBASPREAD-26FEB26MIAPHI-PHI19",
+    "series_ticker": null,
+    "title": "Philadelphia wins by over 19.5 Points?",
+    "category": null,
+    "yes_sub_title": "Philadelphia wins by over 19.5 Points"
+  },
+  {
+    "ticker": "KXNBAGAME-26FEB28HOUMIA-MIA",
+    "series_ticker": null,
+    "title": "Houston at Miami Winner?",
+    "category": null,
+    "yes_sub_title": "Miami"
+  },
+  {
+    "ticker": "KXNBAGAME-26FEB28HOUMIA-HOU",
+    "series_ticker": null,
+    "title": "Houston at Miami Winner?",
+    "category": null,
+    "yes_sub_title": "Houston"
+  },
+  {
+    "ticker": "KXNBA3D-26FEB26HOUORL-ORLPBANCHERO5",
+    "series_ticker": null,
+    "title": "Paolo Banchero: Triple Double",
+    "category": null,
+    "yes_sub_title": "Paolo Banchero"
+  },
+  {
+    "ticker": "KXNBA2D-26FEB26HOUORL-ORLWCARTER34",
+    "series_ticker": null,
+    "title": "Wendell Carter Jr.: Double Double",
+    "category": null,
+    "yes_sub_title": "Wendell Carter Jr."
+  },
+  {
+    "ticker": "KXNBA2D-26FEB26HOUORL-ORLPBANCHERO5",
+    "series_ticker": null,
+    "title": "Paolo Banchero: Double Double",
+    "category": null,
+    "yes_sub_title": "Paolo Banchero"
+  },
+  {
+    "ticker": "KXNBA2D-26FEB26HOUORL-ORLABLACK0",
+    "series_ticker": null,
+    "title": "Anthony Black: Double Double",
+    "category": null,
+    "yes_sub_title": "Anthony Black"
+  },
+  {
+    "ticker": "KXNBA3PT-26FEB26HOUORL-ORLPBANCHERO5-5",
+    "series_ticker": null,
+    "title": "Paolo Banchero: 5+ threes",
+    "category": null,
+    "yes_sub_title": "Paolo Banchero: 5+"
+  },
+  {
+    "ticker": "KXNBA3PT-26FEB26HOUORL-ORLPBANCHERO5-4",
+    "series_ticker": null,
+    "title": "Paolo Banchero: 4+ threes",
+    "category": null,
+    "yes_sub_title": "Paolo Banchero: 4+"
+  },
+  {
+    "ticker": "KXNBA3PT-26FEB26HOUORL-ORLPBANCHERO5-3",
+    "series_ticker": null,
+    "title": "Paolo Banchero: 3+ threes",
+    "category": null,
+    "yes_sub_title": "Paolo Banchero: 3+"
+  },
+  {
+    "ticker": "KXNBA3PT-26FEB26HOUORL-ORLPBANCHERO5-2",
+    "series_ticker": null,
+    "title": "Paolo Banchero: 2+ threes",
+    "category": null,
+    "yes_sub_title": "Paolo Banchero: 2+"
+  },
+  {
+    "ticker": "KXNBA3PT-26FEB26HOUORL-ORLPBANCHERO5-1",
+    "series_ticker": null,
+    "title": "Paolo Banchero: 1+ threes",
+    "category": null,
+    "yes_sub_title": "Paolo Banchero: 1+"
+  },
+  {
+    "ticker": "KXNBA3PT-26FEB26HOUORL-ORLDBANE3-5",
+    "series_ticker": null,
+    "title": "Desmond Bane: 5+ threes",
+    "category": null,
+    "yes_sub_title": "Desmond Bane: 5+"
+  },
+  {
+    "ticker": "KXNBA3PT-26FEB26HOUORL-ORLDBANE3-4",
+    "series_ticker": null,
+    "title": "Desmond Bane: 4+ threes",
+    "category": null,
+    "yes_sub_title": "Desmond Bane: 4+"
+  },
+  {
+    "ticker": "KXNBA3PT-26FEB26HOUORL-ORLDBANE3-3",
+    "series_ticker": null,
+    "title": "Desmond Bane: 3+ threes",
+    "category": null,
+    "yes_sub_title": "Desmond Bane: 3+"
+  },
+  {
+    "ticker": "KXNBA3PT-26FEB26HOUORL-ORLDBANE3-2",
+    "series_ticker": null,
+    "title": "Desmond Bane: 2+ threes",
+    "category": null,
+    "yes_sub_title": "Desmond Bane: 2+"
+  },
+  {
+    "ticker": "KXNBA3PT-26FEB26HOUORL-ORLDBANE3-1",
+    "series_ticker": null,
+    "title": "Desmond Bane: 1+ threes",
+    "category": null,
+    "yes_sub_title": "Desmond Bane: 1+"
+  },
+  {
+    "ticker": "KXNBABLK-26FEB26HOUORL-ORLPBANCHERO5-3",
+    "series_ticker": null,
+    "title": "Paolo Banchero: 3+ blocks",
+    "category": null,
+    "yes_sub_title": "Paolo Banchero: 3+"
+  },
+  {
+    "ticker": "KXNBABLK-26FEB26HOUORL-ORLPBANCHERO5-2",
+    "series_ticker": null,
+    "title": "Paolo Banchero: 2+ blocks",
+    "category": null,
+    "yes_sub_title": "Paolo Banchero: 2+"
+  },
+  {
+    "ticker": "KXNBABLK-26FEB26HOUORL-ORLPBANCHERO5-1",
+    "series_ticker": null,
+    "title": "Paolo Banchero: 1+ blocks",
+    "category": null,
+    "yes_sub_title": "Paolo Banchero: 1+"
+  },
+  {
+    "ticker": "KXNBABLK-26FEB26HOUORL-HOUKDURANT7-3",
+    "series_ticker": null,
+    "title": "Kevin Durant: 3+ blocks",
+    "category": null,
+    "yes_sub_title": "Kevin Durant: 3+"
+  },
+  {
+    "ticker": "KXNBABLK-26FEB26HOUORL-HOUKDURANT7-2",
+    "series_ticker": null,
+    "title": "Kevin Durant: 2+ blocks",
+    "category": null,
+    "yes_sub_title": "Kevin Durant: 2+"
+  },
+  {
+    "ticker": "KXNBABLK-26FEB26HOUORL-HOUKDURANT7-1",
+    "series_ticker": null,
+    "title": "Kevin Durant: 1+ blocks",
+    "category": null,
+    "yes_sub_title": "Kevin Durant: 1+"
+  },
+  {
+    "ticker": "KXNBABLK-26FEB26HOUORL-HOUASENGUN28-3",
+    "series_ticker": null,
+    "title": "Alperen Sengun: 3+ blocks",
+    "category": null,
+    "yes_sub_title": "Alperen Sengun: 3+"
+  },
+  {
+    "ticker": "KXNBABLK-26FEB26HOUORL-HOUASENGUN28-2",
+    "series_ticker": null,
+    "title": "Alperen Sengun: 2+ blocks",
+    "category": null,
+    "yes_sub_title": "Alperen Sengun: 2+"
+  },
+  {
+    "ticker": "KXNBABLK-26FEB26HOUORL-HOUASENGUN28-1",
+    "series_ticker": null,
+    "title": "Alperen Sengun: 1+ blocks",
+    "category": null,
+    "yes_sub_title": "Alperen Sengun: 1+"
+  },
+  {
+    "ticker": "KXNBASTL-26FEB26HOUORL-ORLPBANCHERO5-3",
+    "series_ticker": null,
+    "title": "Paolo Banchero: 3+ steals",
+    "category": null,
+    "yes_sub_title": "Paolo Banchero: 3+"
+  },
+  {
+    "ticker": "KXNBASTL-26FEB26HOUORL-ORLPBANCHERO5-2",
+    "series_ticker": null,
+    "title": "Paolo Banchero: 2+ steals",
+    "category": null,
+    "yes_sub_title": "Paolo Banchero: 2+"
+  },
+  {
+    "ticker": "KXNBASTL-26FEB26HOUORL-ORLPBANCHERO5-1",
+    "series_ticker": null,
+    "title": "Paolo Banchero: 1+ steals",
+    "category": null,
+    "yes_sub_title": "Paolo Banchero: 1+"
+  },
+  {
+    "ticker": "KXNBAAST-26FEB26HOUORL-ORLPBANCHERO5-10",
+    "series_ticker": null,
+    "title": "Paolo Banchero: 10+ assists",
+    "category": null,
+    "yes_sub_title": "Paolo Banchero: 10+"
+  },
+  {
+    "ticker": "KXNBAAST-26FEB26HOUORL-ORLPBANCHERO5-8",
+    "series_ticker": null,
+    "title": "Paolo Banchero: 8+ assists",
+    "category": null,
+    "yes_sub_title": "Paolo Banchero: 8+"
+  },
+  {
+    "ticker": "KXNBAAST-26FEB26HOUORL-ORLPBANCHERO5-6",
+    "series_ticker": null,
+    "title": "Paolo Banchero: 6+ assists",
+    "category": null,
+    "yes_sub_title": "Paolo Banchero: 6+"
+  },
+  {
+    "ticker": "KXNBAAST-26FEB26HOUORL-ORLPBANCHERO5-4",
+    "series_ticker": null,
+    "title": "Paolo Banchero: 4+ assists",
+    "category": null,
+    "yes_sub_title": "Paolo Banchero: 4+"
+  },
+  {
+    "ticker": "KXNBAAST-26FEB26HOUORL-ORLPBANCHERO5-2",
+    "series_ticker": null,
+    "title": "Paolo Banchero: 2+ assists",
+    "category": null,
+    "yes_sub_title": "Paolo Banchero: 2+"
+  },
+  {
+    "ticker": "KXNBAAST-26FEB26HOUORL-ORLABLACK0-8",
+    "series_ticker": null,
+    "title": "Anthony Black: 8+ assists",
+    "category": null,
+    "yes_sub_title": "Anthony Black: 8+"
+  },
+  {
+    "ticker": "KXNBAAST-26FEB26HOUORL-ORLABLACK0-6",
+    "series_ticker": null,
+    "title": "Anthony Black: 6+ assists",
+    "category": null,
+    "yes_sub_title": "Anthony Black: 6+"
+  },
+  {
+    "ticker": "KXNBAAST-26FEB26HOUORL-ORLABLACK0-5",
+    "series_ticker": null,
+    "title": "Anthony Black: 5+ assists",
+    "category": null,
+    "yes_sub_title": "Anthony Black: 5+"
+  },
+  {
+    "ticker": "KXNBAAST-26FEB26HOUORL-ORLABLACK0-4",
+    "series_ticker": null,
+    "title": "Anthony Black: 4+ assists",
+    "category": null,
+    "yes_sub_title": "Anthony Black: 4+"
+  },
+  {
+    "ticker": "KXNBAAST-26FEB26HOUORL-ORLABLACK0-2",
+    "series_ticker": null,
+    "title": "Anthony Black: 2+ assists",
+    "category": null,
+    "yes_sub_title": "Anthony Black: 2+"
+  },
+  {
+    "ticker": "KXNBA2D-26FEB26CHAIND-CHACWHITE3",
+    "series_ticker": null,
+    "title": "Coby White: Double Double",
+    "category": null,
+    "yes_sub_title": "Coby White"
+  },
+  {
+    "ticker": "KXNBA3PT-26FEB26CHAIND-CHACWHITE3-5",
+    "series_ticker": null,
+    "title": "Coby White: 5+ threes",
+    "category": null,
+    "yes_sub_title": "Coby White: 5+"
+  },
+  {
+    "ticker": "KXNBA3PT-26FEB26CHAIND-CHACWHITE3-4",
+    "series_ticker": null,
+    "title": "Coby White: 4+ threes",
+    "category": null,
+    "yes_sub_title": "Coby White: 4+"
+  },
+  {
+    "ticker": "KXNBAREB-26FEB26HOUORL-ORLWCARTER34-12",
+    "series_ticker": null,
+    "title": "Wendell Carter Jr.: 12+ rebounds",
+    "category": null,
+    "yes_sub_title": "Wendell Carter Jr.: 12+"
+  },
+  {
+    "ticker": "KXNBA3PT-26FEB26CHAIND-CHACWHITE3-3",
+    "series_ticker": null,
+    "title": "Coby White: 3+ threes",
+    "category": null,
+    "yes_sub_title": "Coby White: 3+"
+  },
+  {
+    "ticker": "KXNBAREB-26FEB26HOUORL-ORLWCARTER34-10",
+    "series_ticker": null,
+    "title": "Wendell Carter Jr.: 10+ rebounds",
+    "category": null,
+    "yes_sub_title": "Wendell Carter Jr.: 10+"
+  },
+  {
+    "ticker": "KXNBA3PT-26FEB26CHAIND-CHACWHITE3-2",
+    "series_ticker": null,
+    "title": "Coby White: 2+ threes",
+    "category": null,
+    "yes_sub_title": "Coby White: 2+"
+  },
+  {
+    "ticker": "KXNBAREB-26FEB26HOUORL-ORLWCARTER34-8",
+    "series_ticker": null,
+    "title": "Wendell Carter Jr.: 8+ rebounds",
+    "category": null,
+    "yes_sub_title": "Wendell Carter Jr.: 8+"
+  },
+  {
+    "ticker": "KXNBA3PT-26FEB26CHAIND-CHACWHITE3-1",
+    "series_ticker": null,
+    "title": "Coby White: 1+ threes",
+    "category": null,
+    "yes_sub_title": "Coby White: 1+"
+  },
+  {
+    "ticker": "KXNBAREB-26FEB26HOUORL-ORLWCARTER34-6",
+    "series_ticker": null,
+    "title": "Wendell Carter Jr.: 6+ rebounds",
+    "category": null,
+    "yes_sub_title": "Wendell Carter Jr.: 6+"
+  },
+  {
+    "ticker": "KXNBASTL-26FEB26CHAIND-CHALBALL1-3",
+    "series_ticker": null,
+    "title": "LaMelo Ball: 3+ steals",
+    "category": null,
+    "yes_sub_title": "LaMelo Ball: 3+"
+  },
+  {
+    "ticker": "KXNBASTL-26FEB26CHAIND-CHALBALL1-2",
+    "series_ticker": null,
+    "title": "LaMelo Ball: 2+ steals",
+    "category": null,
+    "yes_sub_title": "LaMelo Ball: 2+"
+  },
+  {
+    "ticker": "KXNBASTL-26FEB26CHAIND-CHALBALL1-1",
+    "series_ticker": null,
+    "title": "LaMelo Ball: 1+ steals",
+    "category": null,
+    "yes_sub_title": "LaMelo Ball: 1+"
+  },
+  {
+    "ticker": "KXNBASTL-26FEB26CHAIND-CHAKKNUEPPEL7-3",
+    "series_ticker": null,
+    "title": "Kon Knueppel: 3+ steals",
+    "category": null,
+    "yes_sub_title": "Kon Knueppel: 3+"
+  },
+  {
+    "ticker": "KXNBASTL-26FEB26CHAIND-CHAKKNUEPPEL7-2",
+    "series_ticker": null,
+    "title": "Kon Knueppel: 2+ steals",
+    "category": null,
+    "yes_sub_title": "Kon Knueppel: 2+"
+  },
+  {
+    "ticker": "KXNBASTL-26FEB26CHAIND-CHAKKNUEPPEL7-1",
+    "series_ticker": null,
+    "title": "Kon Knueppel: 1+ steals",
+    "category": null,
+    "yes_sub_title": "Kon Knueppel: 1+"
+  },
+  {
+    "ticker": "KXNBAREB-26FEB26HOUORL-ORLWCARTER34-4",
+    "series_ticker": null,
+    "title": "Wendell Carter Jr.: 4+ rebounds",
+    "category": null,
+    "yes_sub_title": "Wendell Carter Jr.: 4+"
+  },
+  {
+    "ticker": "KXNBAREB-26FEB26HOUORL-ORLPBANCHERO5-12",
+    "series_ticker": null,
+    "title": "Paolo Banchero: 12+ rebounds",
+    "category": null,
+    "yes_sub_title": "Paolo Banchero: 12+"
+  },
+  {
+    "ticker": "KXNBAREB-26FEB26HOUORL-ORLPBANCHERO5-10",
+    "series_ticker": null,
+    "title": "Paolo Banchero: 10+ rebounds",
+    "category": null,
+    "yes_sub_title": "Paolo Banchero: 10+"
+  },
+  {
+    "ticker": "KXNBAREB-26FEB26HOUORL-ORLPBANCHERO5-8",
+    "series_ticker": null,
+    "title": "Paolo Banchero: 8+ rebounds",
+    "category": null,
+    "yes_sub_title": "Paolo Banchero: 8+"
+  },
+  {
+    "ticker": "KXNBAAST-26FEB26CHAIND-CHACWHITE3-8",
+    "series_ticker": null,
+    "title": "Coby White: 8+ assists",
+    "category": null,
+    "yes_sub_title": "Coby White: 8+"
+  },
+  {
+    "ticker": "KXNBAREB-26FEB26HOUORL-ORLPBANCHERO5-6",
+    "series_ticker": null,
+    "title": "Paolo Banchero: 6+ rebounds",
+    "category": null,
+    "yes_sub_title": "Paolo Banchero: 6+"
+  },
+  {
+    "ticker": "KXNBAAST-26FEB26CHAIND-CHACWHITE3-6",
+    "series_ticker": null,
+    "title": "Coby White: 6+ assists",
+    "category": null,
+    "yes_sub_title": "Coby White: 6+"
+  },
+  {
+    "ticker": "KXNBA2D-26FEB26MIAPHI-MIAKWARE7",
+    "series_ticker": null,
+    "title": "Kel'el Ware: Double Double",
+    "category": null,
+    "yes_sub_title": "Kel'el Ware"
+  },
+  {
+    "ticker": "KXNBAREB-26FEB26HOUORL-ORLPBANCHERO5-4",
+    "series_ticker": null,
+    "title": "Paolo Banchero: 4+ rebounds",
+    "category": null,
+    "yes_sub_title": "Paolo Banchero: 4+"
+  },
+  {
+    "ticker": "KXNBAAST-26FEB26CHAIND-CHACWHITE3-4",
+    "series_ticker": null,
+    "title": "Coby White: 4+ assists",
+    "category": null,
+    "yes_sub_title": "Coby White: 4+"
+  },
+  {
+    "ticker": "KXNBAAST-26FEB26CHAIND-CHACWHITE3-3",
+    "series_ticker": null,
+    "title": "Coby White: 3+ assists",
+    "category": null,
+    "yes_sub_title": "Coby White: 3+"
+  },
+  {
+    "ticker": "KXNBAAST-26FEB26CHAIND-CHACWHITE3-2",
+    "series_ticker": null,
+    "title": "Coby White: 2+ assists",
+    "category": null,
+    "yes_sub_title": "Coby White: 2+"
+  },
+  {
+    "ticker": "KXNBASTL-26FEB26MIAPHI-PHIVEDGECOMBE77-3",
+    "series_ticker": null,
+    "title": "VJ Edgecombe: 3+ steals",
+    "category": null,
+    "yes_sub_title": "VJ Edgecombe: 3+"
+  },
+  {
+    "ticker": "KXNBASTL-26FEB26MIAPHI-PHIVEDGECOMBE77-2",
+    "series_ticker": null,
+    "title": "VJ Edgecombe: 2+ steals",
+    "category": null,
+    "yes_sub_title": "VJ Edgecombe: 2+"
+  },
+  {
+    "ticker": "KXNBASTL-26FEB26MIAPHI-PHIVEDGECOMBE77-1",
+    "series_ticker": null,
+    "title": "VJ Edgecombe: 1+ steals",
+    "category": null,
+    "yes_sub_title": "VJ Edgecombe: 1+"
+  },
+  {
+    "ticker": "KXNBASTL-26FEB26MIAPHI-PHITMAXEY0-3",
+    "series_ticker": null,
+    "title": "Tyrese Maxey: 3+ steals",
+    "category": null,
+    "yes_sub_title": "Tyrese Maxey: 3+"
+  },
+  {
+    "ticker": "KXNBASTL-26FEB26MIAPHI-PHITMAXEY0-2",
+    "series_ticker": null,
+    "title": "Tyrese Maxey: 2+ steals",
+    "category": null,
+    "yes_sub_title": "Tyrese Maxey: 2+"
+  },
+  {
+    "ticker": "KXNBASTL-26FEB26MIAPHI-PHITMAXEY0-1",
+    "series_ticker": null,
+    "title": "Tyrese Maxey: 1+ steals",
+    "category": null,
+    "yes_sub_title": "Tyrese Maxey: 1+"
+  },
+  {
+    "ticker": "KXNBASTL-26FEB26MIAPHI-PHIKOUBRE9-3",
+    "series_ticker": null,
+    "title": "Kelly Oubre Jr.: 3+ steals",
+    "category": null,
+    "yes_sub_title": "Kelly Oubre Jr.: 3+"
+  },
+  {
+    "ticker": "KXNBASTL-26FEB26MIAPHI-PHIKOUBRE9-2",
+    "series_ticker": null,
+    "title": "Kelly Oubre Jr.: 2+ steals",
+    "category": null,
+    "yes_sub_title": "Kelly Oubre Jr.: 2+"
+  }
+]

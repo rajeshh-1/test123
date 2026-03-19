@@ -1,0 +1,303 @@
+==================================================
+🚀 INICIANDO SCANNER DE ARBITRAGEM KALSHI <> POLY
+==================================================
+
+🔄 Buscando mercados de LoL ativos na Kalshi...
+✅ Kalshi: 42 sub-mercados LoL encontrados.
+🔄 Buscando mercados de LoL ativos no Polymarket...
+✅ Polymarket: 43 mercados LoL únicos encontrados.
+
+🔍 Analisando e cruzando mercados...
+
+🎯 Cruzamento Finalizado! 40 correspondências exatas encontradas.
+
+==================================================
+💲 OPORTUNIDADES DE ARBITRAGEM
+==================================================
+
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #1 | MATCH #28 ] 🚨
+   Kalshi: Will 4 SWINES & A BUM win the Lundqvist Lightside vs. 4 SWINES & A BUM League of Legends match?
+   Poly  : LoL: 4 SWINES & A BUM vs Lundqvist Lightside (BO1) - NLC Regular Season
+   Liquidez Poly: $13,145.35 | Liquidez Kalshi: $8,038.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.545
+     [COMPRAR Kalshi YES 4 SWINES & A BUM: $0.04] + [COMPRAR Poly Lundqvist Lightside: $0.505]
+   💰 SPREAD DE LUCRO EST.: +83.49% (Custo: $0.545) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #2 | MATCH #23 ] 🚨
+   Kalshi: Will Ruddy Esports win the Ruddy Esports vs. LEO League of Legends match?
+   Poly  : LoL: LEO vs Ruddy Esports (BO1) - NLC Regular Season
+   Liquidez Poly: $11,555.20 | Liquidez Kalshi: $4,174.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.975
+     [COMPRAR Kalshi NO Ruddy Esports: $0.90] + [COMPRAR Poly Ruddy Esports: $0.075]
+   💰 SPREAD DE LUCRO EST.: +2.56% (Custo: $0.975) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #3 | MATCH #1 ] 🚨
+   Kalshi: Will Ninjas in Pyjamas win the Ninjas in Pyjamas vs. Invictus Gaming League of Legends match?
+   Poly  : LoL: Invictus Gaming vs Ninjas in Pyjamas (BO5) - LPL Playoffs
+   Liquidez Poly: $5,174.08 | Liquidez Kalshi: $5,495.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.975
+     [COMPRAR Kalshi YES Ninjas in Pyjamas: $0.54] + [COMPRAR Poly Invictus Gaming: $0.435]
+   💰 SPREAD DE LUCRO EST.: +2.56% (Custo: $0.975) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #4 | MATCH #2 ] 🚨
+   Kalshi: Will Invictus Gaming win the Ninjas in Pyjamas vs. Invictus Gaming League of Legends match?
+   Poly  : LoL: Invictus Gaming vs Ninjas in Pyjamas (BO5) - LPL Playoffs
+   Liquidez Poly: $5,174.08 | Liquidez Kalshi: $19,128.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.975
+     [COMPRAR Kalshi NO Invictus Gaming: $0.54] + [COMPRAR Poly Invictus Gaming: $0.435]
+   💰 SPREAD DE LUCRO EST.: +2.56% (Custo: $0.975) 💰
+------------------------------------------------------------
+🔸 [ MATCH #14 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Anyone's Legend win the Anyone's Legend vs. JD Gaming League of Legends match?
+   Poly  : LoL: JD Gaming vs Anyone's Legend (BO5) - LPL Playoffs
+   Liquidez Poly: $157,721.30 | Liquidez Kalshi: $55,725.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.995
+     [COMPRAR Kalshi NO Anyone's Legend: $0.25] + [COMPRAR Poly Anyone's Legend: $0.745]
+------------------------------------------------------------
+🔸 [ MATCH #24 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will LEO win the Ruddy Esports vs. LEO League of Legends match?
+   Poly  : LoL: LEO vs Ruddy Esports (BO1) - NLC Regular Season
+   Liquidez Poly: $11,555.20 | Liquidez Kalshi: $5,028.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.995
+     [COMPRAR Kalshi YES LEO: $0.92] + [COMPRAR Poly Ruddy Esports: $0.075]
+------------------------------------------------------------
+🔸 [ MATCH #29 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will DMG Esports win the DMG Esports vs. La BOMBAS League of Legends match?
+   Poly  : LoL: La BOMBAS vs DMG Esports (BO1) - NLC Regular Season
+   Liquidez Poly: $17,527.12 | Liquidez Kalshi: $3,717.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.995
+     [COMPRAR Kalshi YES DMG Esports: $0.88] + [COMPRAR Poly La BOMBAS: $0.115]
+------------------------------------------------------------
+🔸 [ MATCH #30 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will La BOMBAS win the DMG Esports vs. La BOMBAS League of Legends match?
+   Poly  : LoL: La BOMBAS vs DMG Esports (BO1) - NLC Regular Season
+   Liquidez Poly: $17,527.12 | Liquidez Kalshi: $3,874.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.995
+     [COMPRAR Kalshi NO La BOMBAS: $0.88] + [COMPRAR Poly La BOMBAS: $0.115]
+------------------------------------------------------------
+🔸 [ MATCH #11 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will KT Rolster Challengers win the DRX Challengers vs. KT Rolster Challengers League of Legends match?
+   Poly  : LoL: KT Rolster Challengers vs DRX Challengers (BO5) - LCK Challengers League Kickoff Playoffs
+   Liquidez Poly: $4,306.18 | Liquidez Kalshi: $21,447.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.000
+     [COMPRAR Kalshi NO KT Rolster Challengers: $0.28] + [COMPRAR Poly KT Rolster Challengers: $0.720]
+------------------------------------------------------------
+🔸 [ MATCH #17 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Karmine Corp win the Karmine Corp vs. GIANTX League of Legends match?
+   Poly  : LoL: GIANTX vs Karmine Corp (BO5) - LEC Versus Playoffs
+   Liquidez Poly: $16,614.62 | Liquidez Kalshi: $7,045.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.000
+     [COMPRAR Kalshi YES Karmine Corp: $0.80] + [COMPRAR Poly GIANTX: $0.200]
+------------------------------------------------------------
+🔸 [ MATCH #22 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Ground Zero Gaming win the Ground Zero Gaming vs. Fukuoka SoftBank Hawks Gaming League of Legends match?
+   Poly  : LoL: Fukuoka SoftBank Hawks Gaming vs Ground Zero Gaming (BO5) - LCP Playoffs
+   Liquidez Poly: $1,763.06 | Liquidez Kalshi: $23,837.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.000
+     [COMPRAR Kalshi YES Ground Zero Gaming: $0.64] + [COMPRAR Poly Fukuoka SoftBank Hawks Gaming: $0.360]
+------------------------------------------------------------
+🔸 [ MATCH #31 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Verdant win the Bulldog Esports vs. Verdant League of Legends match?
+   Poly  : LoL: Verdant vs Bulldog Esports (BO1) - NLC Regular Season
+   Liquidez Poly: $2,331.54 | Liquidez Kalshi: $2,768.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.000
+     [COMPRAR Kalshi YES Verdant: $0.65] + [COMPRAR Poly Bulldog Esports: $0.350]
+------------------------------------------------------------
+🔸 [ MATCH #33 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Team Orange Gaming win the Team Orange Gaming vs. Berlin International Gaming League of Legends match?
+   Poly  : LoL: Berlin International Gaming vs Team Orange Gaming (BO3) - Prime League 1st Division Playoffs
+   Liquidez Poly: $1,444.08 | Liquidez Kalshi: $4,283.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.000
+     [COMPRAR Kalshi YES Team Orange Gaming: $0.18] + [COMPRAR Poly Berlin International Gaming: $0.820]
+------------------------------------------------------------
+🔸 [ MATCH #34 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Berlin International Gaming win the Team Orange Gaming vs. Berlin International Gaming League of Legends match?
+   Poly  : LoL: Berlin International Gaming vs Team Orange Gaming (BO3) - Prime League 1st Division Playoffs
+   Liquidez Poly: $1,444.08 | Liquidez Kalshi: $4,205.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.000
+     [COMPRAR Kalshi NO Berlin International Gaming: $0.18] + [COMPRAR Poly Berlin International Gaming: $0.820]
+------------------------------------------------------------
+🔸 [ MATCH #4 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Bilibili Gaming win the Bilibili Gaming vs. Weibo Gaming League of Legends match?
+   Poly  : LoL: Weibo Gaming vs Bilibili Gaming (BO5) - LPL Playoffs
+   Liquidez Poly: $13,118.03 | Liquidez Kalshi: $19,490.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.005
+     [COMPRAR Kalshi YES Bilibili Gaming: $0.73] + [COMPRAR Poly Weibo Gaming: $0.275]
+------------------------------------------------------------
+🔸 [ MATCH #9 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will BNK FEARX win the Dplus KIA vs. BNK FEARX League of Legends match?
+   Poly  : LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Cup Playoffs
+   Liquidez Poly: $56,963.06 | Liquidez Kalshi: $13,468.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.005
+     [COMPRAR Kalshi YES BNK FEARX: $0.48] + [COMPRAR Poly Dplus KIA: $0.525]
+------------------------------------------------------------
+🔸 [ MATCH #10 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Dplus KIA win the Dplus KIA vs. BNK FEARX League of Legends match?
+   Poly  : LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Cup Playoffs
+   Liquidez Poly: $56,963.06 | Liquidez Kalshi: $15,293.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.005
+     [COMPRAR Kalshi YES Dplus KIA: $0.53] + [COMPRAR Poly BNK FEARX: $0.475]
+------------------------------------------------------------
+🔸 [ MATCH #13 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will JD Gaming win the Anyone's Legend vs. JD Gaming League of Legends match?
+   Poly  : LoL: JD Gaming vs Anyone's Legend (BO5) - LPL Playoffs
+   Liquidez Poly: $157,721.30 | Liquidez Kalshi: $42,972.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.005
+     [COMPRAR Kalshi YES JD Gaming: $0.26] + [COMPRAR Poly Anyone's Legend: $0.745]
+------------------------------------------------------------
+🔸 [ MATCH #19 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Team Liquid win the LYON vs. Team Liquid League of Legends match?
+   Poly  : LoL: LYON vs Team Liquid (BO5) - LCS Lock In Playoffs
+   Liquidez Poly: $17,231.10 | Liquidez Kalshi: $6,988.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.005
+     [COMPRAR Kalshi NO Team Liquid: $0.51] + [COMPRAR Poly Team Liquid: $0.495]
+------------------------------------------------------------
+🔸 [ MATCH #20 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will LYON win the LYON vs. Team Liquid League of Legends match?
+   Poly  : LoL: LYON vs Team Liquid (BO5) - LCS Lock In Playoffs
+   Liquidez Poly: $17,231.10 | Liquidez Kalshi: $7,797.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.005
+     [COMPRAR Kalshi NO LYON: $0.50] + [COMPRAR Poly LYON: $0.505]
+------------------------------------------------------------
+🔸 [ MATCH #12 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will DRX Challengers win the DRX Challengers vs. KT Rolster Challengers League of Legends match?
+   Poly  : LoL: KT Rolster Challengers vs DRX Challengers (BO5) - LCK Challengers League Kickoff Playoffs
+   Liquidez Poly: $4,306.18 | Liquidez Kalshi: $22,087.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.010
+     [COMPRAR Kalshi NO DRX Challengers: $0.73] + [COMPRAR Poly DRX Challengers: $0.280]
+------------------------------------------------------------
+🔸 [ MATCH #16 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Galions Sharks win the Galions Sharks vs. Solary League of Legends match?
+   Poly  : LoL: Solary vs Galions Sharks (BO5) - LFL Invitational Playoffs
+   Liquidez Poly: $1,444.45 | Liquidez Kalshi: $3,851.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.010
+     [COMPRAR Kalshi YES Galions Sharks: $0.51] + [COMPRAR Poly Solary: $0.500]
+------------------------------------------------------------
+🔸 [ MATCH #18 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will GIANTX win the Karmine Corp vs. GIANTX League of Legends match?
+   Poly  : LoL: GIANTX vs Karmine Corp (BO5) - LEC Versus Playoffs
+   Liquidez Poly: $16,614.62 | Liquidez Kalshi: $7,179.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.010
+     [COMPRAR Kalshi NO GIANTX: $0.81] + [COMPRAR Poly GIANTX: $0.200]
+------------------------------------------------------------
+🔸 [ MATCH #21 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Fukuoka SoftBank Hawks Gaming win the Ground Zero Gaming vs. Fukuoka SoftBank Hawks Gaming League of Legends match?
+   Poly  : LoL: Fukuoka SoftBank Hawks Gaming vs Ground Zero Gaming (BO5) - LCP Playoffs
+   Liquidez Poly: $1,763.06 | Liquidez Kalshi: $23,743.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.010
+     [COMPRAR Kalshi NO Fukuoka SoftBank Hawks Gaming: $0.65] + [COMPRAR Poly Fukuoka SoftBank Hawks Gaming: $0.360]
+------------------------------------------------------------
+🔸 [ MATCH #26 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Arctic Pandas win the Arctic Pandas vs. Deer Gaming League of Legends match?
+   Poly  : LoL: Deer Gaming vs Arctic Pandas (BO1) - NLC Regular Season
+   Liquidez Poly: $1,571.53 | Liquidez Kalshi: $5,729.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.010
+     [COMPRAR Kalshi NO Arctic Pandas: $0.42] + [COMPRAR Poly Arctic Pandas: $0.590]
+------------------------------------------------------------
+🔸 [ MATCH #37 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will E WIE EINFACH E-SPORTS win the E WIE EINFACH E-SPORTS vs. Eintracht Spandau League of Legends match?
+   Poly  : LoL: Eintracht Spandau vs E WIE EINFACH E-SPORTS (BO3) - Prime League 1st Division Playoffs
+   Liquidez Poly: $1,458.07 | Liquidez Kalshi: $22,524.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.010
+     [COMPRAR Kalshi NO E WIE EINFACH E-SPORTS: $0.72] + [COMPRAR Poly E WIE EINFACH E-SPORTS: $0.290]
+------------------------------------------------------------
+🔸 [ MATCH #38 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Eintracht Spandau win the E WIE EINFACH E-SPORTS vs. Eintracht Spandau League of Legends match?
+   Poly  : LoL: Eintracht Spandau vs E WIE EINFACH E-SPORTS (BO3) - Prime League 1st Division Playoffs
+   Liquidez Poly: $1,458.07 | Liquidez Kalshi: $20,871.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.010
+     [COMPRAR Kalshi YES Eintracht Spandau: $0.72] + [COMPRAR Poly E WIE EINFACH E-SPORTS: $0.290]
+------------------------------------------------------------
+🔸 [ MATCH #39 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Team Secret Whales win the Deep Cross Gaming vs. Team Secret Whales League of Legends match?
+   Poly  : LoL: Team Secret Whales vs Deep Cross Gaming (BO5) - LCP Playoffs
+   Liquidez Poly: $11,711.89 | Liquidez Kalshi: $23,401.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.015
+     [COMPRAR Kalshi NO Team Secret Whales: $0.41] + [COMPRAR Poly Team Secret Whales: $0.605]
+------------------------------------------------------------
+🔸 [ MATCH #40 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Deep Cross Gaming win the Deep Cross Gaming vs. Team Secret Whales League of Legends match?
+   Poly  : LoL: Team Secret Whales vs Deep Cross Gaming (BO5) - LCP Playoffs
+   Liquidez Poly: $11,711.89 | Liquidez Kalshi: $27,658.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.015
+     [COMPRAR Kalshi YES Deep Cross Gaming: $0.41] + [COMPRAR Poly Team Secret Whales: $0.605]
+------------------------------------------------------------
+🔸 [ MATCH #5 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Team WE win the Team WE vs. Top Esports League of Legends match?
+   Poly  : LoL: Top Esports vs Team WE (BO5) - LPL Playoffs
+   Liquidez Poly: $4,900.98 | Liquidez Kalshi: $21,614.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.020
+     [COMPRAR Kalshi NO Team WE: $0.75] + [COMPRAR Poly Team WE: $0.270]
+------------------------------------------------------------
+🔸 [ MATCH #6 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Top Esports win the Team WE vs. Top Esports League of Legends match?
+   Poly  : LoL: Top Esports vs Team WE (BO5) - LPL Playoffs
+   Liquidez Poly: $4,900.98 | Liquidez Kalshi: $22,960.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.020
+     [COMPRAR Kalshi YES Top Esports: $0.75] + [COMPRAR Poly Team WE: $0.270]
+------------------------------------------------------------
+🔸 [ MATCH #7 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will RED Canids win the FURIA Esports vs. RED Canids League of Legends match?
+   Poly  : LoL: RED Canids vs FURIA Esports (BO5) - CBLOL Cup Playoffs
+   Liquidez Poly: $5,327.47 | Liquidez Kalshi: $4,827.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.020
+     [COMPRAR Kalshi NO RED Canids: $0.45] + [COMPRAR Poly RED Canids: $0.570]
+------------------------------------------------------------
+🔸 [ MATCH #8 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will FURIA Esports win the FURIA Esports vs. RED Canids League of Legends match?
+   Poly  : LoL: RED Canids vs FURIA Esports (BO5) - CBLOL Cup Playoffs
+   Liquidez Poly: $5,327.47 | Liquidez Kalshi: $5,112.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.020
+     [COMPRAR Kalshi NO FURIA Esports: $0.59] + [COMPRAR Poly FURIA Esports: $0.430]
+------------------------------------------------------------
+🔸 [ MATCH #25 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Deer Gaming win the Arctic Pandas vs. Deer Gaming League of Legends match?
+   Poly  : LoL: Deer Gaming vs Arctic Pandas (BO1) - NLC Regular Season
+   Liquidez Poly: $1,571.53 | Liquidez Kalshi: $5,044.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.020
+     [COMPRAR Kalshi YES Deer Gaming: $0.43] + [COMPRAR Poly Arctic Pandas: $0.590]
+------------------------------------------------------------
+🔸 [ MATCH #3 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Weibo Gaming win the Bilibili Gaming vs. Weibo Gaming League of Legends match?
+   Poly  : LoL: Weibo Gaming vs Bilibili Gaming (BO5) - LPL Playoffs
+   Liquidez Poly: $13,118.03 | Liquidez Kalshi: $7,057.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.025
+     [COMPRAR Kalshi NO Weibo Gaming: $0.75] + [COMPRAR Poly Weibo Gaming: $0.275]
+------------------------------------------------------------
+🔸 [ MATCH #35 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Forsaken win the Forsaken vs. BOMBA Team League of Legends match?
+   Poly  : LoL: BOMBA Team vs Forsaken (BO5) - Rift Legends Playoffs
+   Liquidez Poly: $3,712.03 | Liquidez Kalshi: $21,493.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.030
+     [COMPRAR Kalshi NO Forsaken: $0.50] + [COMPRAR Poly Forsaken: $0.530]
+------------------------------------------------------------
+🔸 [ MATCH #15 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Solary win the Galions Sharks vs. Solary League of Legends match?
+   Poly  : LoL: Solary vs Galions Sharks (BO5) - LFL Invitational Playoffs
+   Liquidez Poly: $1,444.45 | Liquidez Kalshi: $5,062.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.040
+     [COMPRAR Kalshi YES Solary: $0.54] + [COMPRAR Poly Galions Sharks: $0.500]
+------------------------------------------------------------
+🔸 [ MATCH #36 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will BOMBA Team win the Forsaken vs. BOMBA Team League of Legends match?
+   Poly  : LoL: BOMBA Team vs Forsaken (BO5) - Rift Legends Playoffs
+   Liquidez Poly: $3,712.03 | Liquidez Kalshi: $24,787.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.040
+     [COMPRAR Kalshi NO BOMBA Team: $0.57] + [COMPRAR Poly BOMBA Team: $0.470]
+------------------------------------------------------------
+🔸 [ MATCH #32 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Bulldog Esports win the Bulldog Esports vs. Verdant League of Legends match?
+   Poly  : LoL: Verdant vs Bulldog Esports (BO1) - NLC Regular Season
+   Liquidez Poly: $2,331.54 | Liquidez Kalshi: $2,969.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.160
+     [COMPRAR Kalshi YES Bulldog Esports: $0.51] + [COMPRAR Poly Verdant: $0.650]
+------------------------------------------------------------
+🔸 [ MATCH #27 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Lundqvist Lightside win the Lundqvist Lightside vs. 4 SWINES & A BUM League of Legends match?
+   Poly  : LoL: 4 SWINES & A BUM vs Lundqvist Lightside (BO1) - NLC Regular Season
+   Liquidez Poly: $13,145.35 | Liquidez Kalshi: $6,934.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.495
+     [COMPRAR Kalshi YES Lundqvist Lightside: $1.00] + [COMPRAR Poly 4 SWINES & A BUM: $0.495]
+------------------------------------------------------------
+
+✅ Resumo: Scan concluído. 4 oportunidade(s) viável(is) de 40 jogos analisados.

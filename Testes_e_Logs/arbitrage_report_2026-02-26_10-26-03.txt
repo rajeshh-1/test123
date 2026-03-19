@@ -1,0 +1,1304 @@
+==================================================
+📊 RELATÓRIO COMPLETO DE ARBITRAGEM - 2026-02-26_10-26-03
+==================================================
+
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #1 | MATCH #90 ] 🚨
+   Kalshi: Virginia at Duke Winner?
+   Poly  : Virginia Cavaliers vs. Duke Blue Devils
+   Liquidez Poly: $359.95 | Liquidez Kalshi: $10,023.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.740
+     [COMPRAR Kalshi NO Duke: $0.24] + [COMPRAR Poly Duke: $0.500]
+   💰 SPREAD DE LUCRO EST.: +35.14% (Custo: $0.740) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #2 | MATCH #100 ] 🚨
+   Kalshi: Colorado at Houston Winner?
+   Poly  : Colorado Buffaloes vs. Houston Cougars
+   Liquidez Poly: $764.03 | Liquidez Kalshi: $8,027.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.745
+     [COMPRAR Kalshi YES Colorado: $0.07] + [COMPRAR Poly Houston Cougars: $0.675]
+   💰 SPREAD DE LUCRO EST.: +34.23% (Custo: $0.745) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #3 | MATCH #89 ] 🚨
+   Kalshi: Virginia at Duke Winner?
+   Poly  : Virginia Cavaliers vs. Duke Blue Devils
+   Liquidez Poly: $359.95 | Liquidez Kalshi: $8,390.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.750
+     [COMPRAR Kalshi YES Virginia: $0.25] + [COMPRAR Poly Duke Blue Devils: $0.500]
+   💰 SPREAD DE LUCRO EST.: +33.33% (Custo: $0.750) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #4 | MATCH #140 ] 🚨
+   Kalshi: Dartmouth at Penn Winner?
+   Poly  : Dartmouth Big Green vs. Penn Quakers
+   Liquidez Poly: $3,065.88 | Liquidez Kalshi: $23,551.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.785
+     [COMPRAR Kalshi YES Dartmouth: $0.32] + [COMPRAR Poly Penn Quakers: $0.465]
+   💰 SPREAD DE LUCRO EST.: +27.39% (Custo: $0.785) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #5 | MATCH #139 ] 🚨
+   Kalshi: Dartmouth at Penn Winner?
+   Poly  : Dartmouth Big Green vs. Penn Quakers
+   Liquidez Poly: $3,065.88 | Liquidez Kalshi: $15,397.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.795
+     [COMPRAR Kalshi NO Penn: $0.33] + [COMPRAR Poly Penn: $0.465]
+   💰 SPREAD DE LUCRO EST.: +25.79% (Custo: $0.795) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #6 | MATCH #108 ] 🚨
+   Kalshi: Louisiana at Arkansas St. Winner?
+   Poly  : Louisiana-Lafayette Ragin' Cajuns vs. Arkansas State Red Wolves
+   Liquidez Poly: $874.99 | Liquidez Kalshi: $10,830.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.820
+     [COMPRAR Kalshi NO Arkansas St.: $0.11] + [COMPRAR Poly Arkansas St.: $0.710]
+   💰 SPREAD DE LUCRO EST.: +21.95% (Custo: $0.820) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #7 | MATCH #107 ] 🚨
+   Kalshi: Louisiana at Arkansas St. Winner?
+   Poly  : Louisiana-Lafayette Ragin' Cajuns vs. Arkansas State Red Wolves
+   Liquidez Poly: $874.99 | Liquidez Kalshi: $9,189.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.830
+     [COMPRAR Kalshi YES Louisiana: $0.12] + [COMPRAR Poly Arkansas State Red Wolves: $0.710]
+   💰 SPREAD DE LUCRO EST.: +20.48% (Custo: $0.830) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #8 | MATCH #16 ] 🚨
+   Kalshi: Will Anyone's Legend win the Anyone's Legend vs. JD Gaming League of Legends match?
+   Poly  : LoL: JD Gaming vs Anyone's Legend (BO5) - LPL Playoffs
+   Liquidez Poly: $24,316.29 | Liquidez Kalshi: $2,135.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.850
+     [COMPRAR Kalshi YES Anyone's Legend: $0.42] + [COMPRAR Poly JD Gaming: $0.430]
+   💰 SPREAD DE LUCRO EST.: +17.65% (Custo: $0.850) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #9 | MATCH #59 ] 🚨
+   Kalshi: Will MIBR win the FOLHA AMARELA vs. MIBR CS2 match?
+   Poly  : Counter-Strike: MIBR vs FOLHA AMARELA (BO3) - PGL Bucharest: South American Closed Qualifier Playoffs
+   Liquidez Poly: $808.81 | Liquidez Kalshi: $7,053.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.850
+     [COMPRAR Kalshi NO MIBR: $0.13] + [COMPRAR Poly MIBR: $0.720]
+   💰 SPREAD DE LUCRO EST.: +17.65% (Custo: $0.850) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #10 | MATCH #60 ] 🚨
+   Kalshi: Will FOLHA AMARELA win the FOLHA AMARELA vs. MIBR CS2 match?
+   Poly  : Counter-Strike: MIBR vs FOLHA AMARELA (BO3) - PGL Bucharest: South American Closed Qualifier Playoffs
+   Liquidez Poly: $808.81 | Liquidez Kalshi: $6,306.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.850
+     [COMPRAR Kalshi YES FOLHA AMARELA: $0.13] + [COMPRAR Poly MIBR: $0.720]
+   💰 SPREAD DE LUCRO EST.: +17.65% (Custo: $0.850) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #11 | MATCH #99 ] 🚨
+   Kalshi: Colorado at Houston Winner?
+   Poly  : Colorado Buffaloes vs. Houston Cougars
+   Liquidez Poly: $764.03 | Liquidez Kalshi: $7,125.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.855
+     [COMPRAR Kalshi NO Houston: $0.18] + [COMPRAR Poly Houston: $0.675]
+   💰 SPREAD DE LUCRO EST.: +16.96% (Custo: $0.855) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #12 | MATCH #15 ] 🚨
+   Kalshi: Will JD Gaming win the Anyone's Legend vs. JD Gaming League of Legends match?
+   Poly  : LoL: JD Gaming vs Anyone's Legend (BO5) - LPL Playoffs
+   Liquidez Poly: $24,316.29 | Liquidez Kalshi: $3,123.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.870
+     [COMPRAR Kalshi NO JD Gaming: $0.44] + [COMPRAR Poly JD Gaming: $0.430]
+   💰 SPREAD DE LUCRO EST.: +14.94% (Custo: $0.870) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #13 | MATCH #39 ] 🚨
+   Kalshi: Will Omega win the Omega vs. Algo CS2 match?
+   Poly  : Counter-Strike: ALGO Esports vs Omega (BO3) - European Pro League Series 5 Group D
+   Liquidez Poly: $74.52 | Liquidez Kalshi: $6,392.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.875
+     [COMPRAR Kalshi YES Omega: $0.50] + [COMPRAR Poly ALGO Esports: $0.375]
+   💰 SPREAD DE LUCRO EST.: +14.29% (Custo: $0.875) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #14 | MATCH #40 ] 🚨
+   Kalshi: Will Algo win the Omega vs. Algo CS2 match?
+   Poly  : Counter-Strike: ALGO Esports vs Omega (BO3) - European Pro League Series 5 Group D
+   Liquidez Poly: $74.52 | Liquidez Kalshi: $4,862.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.885
+     [COMPRAR Kalshi NO Algo: $0.51] + [COMPRAR Poly Algo: $0.375]
+   💰 SPREAD DE LUCRO EST.: +12.99% (Custo: $0.885) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #15 | MATCH #114 ] 🚨
+   Kalshi: Appalachian St. at Texas St. Winner?
+   Poly  : Appalachian State Mountaineers vs. Texas State Bobcats
+   Liquidez Poly: $3,068.20 | Liquidez Kalshi: $25,446.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.890
+     [COMPRAR Kalshi YES Appalachian St.: $0.43] + [COMPRAR Poly Texas State Bobcats: $0.460]
+   💰 SPREAD DE LUCRO EST.: +12.36% (Custo: $0.890) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #16 | MATCH #136 ] 🚨
+   Kalshi: Brown at Columbia Winner?
+   Poly  : Brown Bears vs. Columbia Lions
+   Liquidez Poly: $5,461.68 | Liquidez Kalshi: $30,252.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.900
+     [COMPRAR Kalshi YES Brown: $0.32] + [COMPRAR Poly Columbia Lions: $0.580]
+   💰 SPREAD DE LUCRO EST.: +11.11% (Custo: $0.900) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #17 | MATCH #135 ] 🚨
+   Kalshi: Brown at Columbia Winner?
+   Poly  : Brown Bears vs. Columbia Lions
+   Liquidez Poly: $5,461.68 | Liquidez Kalshi: $29,545.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.910
+     [COMPRAR Kalshi NO Columbia: $0.33] + [COMPRAR Poly Columbia: $0.580]
+   💰 SPREAD DE LUCRO EST.: +9.89% (Custo: $0.910) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #18 | MATCH #137 ] 🚨
+   Kalshi: Dayton at George Washington Winner?
+   Poly  : Dayton Flyers vs. George Washington Revolutionaries
+   Liquidez Poly: $6,477.17 | Liquidez Kalshi: $21,356.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.915
+     [COMPRAR Kalshi NO George Washington: $0.41] + [COMPRAR Poly George Washington: $0.505]
+   💰 SPREAD DE LUCRO EST.: +9.29% (Custo: $0.915) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #19 | MATCH #87 ] 🚨
+   Kalshi: Will MOUZ NXT win the MOUZ NXT vs. EYEBALLERS CS2 match?
+   Poly  : Counter-Strike: EYEBALLERS vs MOUZ NXT (BO3) - PGL Bucharest: European Closed Qualifier Playoffs
+   Liquidez Poly: $10,306.78 | Liquidez Kalshi: $2,825.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.930
+     [COMPRAR Kalshi NO MOUZ NXT: $0.73] + [COMPRAR Poly MOUZ NXT: $0.200]
+   💰 SPREAD DE LUCRO EST.: +7.53% (Custo: $0.930) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #20 | MATCH #88 ] 🚨
+   Kalshi: Will EYEBALLERS win the MOUZ NXT vs. EYEBALLERS CS2 match?
+   Poly  : Counter-Strike: EYEBALLERS vs MOUZ NXT (BO3) - PGL Bucharest: European Closed Qualifier Playoffs
+   Liquidez Poly: $10,306.78 | Liquidez Kalshi: $2,499.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.930
+     [COMPRAR Kalshi YES EYEBALLERS: $0.73] + [COMPRAR Poly MOUZ NXT: $0.200]
+   💰 SPREAD DE LUCRO EST.: +7.53% (Custo: $0.930) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #21 | MATCH #95 ] 🚨
+   Kalshi: North Carolina St. at Notre Dame Winner?
+   Poly  : North Carolina State Wolfpack vs. Notre Dame Fighting Irish
+   Liquidez Poly: $4,588.70 | Liquidez Kalshi: $16,061.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.935
+     [COMPRAR Kalshi YES Notre Dame: $0.40] + [COMPRAR Poly North Carolina State Wolfpack: $0.535]
+   💰 SPREAD DE LUCRO EST.: +6.95% (Custo: $0.935) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #22 | MATCH #138 ] 🚨
+   Kalshi: Dayton at George Washington Winner?
+   Poly  : Dayton Flyers vs. George Washington Revolutionaries
+   Liquidez Poly: $6,477.17 | Liquidez Kalshi: $18,164.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.935
+     [COMPRAR Kalshi YES Dayton: $0.43] + [COMPRAR Poly George Washington Revolutionaries: $0.505]
+   💰 SPREAD DE LUCRO EST.: +6.95% (Custo: $0.935) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #23 | MATCH #57 ] 🚨
+   Kalshi: Will Vasco Esports win the Vasco Esports vs. Crashers CS2 match?
+   Poly  : Counter-Strike: Crashers vs Vasco Esports (BO3) - CCT South America Series #9 Group Stage
+   Liquidez Poly: $4,712.56 | Liquidez Kalshi: $2,894.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.945
+     [COMPRAR Kalshi YES Vasco Esports: $0.57] + [COMPRAR Poly Crashers: $0.375]
+   💰 SPREAD DE LUCRO EST.: +5.82% (Custo: $0.945) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #24 | MATCH #58 ] 🚨
+   Kalshi: Will Crashers win the Vasco Esports vs. Crashers CS2 match?
+   Poly  : Counter-Strike: Crashers vs Vasco Esports (BO3) - CCT South America Series #9 Group Stage
+   Liquidez Poly: $4,712.56 | Liquidez Kalshi: $3,069.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.945
+     [COMPRAR Kalshi NO Crashers: $0.57] + [COMPRAR Poly Crashers: $0.375]
+   💰 SPREAD DE LUCRO EST.: +5.82% (Custo: $0.945) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #25 | MATCH #47 ] 🚨
+   Kalshi: Will MOUZ NXT win the MOUZ NXT vs. K27 CS2 match?
+   Poly  : Counter-Strike: K27 vs MOUZ NXT (BO3) - CCT Europe Series #16 Playoffs
+   Liquidez Poly: $449.94 | Liquidez Kalshi: $2,147.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.945
+     [COMPRAR Kalshi NO MOUZ NXT: $0.55] + [COMPRAR Poly MOUZ NXT: $0.395]
+   💰 SPREAD DE LUCRO EST.: +5.82% (Custo: $0.945) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #26 | MATCH #124 ] 🚨
+   Kalshi: Manhattan at Saint Peter's Winner?
+   Poly  : Manhattan Jaspers vs. Saint Peter's Peacocks
+   Liquidez Poly: $5,741.16 | Liquidez Kalshi: $15,702.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.950
+     [COMPRAR Kalshi NO Manhattan: $0.70] + [COMPRAR Poly Manhattan: $0.250]
+   💰 SPREAD DE LUCRO EST.: +5.26% (Custo: $0.950) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #27 | MATCH #126 ] 🚨
+   Kalshi: Rider at Iona Winner?
+   Poly  : Rider Broncs vs. Iona Gaels
+   Liquidez Poly: $7,045.01 | Liquidez Kalshi: $21,170.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.965
+     [COMPRAR Kalshi NO Iona: $0.12] + [COMPRAR Poly Iona: $0.845]
+   💰 SPREAD DE LUCRO EST.: +3.63% (Custo: $0.965) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #28 | MATCH #125 ] 🚨
+   Kalshi: Rider at Iona Winner?
+   Poly  : Rider Broncs vs. Iona Gaels
+   Liquidez Poly: $7,045.01 | Liquidez Kalshi: $19,769.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.965
+     [COMPRAR Kalshi YES Rider: $0.12] + [COMPRAR Poly Iona Gaels: $0.845]
+   💰 SPREAD DE LUCRO EST.: +3.63% (Custo: $0.965) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #29 | MATCH #48 ] 🚨
+   Kalshi: Will K27 win the MOUZ NXT vs. K27 CS2 match?
+   Poly  : Counter-Strike: K27 vs MOUZ NXT (BO3) - CCT Europe Series #16 Playoffs
+   Liquidez Poly: $449.94 | Liquidez Kalshi: $1,762.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.975
+     [COMPRAR Kalshi YES K27: $0.58] + [COMPRAR Poly MOUZ NXT: $0.395]
+   💰 SPREAD DE LUCRO EST.: +2.56% (Custo: $0.975) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #30 | MATCH #117 ] 🚨
+   Kalshi: Coastal Carolina at James Madison Winner?
+   Poly  : Coastal Carolina Chanticleers vs. James Madison Dukes
+   Liquidez Poly: $5,617.25 | Liquidez Kalshi: $18,194.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.975
+     [COMPRAR Kalshi NO James Madison: $0.36] + [COMPRAR Poly James Madison: $0.615]
+   💰 SPREAD DE LUCRO EST.: +2.56% (Custo: $0.975) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #31 | MATCH #121 ] 🚨
+   Kalshi: Louisiana-Monroe at Troy Winner?
+   Poly  : Louisiana-Monroe Warhawks vs. Troy Trojans
+   Liquidez Poly: $2,038.46 | Liquidez Kalshi: $11,094.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.975
+     [COMPRAR Kalshi YES Louisiana-Monroe: $0.11] + [COMPRAR Poly Troy Trojans: $0.865]
+   💰 SPREAD DE LUCRO EST.: +2.56% (Custo: $0.975) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #32 | MATCH #122 ] 🚨
+   Kalshi: Louisiana-Monroe at Troy Winner?
+   Poly  : Louisiana-Monroe Warhawks vs. Troy Trojans
+   Liquidez Poly: $2,038.46 | Liquidez Kalshi: $14,326.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.975
+     [COMPRAR Kalshi NO Troy: $0.11] + [COMPRAR Poly Troy: $0.865]
+   💰 SPREAD DE LUCRO EST.: +2.56% (Custo: $0.975) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #33 | MATCH #73 ] 🚨
+   Kalshi: Will ShindeN win the Galorys vs. ShindeN CS2 match?
+   Poly  : Counter-Strike: ShindeN vs Galorys (BO3) - PGL Bucharest: South American Closed Qualifier Playoffs
+   Liquidez Poly: $31,077.33 | Liquidez Kalshi: $7,454.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.975
+     [COMPRAR Kalshi NO ShindeN: $0.46] + [COMPRAR Poly ShindeN: $0.515]
+   💰 SPREAD DE LUCRO EST.: +2.56% (Custo: $0.975) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #34 | MATCH #67 ] 🚨
+   Kalshi: Will WW Team win the WW Team vs. UNiTY esports CS2 match?
+   Poly  : Counter-Strike: UNiTY esports vs WW Team (BO3) - European Pro League Series 5 Group C
+   Liquidez Poly: $759.75 | Liquidez Kalshi: $7,148.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.980
+     [COMPRAR Kalshi YES WW Team: $0.64] + [COMPRAR Poly UNiTY esports: $0.340]
+   💰 SPREAD DE LUCRO EST.: +2.04% (Custo: $0.980) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #35 | MATCH #68 ] 🚨
+   Kalshi: Will UNiTY esports win the WW Team vs. UNiTY esports CS2 match?
+   Poly  : Counter-Strike: UNiTY esports vs WW Team (BO3) - European Pro League Series 5 Group C
+   Liquidez Poly: $759.75 | Liquidez Kalshi: $5,772.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.980
+     [COMPRAR Kalshi NO UNiTY esports: $0.64] + [COMPRAR Poly UNiTY esports: $0.340]
+   💰 SPREAD DE LUCRO EST.: +2.04% (Custo: $0.980) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #36 | MATCH #111 ] 🚨
+   Kalshi: Akron at Kent St. Winner?
+   Poly  : Akron Zips vs. Kent State Golden Flashes
+   Liquidez Poly: $5,748.36 | Liquidez Kalshi: $20,439.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.980
+     [COMPRAR Kalshi YES Kent St.: $0.38] + [COMPRAR Poly Akron Zips: $0.600]
+   💰 SPREAD DE LUCRO EST.: +2.04% (Custo: $0.980) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #37 | MATCH #127 ] 🚨
+   Kalshi: Merrimack at Canisius Winner?
+   Poly  : Merrimack College Warriors vs. Canisius Golden Griffins
+   Liquidez Poly: $6,288.97 | Liquidez Kalshi: $14,250.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.980
+     [COMPRAR Kalshi NO Merrimack: $0.18] + [COMPRAR Poly Merrimack: $0.800]
+   💰 SPREAD DE LUCRO EST.: +2.04% (Custo: $0.980) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #38 | MATCH #123 ] 🚨
+   Kalshi: Manhattan at Saint Peter's Winner?
+   Poly  : Manhattan Jaspers vs. Saint Peter's Peacocks
+   Liquidez Poly: $5,741.16 | Liquidez Kalshi: $18,850.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.980
+     [COMPRAR Kalshi YES Saint Peter's: $0.73] + [COMPRAR Poly Manhattan Jaspers: $0.250]
+   💰 SPREAD DE LUCRO EST.: +2.04% (Custo: $0.980) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #39 | MATCH #128 ] 🚨
+   Kalshi: Merrimack at Canisius Winner?
+   Poly  : Merrimack College Warriors vs. Canisius Golden Griffins
+   Liquidez Poly: $6,288.97 | Liquidez Kalshi: $15,271.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.980
+     [COMPRAR Kalshi YES Canisius: $0.18] + [COMPRAR Poly Merrimack College Warriors: $0.800]
+   💰 SPREAD DE LUCRO EST.: +2.04% (Custo: $0.980) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #40 | MATCH #129 ] 🚨
+   Kalshi: Mount St. Mary's at Sacred Heart Winner?
+   Poly  : Mount St. Mary's Mountaineers vs. Sacred Heart Pioneers
+   Liquidez Poly: $5,619.25 | Liquidez Kalshi: $26,302.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.980
+     [COMPRAR Kalshi NO Sacred Heart: $0.48] + [COMPRAR Poly Sacred Heart: $0.500]
+   💰 SPREAD DE LUCRO EST.: +2.04% (Custo: $0.980) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #41 | MATCH #130 ] 🚨
+   Kalshi: Mount St. Mary's at Sacred Heart Winner?
+   Poly  : Mount St. Mary's Mountaineers vs. Sacred Heart Pioneers
+   Liquidez Poly: $5,619.25 | Liquidez Kalshi: $29,866.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.980
+     [COMPRAR Kalshi YES Mount St. Mary's: $0.48] + [COMPRAR Poly Sacred Heart Pioneers: $0.500]
+   💰 SPREAD DE LUCRO EST.: +2.04% (Custo: $0.980) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #42 | MATCH #158 ] 🚨
+   Kalshi: Abilene Christian at Utah Tech Winner?
+   Poly  : Abilene Christian Wildcats vs. Utah Tech Trailblazers
+   Liquidez Poly: $9,545.22 | Liquidez Kalshi: $1,032,734.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.980
+     [COMPRAR Kalshi YES Abilene Christian: $0.38] + [COMPRAR Poly Utah Tech Trailblazers: $0.600]
+   💰 SPREAD DE LUCRO EST.: +2.04% (Custo: $0.980) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #43 | MATCH #172 ] 🚨
+   Kalshi: Wichita St. at Memphis Winner?
+   Poly  : Wichita State Shockers vs. Memphis Tigers
+   Liquidez Poly: $9,862.53 | Liquidez Kalshi: $1,162,489.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.980
+     [COMPRAR Kalshi YES Memphis: $0.50] + [COMPRAR Poly Wichita State Shockers: $0.480]
+   💰 SPREAD DE LUCRO EST.: +2.04% (Custo: $0.980) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #44 | MATCH #85 ] 🚨
+   Kalshi: Will los kogutos win the kONO.ECF vs. los kogutos CS2 match?
+   Poly  : Counter-Strike: los kogutos vs kONO.ECF (BO3) - European Pro League Series 5 Group B
+   Liquidez Poly: $4,050.06 | Liquidez Kalshi: $2,534.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.985
+     [COMPRAR Kalshi NO los kogutos: $0.42] + [COMPRAR Poly los kogutos: $0.565]
+   💰 SPREAD DE LUCRO EST.: +1.52% (Custo: $0.985) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #45 | MATCH #86 ] 🚨
+   Kalshi: Will kONO.ECF win the kONO.ECF vs. los kogutos CS2 match?
+   Poly  : Counter-Strike: los kogutos vs kONO.ECF (BO3) - European Pro League Series 5 Group B
+   Liquidez Poly: $4,050.06 | Liquidez Kalshi: $2,718.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.985
+     [COMPRAR Kalshi YES kONO.ECF: $0.42] + [COMPRAR Poly los kogutos: $0.565]
+   💰 SPREAD DE LUCRO EST.: +1.52% (Custo: $0.985) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #46 | MATCH #110 ] 🚨
+   Kalshi: Southern Miss at South Alabama Winner?
+   Poly  : Southern Miss Golden Eagles vs. South Alabama Jaguars
+   Liquidez Poly: $6,164.60 | Liquidez Kalshi: $17,091.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.985
+     [COMPRAR Kalshi YES South Alabama: $0.70] + [COMPRAR Poly Southern Miss Golden Eagles: $0.285]
+   💰 SPREAD DE LUCRO EST.: +1.52% (Custo: $0.985) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #47 | MATCH #4 ] 🚨
+   Kalshi: Will Crusaders win the Periquitos Zangados vs. Crusaders League of Legends match?
+   Poly  : LoL: Crusaders vs Periquitos Zangados (BO3) - LPLOL Playoffs
+   Liquidez Poly: $18,447.90 | Liquidez Kalshi: $2,806.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.985
+     [COMPRAR Kalshi YES Crusaders: $0.88] + [COMPRAR Poly Periquitos Zangados: $0.105]
+   💰 SPREAD DE LUCRO EST.: +1.52% (Custo: $0.985) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #48 | MATCH #3 ] 🚨
+   Kalshi: Will Periquitos Zangados win the Periquitos Zangados vs. Crusaders League of Legends match?
+   Poly  : LoL: Crusaders vs Periquitos Zangados (BO3) - LPLOL Playoffs
+   Liquidez Poly: $18,447.90 | Liquidez Kalshi: $2,809.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.985
+     [COMPRAR Kalshi NO Periquitos Zangados: $0.88] + [COMPRAR Poly Periquitos Zangados: $0.105]
+   💰 SPREAD DE LUCRO EST.: +1.52% (Custo: $0.985) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #49 | MATCH #118 ] 🚨
+   Kalshi: Coastal Carolina at James Madison Winner?
+   Poly  : Coastal Carolina Chanticleers vs. James Madison Dukes
+   Liquidez Poly: $5,617.25 | Liquidez Kalshi: $21,745.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.985
+     [COMPRAR Kalshi YES Coastal Carolina: $0.37] + [COMPRAR Poly James Madison Dukes: $0.615]
+   💰 SPREAD DE LUCRO EST.: +1.52% (Custo: $0.985) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #50 | MATCH #149 ] 🚨
+   Kalshi: Cal State Bakersfield at UC San Diego Winner?
+   Poly  : Bakersfield Roadrunners vs. California-San Diego Tritons
+   Liquidez Poly: $3,677.60 | Liquidez Kalshi: $818,610.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.985
+     [COMPRAR Kalshi NO UC San Diego: $0.09] + [COMPRAR Poly UC San Diego: $0.895]
+   💰 SPREAD DE LUCRO EST.: +1.52% (Custo: $0.985) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #51 | MATCH #150 ] 🚨
+   Kalshi: Cal State Bakersfield at UC San Diego Winner?
+   Poly  : Bakersfield Roadrunners vs. California-San Diego Tritons
+   Liquidez Poly: $3,677.60 | Liquidez Kalshi: $793,815.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.985
+     [COMPRAR Kalshi YES Cal State Bakersfield: $0.09] + [COMPRAR Poly California-San Diego Tritons: $0.895]
+   💰 SPREAD DE LUCRO EST.: +1.52% (Custo: $0.985) 💰
+------------------------------------------------------------
+🚨 [ OPORTUNIDADE ENCONTRADA: RANK #52 | MATCH #165 ] 🚨
+   Kalshi: Northern Arizona at Idaho Winner?
+   Poly  : Northern Arizona Lumberjacks vs. Idaho Vandals
+   Liquidez Poly: $11,372.52 | Liquidez Kalshi: $801,054.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.985
+     [COMPRAR Kalshi YES Northern Arizona: $0.16] + [COMPRAR Poly Idaho Vandals: $0.825]
+   💰 SPREAD DE LUCRO EST.: +1.52% (Custo: $0.985) 💰
+------------------------------------------------------------
+🔸 [ MATCH #5 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Ninjas in Pyjamas win the Ninjas in Pyjamas vs. Invictus Gaming League of Legends match?
+   Poly  : LoL: Invictus Gaming vs Ninjas in Pyjamas (BO5) - LPL Playoffs
+   Liquidez Poly: $14,361.89 | Liquidez Kalshi: $20,948.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.990
+     [COMPRAR Kalshi YES Ninjas in Pyjamas: $0.52] + [COMPRAR Poly Invictus Gaming: $0.470]
+------------------------------------------------------------
+🔸 [ MATCH #115 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Michigan at Illinois Winner?
+   Poly  : Michigan Wolverines vs. Illinois Fighting Illini
+   Liquidez Poly: $3,772.18 | Liquidez Kalshi: $29,701.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.990
+     [COMPRAR Kalshi NO Michigan: $0.46] + [COMPRAR Poly Michigan: $0.530]
+------------------------------------------------------------
+🔸 [ MATCH #167 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Florida International at Sam Houston Winner?
+   Poly  : Florida International Golden Panthers vs. Sam Houston Bearkats
+   Liquidez Poly: $7,640.62 | Liquidez Kalshi: $1,052,836.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.990
+     [COMPRAR Kalshi NO Sam Houston: $0.27] + [COMPRAR Poly Sam Houston: $0.720]
+------------------------------------------------------------
+🔸 [ MATCH #171 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Wichita St. at Memphis Winner?
+   Poly  : Wichita State Shockers vs. Memphis Tigers
+   Liquidez Poly: $9,862.53 | Liquidez Kalshi: $1,171,702.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.990
+     [COMPRAR Kalshi NO Wichita St.: $0.51] + [COMPRAR Poly Wichita St.: $0.480]
+------------------------------------------------------------
+🔸 [ MATCH #175 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Florida A&M at Southern University Winner?
+   Poly  : Florida A&M Rattlers vs. Southern Jaguars
+   Liquidez Poly: $10,051.33 | Liquidez Kalshi: $811,502.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.990
+     [COMPRAR Kalshi NO Southern University: $0.21] + [COMPRAR Poly Southern University: $0.780]
+------------------------------------------------------------
+🔸 [ MATCH #176 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Florida A&M at Southern University Winner?
+   Poly  : Florida A&M Rattlers vs. Southern Jaguars
+   Liquidez Poly: $10,051.33 | Liquidez Kalshi: $809,985.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.990
+     [COMPRAR Kalshi YES Florida A&M: $0.21] + [COMPRAR Poly Southern Jaguars: $0.780]
+------------------------------------------------------------
+🔸 [ MATCH #84 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will fnatic win the Inner Circle Esports vs. fnatic CS2 match?
+   Poly  : Counter-Strike: fnatic vs Inner Circle Esports (BO3) - PGL Bucharest: European Closed Qualifier Playoffs
+   Liquidez Poly: $14,484.85 | Liquidez Kalshi: $10,614.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.995
+     [COMPRAR Kalshi NO fnatic: $0.41] + [COMPRAR Poly fnatic: $0.585]
+------------------------------------------------------------
+🔸 [ MATCH #109 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Southern Miss at South Alabama Winner?
+   Poly  : Southern Miss Golden Eagles vs. South Alabama Jaguars
+   Liquidez Poly: $6,164.60 | Liquidez Kalshi: $12,457.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.995
+     [COMPRAR Kalshi NO Southern Miss: $0.71] + [COMPRAR Poly Southern Miss: $0.285]
+------------------------------------------------------------
+🔸 [ MATCH #9 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Team WE win the Team WE vs. Top Esports League of Legends match?
+   Poly  : LoL: Top Esports vs Team WE (BO5) - LPL Playoffs
+   Liquidez Poly: $7,994.01 | Liquidez Kalshi: $21,765.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.995
+     [COMPRAR Kalshi YES Team WE: $0.28] + [COMPRAR Poly Top Esports: $0.715]
+------------------------------------------------------------
+🔸 [ MATCH #7 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Weibo Gaming win the Bilibili Gaming vs. Weibo Gaming League of Legends match?
+   Poly  : LoL: Weibo Gaming vs Bilibili Gaming (BO5) - LPL Playoffs
+   Liquidez Poly: $51,393.99 | Liquidez Kalshi: $33,063.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.995
+     [COMPRAR Kalshi YES Weibo Gaming: $0.25] + [COMPRAR Poly Bilibili Gaming: $0.745]
+------------------------------------------------------------
+🔸 [ MATCH #38 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Eintracht Spandau win the E WIE EINFACH E-SPORTS vs. Eintracht Spandau League of Legends match?
+   Poly  : LoL: Eintracht Spandau vs E WIE EINFACH E-SPORTS (BO3) - Prime League 1st Division Playoffs
+   Liquidez Poly: $4,905.63 | Liquidez Kalshi: $6,155.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.995
+     [COMPRAR Kalshi NO Eintracht Spandau: $0.25] + [COMPRAR Poly Eintracht Spandau: $0.745]
+------------------------------------------------------------
+🔸 [ MATCH #42 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Sinners win the Sinners vs. WW Team CS2 match?
+   Poly  : Counter-Strike: WW Team vs Sinners (BO3) - CCT Europe Series #16 Playoffs
+   Liquidez Poly: $713.13 | Liquidez Kalshi: $24,084.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.995
+     [COMPRAR Kalshi NO Sinners: $0.35] + [COMPRAR Poly Sinners: $0.645]
+------------------------------------------------------------
+🔸 [ MATCH #41 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will WW Team win the Sinners vs. WW Team CS2 match?
+   Poly  : Counter-Strike: WW Team vs Sinners (BO3) - CCT Europe Series #16 Playoffs
+   Liquidez Poly: $713.13 | Liquidez Kalshi: $23,532.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.995
+     [COMPRAR Kalshi NO WW Team: $0.64] + [COMPRAR Poly WW Team: $0.355]
+------------------------------------------------------------
+🔸 [ MATCH #74 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Galorys win the Galorys vs. ShindeN CS2 match?
+   Poly  : Counter-Strike: ShindeN vs Galorys (BO3) - PGL Bucharest: South American Closed Qualifier Playoffs
+   Liquidez Poly: $31,077.33 | Liquidez Kalshi: $7,262.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.995
+     [COMPRAR Kalshi YES Galorys: $0.48] + [COMPRAR Poly ShindeN: $0.515]
+------------------------------------------------------------
+🔸 [ MATCH #161 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: UC Riverside at UC Santa Barbara Winner?
+   Poly  : UC Riverside Highlanders vs. UC Santa Barbara Gauchos
+   Liquidez Poly: $7,149.05 | Liquidez Kalshi: $743,824.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.995
+     [COMPRAR Kalshi NO UC Santa Barbara: $0.14] + [COMPRAR Poly UC Santa Barbara: $0.855]
+------------------------------------------------------------
+🔸 [ MATCH #170 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Sacramento St. at Montana Winner?
+   Poly  : Sacramento State Hornets vs. Montana Grizzlies
+   Liquidez Poly: $7,657.01 | Liquidez Kalshi: $913,222.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.995
+     [COMPRAR Kalshi NO Montana: $0.26] + [COMPRAR Poly Montana: $0.735]
+------------------------------------------------------------
+🔸 [ MATCH #169 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Sacramento St. at Montana Winner?
+   Poly  : Sacramento State Hornets vs. Montana Grizzlies
+   Liquidez Poly: $7,657.01 | Liquidez Kalshi: $920,364.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.995
+     [COMPRAR Kalshi YES Sacramento St.: $0.26] + [COMPRAR Poly Montana Grizzlies: $0.735]
+------------------------------------------------------------
+🔸 [ MATCH #177 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Eastern Illinois at Lindenwood Winner?
+   Poly  : Eastern Illinois Panthers vs. Lindenwood Lions
+   Liquidez Poly: $8,365.78 | Liquidez Kalshi: $871,857.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 0.995
+     [COMPRAR Kalshi NO Lindenwood: $0.23] + [COMPRAR Poly Lindenwood: $0.765]
+------------------------------------------------------------
+🔸 [ MATCH #178 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Eastern Illinois at Lindenwood Winner?
+   Poly  : Eastern Illinois Panthers vs. Lindenwood Lions
+   Liquidez Poly: $8,365.78 | Liquidez Kalshi: $869,191.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.995
+     [COMPRAR Kalshi YES Eastern Illinois: $0.23] + [COMPRAR Poly Lindenwood Lions: $0.765]
+------------------------------------------------------------
+🔸 [ MATCH #19 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Karmine Corp win the Karmine Corp vs. GIANTX League of Legends match?
+   Poly  : LoL: GIANTX vs Karmine Corp (BO5) - LEC Versus Playoffs
+   Liquidez Poly: $11,263.02 | Liquidez Kalshi: $6,947.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 0.995
+     [COMPRAR Kalshi YES Karmine Corp: $0.80] + [COMPRAR Poly GIANTX: $0.195]
+------------------------------------------------------------
+🔸 [ MATCH #6 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Invictus Gaming win the Ninjas in Pyjamas vs. Invictus Gaming League of Legends match?
+   Poly  : LoL: Invictus Gaming vs Ninjas in Pyjamas (BO5) - LPL Playoffs
+   Liquidez Poly: $14,361.89 | Liquidez Kalshi: $21,637.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.000
+     [COMPRAR Kalshi NO Invictus Gaming: $0.53] + [COMPRAR Poly Invictus Gaming: $0.470]
+------------------------------------------------------------
+🔸 [ MATCH #52 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will FlyQuest win the FlyQuest vs. Nexus CS2 match?
+   Poly  : Counter-Strike: Nexus vs FlyQuest (BO3) - DraculaN Playoffs
+   Liquidez Poly: $1,927.82 | Liquidez Kalshi: $1,324.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.000
+     [COMPRAR Kalshi YES FlyQuest: $0.95] + [COMPRAR Poly Nexus: $0.050]
+------------------------------------------------------------
+🔸 [ MATCH #51 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Nexus win the FlyQuest vs. Nexus CS2 match?
+   Poly  : Counter-Strike: Nexus vs FlyQuest (BO3) - DraculaN Playoffs
+   Liquidez Poly: $1,927.82 | Liquidez Kalshi: $1,747.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.000
+     [COMPRAR Kalshi NO Nexus: $0.95] + [COMPRAR Poly Nexus: $0.050]
+------------------------------------------------------------
+🔸 [ MATCH #65 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will LAG Gaming win the LAG Gaming vs. FlyQuest RED CS2 match?
+   Poly  : Counter-Strike: FlyQuest RED vs LAG Gaming (BO3) - PGL Bucharest: North American Closed Qualifier Playoffs
+   Liquidez Poly: $13,472.37 | Liquidez Kalshi: $4,739.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.000
+     [COMPRAR Kalshi YES LAG Gaming: $0.94] + [COMPRAR Poly FlyQuest RED: $0.060]
+------------------------------------------------------------
+🔸 [ MATCH #66 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will FlyQuest RED win the LAG Gaming vs. FlyQuest RED CS2 match?
+   Poly  : Counter-Strike: FlyQuest RED vs LAG Gaming (BO3) - PGL Bucharest: North American Closed Qualifier Playoffs
+   Liquidez Poly: $13,472.37 | Liquidez Kalshi: $4,474.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.000
+     [COMPRAR Kalshi NO FlyQuest RED: $0.94] + [COMPRAR Poly FlyQuest RED: $0.060]
+------------------------------------------------------------
+🔸 [ MATCH #112 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Akron at Kent St. Winner?
+   Poly  : Akron Zips vs. Kent State Golden Flashes
+   Liquidez Poly: $5,748.36 | Liquidez Kalshi: $20,482.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.000
+     [COMPRAR Kalshi NO Akron: $0.40] + [COMPRAR Poly Akron: $0.600]
+------------------------------------------------------------
+🔸 [ MATCH #113 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Appalachian St. at Texas St. Winner?
+   Poly  : Appalachian State Mountaineers vs. Texas State Bobcats
+   Liquidez Poly: $3,068.20 | Liquidez Kalshi: $17,708.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.000
+     [COMPRAR Kalshi NO Texas St.: $0.54] + [COMPRAR Poly Texas St.: $0.460]
+------------------------------------------------------------
+🔸 [ MATCH #147 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: UT Arlington at California Baptist Winner?
+   Poly  : UT Arlington Mavericks vs. California Baptist Lancers
+   Liquidez Poly: $6,569.02 | Liquidez Kalshi: $1,032,621.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.000
+     [COMPRAR Kalshi YES UT Arlington: $0.27] + [COMPRAR Poly California Baptist Lancers: $0.730]
+------------------------------------------------------------
+🔸 [ MATCH #148 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: UT Arlington at California Baptist Winner?
+   Poly  : UT Arlington Mavericks vs. California Baptist Lancers
+   Liquidez Poly: $6,569.02 | Liquidez Kalshi: $1,033,846.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.000
+     [COMPRAR Kalshi NO California Baptist: $0.27] + [COMPRAR Poly California Baptist: $0.730]
+------------------------------------------------------------
+🔸 [ MATCH #154 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Bethune-Cookman at Grambling St. Winner?
+   Poly  : Bethune-Cookman Wildcats vs. Grambling State Tigers
+   Liquidez Poly: $10,458.33 | Liquidez Kalshi: $25,373.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.000
+     [COMPRAR Kalshi NO Bethune-Cookman: $0.47] + [COMPRAR Poly Bethune-Cookman: $0.530]
+------------------------------------------------------------
+🔸 [ MATCH #157 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Abilene Christian at Utah Tech Winner?
+   Poly  : Abilene Christian Wildcats vs. Utah Tech Trailblazers
+   Liquidez Poly: $9,545.22 | Liquidez Kalshi: $1,015,431.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.000
+     [COMPRAR Kalshi NO Utah Tech: $0.40] + [COMPRAR Poly Utah Tech: $0.600]
+------------------------------------------------------------
+🔸 [ MATCH #160 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Portland St. at Montana St. Winner?
+   Poly  : Portland State Vikings vs. Montana State Bobcats
+   Liquidez Poly: $9,113.93 | Liquidez Kalshi: $899,637.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.000
+     [COMPRAR Kalshi YES Montana St.: $0.56] + [COMPRAR Poly Portland State Vikings: $0.440]
+------------------------------------------------------------
+🔸 [ MATCH #164 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: North Dakota St. at St. Thomas Winner?
+   Poly  : North Dakota State Bison vs. St. Thomas (MN) Tommies
+   Liquidez Poly: $10,817.03 | Liquidez Kalshi: $996,881.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.000
+     [COMPRAR Kalshi NO North Dakota St.: $0.62] + [COMPRAR Poly North Dakota St.: $0.380]
+------------------------------------------------------------
+🔸 [ MATCH #168 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Florida International at Sam Houston Winner?
+   Poly  : Florida International Golden Panthers vs. Sam Houston Bearkats
+   Liquidez Poly: $7,640.62 | Liquidez Kalshi: $1,053,906.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.000
+     [COMPRAR Kalshi YES Florida International: $0.28] + [COMPRAR Poly Sam Houston Bearkats: $0.720]
+------------------------------------------------------------
+🔸 [ MATCH #174 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Northern Colorado at Eastern Washington Winner?
+   Poly  : Northern Colorado Bears vs. Eastern Washington Eagles
+   Liquidez Poly: $8,389.25 | Liquidez Kalshi: $1,030,206.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.000
+     [COMPRAR Kalshi NO Eastern Washington: $0.51] + [COMPRAR Poly Eastern Washington: $0.490]
+------------------------------------------------------------
+🔸 [ MATCH #173 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Northern Colorado at Eastern Washington Winner?
+   Poly  : Northern Colorado Bears vs. Eastern Washington Eagles
+   Liquidez Poly: $8,389.25 | Liquidez Kalshi: $1,035,684.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.000
+     [COMPRAR Kalshi YES Northern Colorado: $0.51] + [COMPRAR Poly Eastern Washington Eagles: $0.490]
+------------------------------------------------------------
+🔸 [ MATCH #8 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Bilibili Gaming win the Bilibili Gaming vs. Weibo Gaming League of Legends match?
+   Poly  : LoL: Weibo Gaming vs Bilibili Gaming (BO5) - LPL Playoffs
+   Liquidez Poly: $51,393.99 | Liquidez Kalshi: $24,041.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.005
+     [COMPRAR Kalshi NO Bilibili Gaming: $0.26] + [COMPRAR Poly Bilibili Gaming: $0.745]
+------------------------------------------------------------
+🔸 [ MATCH #14 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Dplus KIA win the Dplus KIA vs. BNK FEARX League of Legends match?
+   Poly  : LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Cup Playoffs
+   Liquidez Poly: $57,845.62 | Liquidez Kalshi: $8,619.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.005
+     [COMPRAR Kalshi YES Dplus KIA: $0.53] + [COMPRAR Poly BNK FEARX: $0.475]
+------------------------------------------------------------
+🔸 [ MATCH #13 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will BNK FEARX win the Dplus KIA vs. BNK FEARX League of Legends match?
+   Poly  : LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Cup Playoffs
+   Liquidez Poly: $57,845.62 | Liquidez Kalshi: $8,408.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.005
+     [COMPRAR Kalshi YES BNK FEARX: $0.48] + [COMPRAR Poly Dplus KIA: $0.525]
+------------------------------------------------------------
+🔸 [ MATCH #22 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will LYON win the LYON vs. Team Liquid League of Legends match?
+   Poly  : LoL: LYON vs Team Liquid (BO5) - LCS Lock In Playoffs
+   Liquidez Poly: $17,719.21 | Liquidez Kalshi: $7,355.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.005
+     [COMPRAR Kalshi NO LYON: $0.50] + [COMPRAR Poly LYON: $0.505]
+------------------------------------------------------------
+🔸 [ MATCH #21 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Team Liquid win the LYON vs. Team Liquid League of Legends match?
+   Poly  : LoL: LYON vs Team Liquid (BO5) - LCS Lock In Playoffs
+   Liquidez Poly: $17,719.21 | Liquidez Kalshi: $7,132.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.005
+     [COMPRAR Kalshi NO Team Liquid: $0.51] + [COMPRAR Poly Team Liquid: $0.495]
+------------------------------------------------------------
+🔸 [ MATCH #25 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Ruddy Esports win the Ruddy Esports vs. LEO League of Legends match?
+   Poly  : LoL: LEO vs Ruddy Esports (BO1) - NLC Regular Season
+   Liquidez Poly: $16,831.84 | Liquidez Kalshi: $5,894.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.005
+     [COMPRAR Kalshi NO Ruddy Esports: $0.94] + [COMPRAR Poly Ruddy Esports: $0.065]
+------------------------------------------------------------
+🔸 [ MATCH #26 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will LEO win the Ruddy Esports vs. LEO League of Legends match?
+   Poly  : LoL: LEO vs Ruddy Esports (BO1) - NLC Regular Season
+   Liquidez Poly: $16,831.84 | Liquidez Kalshi: $6,365.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.005
+     [COMPRAR Kalshi YES LEO: $0.94] + [COMPRAR Poly Ruddy Esports: $0.065]
+------------------------------------------------------------
+🔸 [ MATCH #45 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will ENCE win the ENCE vs. CYBERSHOKE Esports CS2 match?
+   Poly  : Counter-Strike: CYBERSHOKE Esports vs ENCE (BO3) - DraculaN Playoffs
+   Liquidez Poly: $4,273.30 | Liquidez Kalshi: $2,223.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.005
+     [COMPRAR Kalshi NO ENCE: $0.66] + [COMPRAR Poly ENCE: $0.345]
+------------------------------------------------------------
+🔸 [ MATCH #83 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Inner Circle Esports win the Inner Circle Esports vs. fnatic CS2 match?
+   Poly  : Counter-Strike: fnatic vs Inner Circle Esports (BO3) - PGL Bucharest: European Closed Qualifier Playoffs
+   Liquidez Poly: $14,484.85 | Liquidez Kalshi: $9,064.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.005
+     [COMPRAR Kalshi YES Inner Circle Esports: $0.42] + [COMPRAR Poly fnatic: $0.585]
+------------------------------------------------------------
+🔸 [ MATCH #79 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will FOKUS win the FOKUS vs. BetBoom Team CS2 match?
+   Poly  : Counter-Strike: BetBoom Team vs FOKUS (BO3) - PGL Bucharest: European Closed Qualifier Playoffs
+   Liquidez Poly: $21,252.28 | Liquidez Kalshi: $6,513.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.005
+     [COMPRAR Kalshi YES FOKUS: $0.19] + [COMPRAR Poly BetBoom Team: $0.815]
+------------------------------------------------------------
+🔸 [ MATCH #80 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will BetBoom Team win the FOKUS vs. BetBoom Team CS2 match?
+   Poly  : Counter-Strike: BetBoom Team vs FOKUS (BO3) - PGL Bucharest: European Closed Qualifier Playoffs
+   Liquidez Poly: $21,252.28 | Liquidez Kalshi: $8,480.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.005
+     [COMPRAR Kalshi NO BetBoom Team: $0.19] + [COMPRAR Poly BetBoom Team: $0.815]
+------------------------------------------------------------
+🔸 [ MATCH #142 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Quinnipiac at Niagara Winner?
+   Poly  : Quinnipiac Bobcats vs. Niagara Purple Eagles
+   Liquidez Poly: $6,197.90 | Liquidez Kalshi: $16,609.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.005
+     [COMPRAR Kalshi YES Niagara: $0.28] + [COMPRAR Poly Quinnipiac Bobcats: $0.725]
+------------------------------------------------------------
+🔸 [ MATCH #162 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: UC Riverside at UC Santa Barbara Winner?
+   Poly  : UC Riverside Highlanders vs. UC Santa Barbara Gauchos
+   Liquidez Poly: $7,149.05 | Liquidez Kalshi: $738,327.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.005
+     [COMPRAR Kalshi YES UC Riverside: $0.15] + [COMPRAR Poly UC Santa Barbara Gauchos: $0.855]
+------------------------------------------------------------
+🔸 [ MATCH #166 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Northern Arizona at Idaho Winner?
+   Poly  : Northern Arizona Lumberjacks vs. Idaho Vandals
+   Liquidez Poly: $11,372.52 | Liquidez Kalshi: $812,434.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.005
+     [COMPRAR Kalshi NO Idaho: $0.18] + [COMPRAR Poly Idaho: $0.825]
+------------------------------------------------------------
+🔸 [ MATCH #20 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will GIANTX win the Karmine Corp vs. GIANTX League of Legends match?
+   Poly  : LoL: GIANTX vs Karmine Corp (BO5) - LEC Versus Playoffs
+   Liquidez Poly: $11,263.02 | Liquidez Kalshi: $6,815.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.005
+     [COMPRAR Kalshi NO GIANTX: $0.81] + [COMPRAR Poly GIANTX: $0.195]
+------------------------------------------------------------
+🔸 [ MATCH #27 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Deer Gaming win the Arctic Pandas vs. Deer Gaming League of Legends match?
+   Poly  : LoL: Deer Gaming vs Arctic Pandas (BO1) - NLC Regular Season
+   Liquidez Poly: $3,516.30 | Liquidez Kalshi: $25,338.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.005
+     [COMPRAR Kalshi NO Deer Gaming: $0.67] + [COMPRAR Poly Deer Gaming: $0.335]
+------------------------------------------------------------
+🔸 [ MATCH #34 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Berlin International Gaming win the Team Orange Gaming vs. Berlin International Gaming League of Legends match?
+   Poly  : LoL: Berlin International Gaming vs Team Orange Gaming (BO3) - Prime League 1st Division Playoffs
+   Liquidez Poly: $2,871.45 | Liquidez Kalshi: $6,514.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.005
+     [COMPRAR Kalshi NO Berlin International Gaming: $0.20] + [COMPRAR Poly Berlin International Gaming: $0.805]
+------------------------------------------------------------
+🔸 [ MATCH #28 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Arctic Pandas win the Arctic Pandas vs. Deer Gaming League of Legends match?
+   Poly  : LoL: Deer Gaming vs Arctic Pandas (BO1) - NLC Regular Season
+   Liquidez Poly: $3,516.30 | Liquidez Kalshi: $25,003.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.005
+     [COMPRAR Kalshi YES Arctic Pandas: $0.67] + [COMPRAR Poly Deer Gaming: $0.335]
+------------------------------------------------------------
+🔸 [ MATCH #30 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will La BOMBAS win the DMG Esports vs. La BOMBAS League of Legends match?
+   Poly  : LoL: La BOMBAS vs DMG Esports (BO1) - NLC Regular Season
+   Liquidez Poly: $24,493.64 | Liquidez Kalshi: $22,324.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.005
+     [COMPRAR Kalshi NO La BOMBAS: $0.90] + [COMPRAR Poly La BOMBAS: $0.105]
+------------------------------------------------------------
+🔸 [ MATCH #29 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will DMG Esports win the DMG Esports vs. La BOMBAS League of Legends match?
+   Poly  : LoL: La BOMBAS vs DMG Esports (BO1) - NLC Regular Season
+   Liquidez Poly: $24,493.64 | Liquidez Kalshi: $30,886.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.005
+     [COMPRAR Kalshi YES DMG Esports: $0.90] + [COMPRAR Poly La BOMBAS: $0.105]
+------------------------------------------------------------
+🔸 [ MATCH #33 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Team Orange Gaming win the Team Orange Gaming vs. Berlin International Gaming League of Legends match?
+   Poly  : LoL: Berlin International Gaming vs Team Orange Gaming (BO3) - Prime League 1st Division Playoffs
+   Liquidez Poly: $2,871.45 | Liquidez Kalshi: $6,078.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.005
+     [COMPRAR Kalshi YES Team Orange Gaming: $0.20] + [COMPRAR Poly Berlin International Gaming: $0.805]
+------------------------------------------------------------
+🔸 [ MATCH #120 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Old Dominion at Georgia St. Winner?
+   Poly  : Old Dominion Monarchs vs. Georgia State Panthers
+   Liquidez Poly: $5,389.12 | Liquidez Kalshi: $18,525.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.005
+     [COMPRAR Kalshi YES Georgia St.: $0.55] + [COMPRAR Poly Old Dominion Monarchs: $0.455]
+------------------------------------------------------------
+🔸 [ MATCH #23 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Fukuoka SoftBank Hawks Gaming win the Ground Zero Gaming vs. Fukuoka SoftBank Hawks Gaming League of Legends match?
+   Poly  : LoL: Fukuoka SoftBank Hawks Gaming vs Ground Zero Gaming (BO5) - LCP Playoffs
+   Liquidez Poly: $3,480.31 | Liquidez Kalshi: $23,464.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.010
+     [COMPRAR Kalshi YES Fukuoka SoftBank Hawks Gaming: $0.42] + [COMPRAR Poly Ground Zero Gaming: $0.590]
+------------------------------------------------------------
+🔸 [ MATCH #24 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Ground Zero Gaming win the Ground Zero Gaming vs. Fukuoka SoftBank Hawks Gaming League of Legends match?
+   Poly  : LoL: Fukuoka SoftBank Hawks Gaming vs Ground Zero Gaming (BO5) - LCP Playoffs
+   Liquidez Poly: $3,480.31 | Liquidez Kalshi: $22,772.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.010
+     [COMPRAR Kalshi NO Ground Zero Gaming: $0.42] + [COMPRAR Poly Ground Zero Gaming: $0.590]
+------------------------------------------------------------
+🔸 [ MATCH #44 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Eternal Fire win the MANA eSports vs. Eternal Fire CS2 match?
+   Poly  : Counter-Strike: Eternal Fire vs MANA eSports (BO3) - DraculaN Playoffs
+   Liquidez Poly: $787.53 | Liquidez Kalshi: $1,917.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.010
+     [COMPRAR Kalshi NO Eternal Fire: $0.09] + [COMPRAR Poly Eternal Fire: $0.920]
+------------------------------------------------------------
+🔸 [ MATCH #116 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Michigan at Illinois Winner?
+   Poly  : Michigan Wolverines vs. Illinois Fighting Illini
+   Liquidez Poly: $3,772.18 | Liquidez Kalshi: $33,344.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.010
+     [COMPRAR Kalshi NO Illinois: $0.54] + [COMPRAR Poly Illinois: $0.470]
+------------------------------------------------------------
+🔸 [ MATCH #145 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Miami (OH) at Western Michigan Winner?
+   Poly  : Miami (OH) RedHawks vs. Western Michigan Broncos
+   Liquidez Poly: $4,625.22 | Liquidez Kalshi: $30,612.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.010
+     [COMPRAR Kalshi NO Western Michigan: $0.91] + [COMPRAR Poly Western Michigan: $0.100]
+------------------------------------------------------------
+🔸 [ MATCH #146 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Miami (OH) at Western Michigan Winner?
+   Poly  : Miami (OH) RedHawks vs. Western Michigan Broncos
+   Liquidez Poly: $4,625.22 | Liquidez Kalshi: $46,609.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.010
+     [COMPRAR Kalshi NO Miami (OH): $0.11] + [COMPRAR Poly Miami (OH): $0.900]
+------------------------------------------------------------
+🔸 [ MATCH #151 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Long Beach St. at Cal Poly Winner?
+   Poly  : Long Beach State Beach vs. Cal Poly Mustangs
+   Liquidez Poly: $7,742.89 | Liquidez Kalshi: $918,282.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.010
+     [COMPRAR Kalshi NO Long Beach St.: $0.68] + [COMPRAR Poly Long Beach St.: $0.330]
+------------------------------------------------------------
+🔸 [ MATCH #152 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Long Beach St. at Cal Poly Winner?
+   Poly  : Long Beach State Beach vs. Cal Poly Mustangs
+   Liquidez Poly: $7,742.89 | Liquidez Kalshi: $926,624.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.010
+     [COMPRAR Kalshi NO Cal Poly: $0.34] + [COMPRAR Poly Cal Poly: $0.670]
+------------------------------------------------------------
+🔸 [ MATCH #153 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Bethune-Cookman at Grambling St. Winner?
+   Poly  : Bethune-Cookman Wildcats vs. Grambling State Tigers
+   Liquidez Poly: $10,458.33 | Liquidez Kalshi: $21,611.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.010
+     [COMPRAR Kalshi YES Grambling St.: $0.48] + [COMPRAR Poly Bethune-Cookman Wildcats: $0.530]
+------------------------------------------------------------
+🔸 [ MATCH #155 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Jackson St. at Prairie View A&M Winner?
+   Poly  : Jackson State Tigers vs. Prairie View A&M Panthers
+   Liquidez Poly: $8,520.70 | Liquidez Kalshi: $771,172.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.010
+     [COMPRAR Kalshi NO Prairie View A&M: $0.33] + [COMPRAR Poly Prairie View A&M: $0.680]
+------------------------------------------------------------
+🔸 [ MATCH #156 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Jackson St. at Prairie View A&M Winner?
+   Poly  : Jackson State Tigers vs. Prairie View A&M Panthers
+   Liquidez Poly: $8,520.70 | Liquidez Kalshi: $776,067.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.010
+     [COMPRAR Kalshi NO Jackson St.: $0.69] + [COMPRAR Poly Jackson St.: $0.320]
+------------------------------------------------------------
+🔸 [ MATCH #159 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Portland St. at Montana St. Winner?
+   Poly  : Portland State Vikings vs. Montana State Bobcats
+   Liquidez Poly: $9,113.93 | Liquidez Kalshi: $902,646.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.010
+     [COMPRAR Kalshi NO Portland St.: $0.57] + [COMPRAR Poly Portland St.: $0.440]
+------------------------------------------------------------
+🔸 [ MATCH #163 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: North Dakota St. at St. Thomas Winner?
+   Poly  : North Dakota State Bison vs. St. Thomas (MN) Tommies
+   Liquidez Poly: $10,817.03 | Liquidez Kalshi: $985,559.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.010
+     [COMPRAR Kalshi NO St. Thomas: $0.39] + [COMPRAR Poly St. Thomas: $0.620]
+------------------------------------------------------------
+🔸 [ MATCH #10 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Top Esports win the Team WE vs. Top Esports League of Legends match?
+   Poly  : LoL: Top Esports vs Team WE (BO5) - LPL Playoffs
+   Liquidez Poly: $7,994.01 | Liquidez Kalshi: $22,752.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.015
+     [COMPRAR Kalshi NO Top Esports: $0.30] + [COMPRAR Poly Top Esports: $0.715]
+------------------------------------------------------------
+🔸 [ MATCH #12 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will FURIA Esports win the FURIA Esports vs. RED Canids League of Legends match?
+   Poly  : LoL: RED Canids vs FURIA Esports (BO5) - CBLOL Cup Playoffs
+   Liquidez Poly: $4,907.33 | Liquidez Kalshi: $7,392.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.015
+     [COMPRAR Kalshi NO FURIA Esports: $0.58] + [COMPRAR Poly FURIA Esports: $0.435]
+------------------------------------------------------------
+🔸 [ MATCH #11 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will RED Canids win the FURIA Esports vs. RED Canids League of Legends match?
+   Poly  : LoL: RED Canids vs FURIA Esports (BO5) - CBLOL Cup Playoffs
+   Liquidez Poly: $4,907.33 | Liquidez Kalshi: $5,091.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.015
+     [COMPRAR Kalshi YES RED Canids: $0.58] + [COMPRAR Poly FURIA Esports: $0.435]
+------------------------------------------------------------
+🔸 [ MATCH #141 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Quinnipiac at Niagara Winner?
+   Poly  : Quinnipiac Bobcats vs. Niagara Purple Eagles
+   Liquidez Poly: $6,197.90 | Liquidez Kalshi: $15,447.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.015
+     [COMPRAR Kalshi NO Quinnipiac: $0.29] + [COMPRAR Poly Quinnipiac: $0.725]
+------------------------------------------------------------
+🔸 [ MATCH #18 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Galions Sharks win the Galions Sharks vs. Solary League of Legends match?
+   Poly  : LoL: Solary vs Galions Sharks (BO5) - LFL Invitational Playoffs
+   Liquidez Poly: $4,020.77 | Liquidez Kalshi: $4,931.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.015
+     [COMPRAR Kalshi YES Galions Sharks: $0.48] + [COMPRAR Poly Solary: $0.535]
+------------------------------------------------------------
+🔸 [ MATCH #37 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will E WIE EINFACH E-SPORTS win the E WIE EINFACH E-SPORTS vs. Eintracht Spandau League of Legends match?
+   Poly  : LoL: Eintracht Spandau vs E WIE EINFACH E-SPORTS (BO3) - Prime League 1st Division Playoffs
+   Liquidez Poly: $4,905.63 | Liquidez Kalshi: $5,882.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.015
+     [COMPRAR Kalshi YES E WIE EINFACH E-SPORTS: $0.27] + [COMPRAR Poly Eintracht Spandau: $0.745]
+------------------------------------------------------------
+🔸 [ MATCH #32 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Bulldog Esports win the Bulldog Esports vs. Verdant League of Legends match?
+   Poly  : LoL: Verdant vs Bulldog Esports (BO1) - NLC Regular Season
+   Liquidez Poly: $7,993.12 | Liquidez Kalshi: $3,905.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.015
+     [COMPRAR Kalshi YES Bulldog Esports: $0.35] + [COMPRAR Poly Verdant: $0.665]
+------------------------------------------------------------
+🔸 [ MATCH #36 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will BOMBA Team win the Forsaken vs. BOMBA Team League of Legends match?
+   Poly  : LoL: BOMBA Team vs Forsaken (BO5) - Rift Legends Playoffs
+   Liquidez Poly: $4,710.56 | Liquidez Kalshi: $4,155.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.015
+     [COMPRAR Kalshi NO BOMBA Team: $0.52] + [COMPRAR Poly BOMBA Team: $0.495]
+------------------------------------------------------------
+🔸 [ MATCH #55 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will METANOIAGG win the METANOIAGG vs. FOLHA AMARELA CS2 match?
+   Poly  : Counter-Strike: FOLHA AMARELA vs METANOIAGG (BO3) - CCT South America Series #9 Group Stage
+   Liquidez Poly: $257.42 | Liquidez Kalshi: $5,576.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.015
+     [COMPRAR Kalshi NO METANOIAGG: $0.90] + [COMPRAR Poly METANOIAGG: $0.115]
+------------------------------------------------------------
+🔸 [ MATCH #56 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will FOLHA AMARELA win the METANOIAGG vs. FOLHA AMARELA CS2 match?
+   Poly  : Counter-Strike: FOLHA AMARELA vs METANOIAGG (BO3) - CCT South America Series #9 Group Stage
+   Liquidez Poly: $257.42 | Liquidez Kalshi: $6,683.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.015
+     [COMPRAR Kalshi NO FOLHA AMARELA: $0.13] + [COMPRAR Poly FOLHA AMARELA: $0.885]
+------------------------------------------------------------
+🔸 [ MATCH #43 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will MANA eSports win the MANA eSports vs. Eternal Fire CS2 match?
+   Poly  : Counter-Strike: Eternal Fire vs MANA eSports (BO3) - DraculaN Playoffs
+   Liquidez Poly: $787.53 | Liquidez Kalshi: $1,974.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.020
+     [COMPRAR Kalshi NO MANA eSports: $0.94] + [COMPRAR Poly MANA eSports: $0.080]
+------------------------------------------------------------
+🔸 [ MATCH #49 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Heroic win the Heroic vs. ASTRAL CS2 match?
+   Poly  : Counter-Strike: ASTRAL vs Heroic (BO3) - DraculaN Playoffs
+   Liquidez Poly: $198.66 | Liquidez Kalshi: $939.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.020
+     [COMPRAR Kalshi YES Heroic: $0.96] + [COMPRAR Poly ASTRAL: $0.060]
+------------------------------------------------------------
+🔸 [ MATCH #53 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will WHITEBIRD win the Alliance vs. WHITEBIRD CS2 match?
+   Poly  : Counter-Strike: Alliance vs WHITEBIRD (BO3) - CCT Europe Series #16 Playoffs
+   Liquidez Poly: $1,515.14 | Liquidez Kalshi: $4,330.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.020
+     [COMPRAR Kalshi YES WHITEBIRD: $0.65] + [COMPRAR Poly Alliance: $0.370]
+------------------------------------------------------------
+🔸 [ MATCH #61 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Wildcard win the Wildcard vs. Sakura Esports CS2 match?
+   Poly  : Counter-Strike: Sakura Esports vs Wildcard (BO3) - PGL Bucharest: North American Closed Qualifier Playoffs
+   Liquidez Poly: $1,715.23 | Liquidez Kalshi: $6,928.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.020
+     [COMPRAR Kalshi NO Wildcard: $0.09] + [COMPRAR Poly Wildcard: $0.930]
+------------------------------------------------------------
+🔸 [ MATCH #62 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Sakura Esports win the Wildcard vs. Sakura Esports CS2 match?
+   Poly  : Counter-Strike: Sakura Esports vs Wildcard (BO3) - PGL Bucharest: North American Closed Qualifier Playoffs
+   Liquidez Poly: $1,715.23 | Liquidez Kalshi: $6,007.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.020
+     [COMPRAR Kalshi NO Sakura Esports: $0.95] + [COMPRAR Poly Sakura Esports: $0.070]
+------------------------------------------------------------
+🔸 [ MATCH #17 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Solary win the Galions Sharks vs. Solary League of Legends match?
+   Poly  : LoL: Solary vs Galions Sharks (BO5) - LFL Invitational Playoffs
+   Liquidez Poly: $4,020.77 | Liquidez Kalshi: $5,121.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.025
+     [COMPRAR Kalshi NO Solary: $0.49] + [COMPRAR Poly Solary: $0.535]
+------------------------------------------------------------
+🔸 [ MATCH #35 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Forsaken win the Forsaken vs. BOMBA Team League of Legends match?
+   Poly  : LoL: BOMBA Team vs Forsaken (BO5) - Rift Legends Playoffs
+   Liquidez Poly: $4,710.56 | Liquidez Kalshi: $4,358.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.025
+     [COMPRAR Kalshi YES Forsaken: $0.53] + [COMPRAR Poly BOMBA Team: $0.495]
+------------------------------------------------------------
+🔸 [ MATCH #46 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will CYBERSHOKE Esports win the ENCE vs. CYBERSHOKE Esports CS2 match?
+   Poly  : Counter-Strike: CYBERSHOKE Esports vs ENCE (BO3) - DraculaN Playoffs
+   Liquidez Poly: $4,273.30 | Liquidez Kalshi: $2,501.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.025
+     [COMPRAR Kalshi YES CYBERSHOKE Esports: $0.68] + [COMPRAR Poly ENCE: $0.345]
+------------------------------------------------------------
+🔸 [ MATCH #63 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Team Aether win the Team Aether vs. BOSS CS2 match?
+   Poly  : Counter-Strike: BOSS vs Team Aether (BO3) - PGL Bucharest: North American Closed Qualifier Playoffs
+   Liquidez Poly: $2,113.51 | Liquidez Kalshi: $5,231.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.025
+     [COMPRAR Kalshi YES Team Aether: $0.29] + [COMPRAR Poly BOSS: $0.735]
+------------------------------------------------------------
+🔸 [ MATCH #64 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will BOSS win the Team Aether vs. BOSS CS2 match?
+   Poly  : Counter-Strike: BOSS vs Team Aether (BO3) - PGL Bucharest: North American Closed Qualifier Playoffs
+   Liquidez Poly: $2,113.51 | Liquidez Kalshi: $6,409.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.025
+     [COMPRAR Kalshi NO BOSS: $0.29] + [COMPRAR Poly BOSS: $0.735]
+------------------------------------------------------------
+🔸 [ MATCH #70 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Bounty Hunters Esports win the Bounty Hunters Esports vs. Yawara Esports CS2 match?
+   Poly  : Counter-Strike: Yawara Esports vs Bounty Hunters Esports (BO3) - PGL Bucharest: South American Closed Qualifier Playoffs
+   Liquidez Poly: $24,623.77 | Liquidez Kalshi: $5,372.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.025
+     [COMPRAR Kalshi YES Bounty Hunters Esports: $0.67] + [COMPRAR Poly Yawara Esports: $0.355]
+------------------------------------------------------------
+🔸 [ MATCH #69 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Yawara Esports win the Bounty Hunters Esports vs. Yawara Esports CS2 match?
+   Poly  : Counter-Strike: Yawara Esports vs Bounty Hunters Esports (BO3) - PGL Bucharest: South American Closed Qualifier Playoffs
+   Liquidez Poly: $24,623.77 | Liquidez Kalshi: $4,947.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.025
+     [COMPRAR Kalshi NO Yawara Esports: $0.67] + [COMPRAR Poly Yawara Esports: $0.355]
+------------------------------------------------------------
+🔸 [ MATCH #119 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Old Dominion at Georgia St. Winner?
+   Poly  : Old Dominion Monarchs vs. Georgia State Panthers
+   Liquidez Poly: $5,389.12 | Liquidez Kalshi: $18,228.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.025
+     [COMPRAR Kalshi NO Old Dominion: $0.57] + [COMPRAR Poly Old Dominion: $0.455]
+------------------------------------------------------------
+🔸 [ MATCH #54 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Alliance win the Alliance vs. WHITEBIRD CS2 match?
+   Poly  : Counter-Strike: Alliance vs WHITEBIRD (BO3) - CCT Europe Series #16 Playoffs
+   Liquidez Poly: $1,515.14 | Liquidez Kalshi: $6,184.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.030
+     [COMPRAR Kalshi YES Alliance: $0.40] + [COMPRAR Poly WHITEBIRD: $0.630]
+------------------------------------------------------------
+🔸 [ MATCH #50 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will ASTRAL win the Heroic vs. ASTRAL CS2 match?
+   Poly  : Counter-Strike: ASTRAL vs Heroic (BO3) - DraculaN Playoffs
+   Liquidez Poly: $198.66 | Liquidez Kalshi: $1,407.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.030
+     [COMPRAR Kalshi NO ASTRAL: $0.97] + [COMPRAR Poly ASTRAL: $0.060]
+------------------------------------------------------------
+🔸 [ MATCH #71 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Keyd win the Keyd vs. Imperial CS2 match?
+   Poly  : Counter-Strike: Imperial vs Keyd (BO3) - PGL Bucharest: South American Closed Qualifier Playoffs
+   Liquidez Poly: $16,045.58 | Liquidez Kalshi: $6,084.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.030
+     [COMPRAR Kalshi YES Keyd: $0.21] + [COMPRAR Poly Imperial: $0.820]
+------------------------------------------------------------
+🔸 [ MATCH #72 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Imperial win the Keyd vs. Imperial CS2 match?
+   Poly  : Counter-Strike: Imperial vs Keyd (BO3) - PGL Bucharest: South American Closed Qualifier Playoffs
+   Liquidez Poly: $16,045.58 | Liquidez Kalshi: $6,790.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.030
+     [COMPRAR Kalshi NO Imperial: $0.21] + [COMPRAR Poly Imperial: $0.820]
+------------------------------------------------------------
+🔸 [ MATCH #131 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Harvard at Princeton Winner?
+   Poly  : Harvard Crimson vs. Princeton Tigers
+   Liquidez Poly: $5,167.23 | Liquidez Kalshi: $17,401.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.045
+     [COMPRAR Kalshi YES Princeton: $0.46] + [COMPRAR Poly Harvard Crimson: $0.585]
+------------------------------------------------------------
+🔸 [ MATCH #134 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Siena at Fairfield Winner?
+   Poly  : Siena Saints vs. Fairfield Stags
+   Liquidez Poly: $6,219.43 | Liquidez Kalshi: $24,639.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.045
+     [COMPRAR Kalshi NO Fairfield: $0.60] + [COMPRAR Poly Fairfield: $0.445]
+------------------------------------------------------------
+🔸 [ MATCH #105 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Georgia Southern at Marshall Winner?
+   Poly  : Georgia Southern Eagles vs. Marshall Thundering Herd
+   Liquidez Poly: $6,735.52 | Liquidez Kalshi: $25,931.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.050
+     [COMPRAR Kalshi YES Marshall: $0.81] + [COMPRAR Poly Georgia Southern Eagles: $0.240]
+------------------------------------------------------------
+🔸 [ MATCH #106 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Georgia Southern at Marshall Winner?
+   Poly  : Georgia Southern Eagles vs. Marshall Thundering Herd
+   Liquidez Poly: $6,735.52 | Liquidez Kalshi: $19,266.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.050
+     [COMPRAR Kalshi YES Georgia Southern: $0.29] + [COMPRAR Poly Marshall Thundering Herd: $0.760]
+------------------------------------------------------------
+🔸 [ MATCH #133 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Siena at Fairfield Winner?
+   Poly  : Siena Saints vs. Fairfield Stags
+   Liquidez Poly: $6,219.43 | Liquidez Kalshi: $20,682.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.055
+     [COMPRAR Kalshi YES Siena: $0.61] + [COMPRAR Poly Fairfield Stags: $0.445]
+------------------------------------------------------------
+🔸 [ MATCH #132 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Harvard at Princeton Winner?
+   Poly  : Harvard Crimson vs. Princeton Tigers
+   Liquidez Poly: $5,167.23 | Liquidez Kalshi: $19,478.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.055
+     [COMPRAR Kalshi NO Harvard: $0.47] + [COMPRAR Poly Harvard: $0.585]
+------------------------------------------------------------
+🔸 [ MATCH #82 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Galorys win the Galorys vs. Imperial CS2 match?
+   Poly  : Counter-Strike: Imperial vs Galorys (BO3) - PGL Bucharest: South American Closed Qualifier Playoffs
+   Liquidez Poly: $5,334.97 | Liquidez Kalshi: $3,473.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.065
+     [COMPRAR Kalshi YES Galorys: $0.56] + [COMPRAR Poly Imperial: $0.505]
+------------------------------------------------------------
+🔸 [ MATCH #81 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Imperial win the Galorys vs. Imperial CS2 match?
+   Poly  : Counter-Strike: Imperial vs Galorys (BO3) - PGL Bucharest: South American Closed Qualifier Playoffs
+   Liquidez Poly: $5,334.97 | Liquidez Kalshi: $4,272.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.075
+     [COMPRAR Kalshi NO Imperial: $0.57] + [COMPRAR Poly Imperial: $0.505]
+------------------------------------------------------------
+🔸 [ MATCH #101 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Iowa at Penn St. Winner?
+   Poly  : Iowa Hawkeyes vs. Penn State Nittany Lions
+   Liquidez Poly: $843.84 | Liquidez Kalshi: $11,380.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.085
+     [COMPRAR Kalshi YES Penn St.: $0.39] + [COMPRAR Poly Iowa Hawkeyes: $0.695]
+------------------------------------------------------------
+🔸 [ MATCH #97 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Florida St. at Georgia Tech Winner?
+   Poly  : Florida State Seminoles vs. Georgia Tech Yellow Jackets
+   Liquidez Poly: $5,201.72 | Liquidez Kalshi: $23,516.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.100
+     [COMPRAR Kalshi YES Georgia Tech: $0.47] + [COMPRAR Poly Florida State Seminoles: $0.630]
+------------------------------------------------------------
+🔸 [ MATCH #102 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Iowa at Penn St. Winner?
+   Poly  : Iowa Hawkeyes vs. Penn State Nittany Lions
+   Liquidez Poly: $843.84 | Liquidez Kalshi: $15,388.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.105
+     [COMPRAR Kalshi NO Iowa: $0.41] + [COMPRAR Poly Iowa: $0.695]
+------------------------------------------------------------
+🔸 [ MATCH #96 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: North Carolina St. at Notre Dame Winner?
+   Poly  : North Carolina State Wolfpack vs. Notre Dame Fighting Irish
+   Liquidez Poly: $4,588.70 | Liquidez Kalshi: $15,012.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.115
+     [COMPRAR Kalshi NO North Carolina St.: $0.58] + [COMPRAR Poly North Carolina St.: $0.535]
+------------------------------------------------------------
+🔸 [ MATCH #144 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Yale at Cornell Winner?
+   Poly  : Yale Bulldogs vs. Cornell Big Red
+   Liquidez Poly: $4,216.81 | Liquidez Kalshi: $16,849.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.115
+     [COMPRAR Kalshi YES Cornell: $0.36] + [COMPRAR Poly Yale Bulldogs: $0.755]
+------------------------------------------------------------
+🔸 [ MATCH #98 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Florida St. at Georgia Tech Winner?
+   Poly  : Florida State Seminoles vs. Georgia Tech Yellow Jackets
+   Liquidez Poly: $5,201.72 | Liquidez Kalshi: $27,335.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.120
+     [COMPRAR Kalshi NO Florida St.: $0.49] + [COMPRAR Poly Florida St.: $0.630]
+------------------------------------------------------------
+🔸 [ MATCH #143 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Yale at Cornell Winner?
+   Poly  : Yale Bulldogs vs. Cornell Big Red
+   Liquidez Poly: $4,216.81 | Liquidez Kalshi: $21,754.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.125
+     [COMPRAR Kalshi NO Yale: $0.37] + [COMPRAR Poly Yale: $0.755]
+------------------------------------------------------------
+🔸 [ MATCH #31 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Verdant win the Bulldog Esports vs. Verdant League of Legends match?
+   Poly  : LoL: Verdant vs Bulldog Esports (BO1) - NLC Regular Season
+   Liquidez Poly: $7,993.12 | Liquidez Kalshi: $3,378.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.165
+     [COMPRAR Kalshi YES Verdant: $0.83] + [COMPRAR Poly Bulldog Esports: $0.335]
+------------------------------------------------------------
+🔸 [ MATCH #2 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Elegance win the Elegance vs. ZeroZone Gaming League of Legends match?
+   Poly  : LoL: ZeroZone Gaming vs Elegance (BO3) - LPLOL Playoffs
+   Liquidez Poly: $916.78 | Liquidez Kalshi: $3,565.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.215
+     [COMPRAR Kalshi YES Elegance: $0.64] + [COMPRAR Poly ZeroZone Gaming: $0.575]
+------------------------------------------------------------
+🔸 [ MATCH #1 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will ZeroZone Gaming win the Elegance vs. ZeroZone Gaming League of Legends match?
+   Poly  : LoL: ZeroZone Gaming vs Elegance (BO3) - LPLOL Playoffs
+   Liquidez Poly: $916.78 | Liquidez Kalshi: $3,188.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.225
+     [COMPRAR Kalshi NO ZeroZone Gaming: $0.65] + [COMPRAR Poly ZeroZone Gaming: $0.575]
+------------------------------------------------------------
+🔸 [ MATCH #76 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Fluxo W7M win the Yawara Esports vs. Fluxo W7M CS2 match?
+   Poly  : Counter-Strike: Fluxo W7M vs Yawara Esports (BO3) - PGL Bucharest: South American Closed Qualifier Playoffs
+   Liquidez Poly: $8,750.55 | Liquidez Kalshi: $2,702.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.295
+     [COMPRAR Kalshi NO Fluxo W7M: $0.79] + [COMPRAR Poly Fluxo W7M: $0.505]
+------------------------------------------------------------
+🔸 [ MATCH #75 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Yawara Esports win the Yawara Esports vs. Fluxo W7M CS2 match?
+   Poly  : Counter-Strike: Fluxo W7M vs Yawara Esports (BO3) - PGL Bucharest: South American Closed Qualifier Playoffs
+   Liquidez Poly: $8,750.55 | Liquidez Kalshi: $2,394.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.305
+     [COMPRAR Kalshi YES Yawara Esports: $0.80] + [COMPRAR Poly Fluxo W7M: $0.505]
+------------------------------------------------------------
+🔸 [ MATCH #91 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Saint Joseph's at Rhode Island Winner?
+   Poly  : Saint Joseph's Hawks vs. Rhode Island Rams
+   Liquidez Poly: $2,428.80 | Liquidez Kalshi: $21,515.50
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.310
+     [COMPRAR Kalshi NO Rhode Island: $0.93] + [COMPRAR Poly Rhode Island: $0.380]
+------------------------------------------------------------
+🔸 [ MATCH #92 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Saint Joseph's at Rhode Island Winner?
+   Poly  : Saint Joseph's Hawks vs. Rhode Island Rams
+   Liquidez Poly: $2,428.80 | Liquidez Kalshi: $20,899.00
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.310
+     [COMPRAR Kalshi YES Saint Joseph's: $0.93] + [COMPRAR Poly Rhode Island Rams: $0.380]
+------------------------------------------------------------
+🔸 [ MATCH #104 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Boston University at American Winner?
+   Poly  : Boston Terriers vs. American Eagles
+   Liquidez Poly: $2,683.84 | Liquidez Kalshi: $14,182.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.310
+     [COMPRAR Kalshi YES American: $0.92] + [COMPRAR Poly Boston Terriers: $0.390]
+------------------------------------------------------------
+🔸 [ MATCH #103 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Boston University at American Winner?
+   Poly  : Boston Terriers vs. American Eagles
+   Liquidez Poly: $2,683.84 | Liquidez Kalshi: $14,156.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.320
+     [COMPRAR Kalshi NO Boston University: $0.93] + [COMPRAR Poly Boston University: $0.390]
+------------------------------------------------------------
+🔸 [ MATCH #78 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will Bounty Hunters Esports win the Bounty Hunters Esports vs. ShindeN CS2 match?
+   Poly  : Counter-Strike: ShindeN vs Bounty Hunters Esports (BO3) - PGL Bucharest: South American Closed Qualifier Playoffs
+   Liquidez Poly: $15,724.70 | Liquidez Kalshi: $3,358.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.385
+     [COMPRAR Kalshi NO Bounty Hunters Esports: $0.89] + [COMPRAR Poly Bounty Hunters Esports: $0.495]
+------------------------------------------------------------
+🔸 [ MATCH #77 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Will ShindeN win the Bounty Hunters Esports vs. ShindeN CS2 match?
+   Poly  : Counter-Strike: ShindeN vs Bounty Hunters Esports (BO3) - PGL Bucharest: South American Closed Qualifier Playoffs
+   Liquidez Poly: $15,724.70 | Liquidez Kalshi: $3,395.50
+   ► ESTRATÉGIA DE ENTRADA (YES Kalshi + Oponente Poly): $ 1.385
+     [COMPRAR Kalshi YES ShindeN: $0.89] + [COMPRAR Poly Bounty Hunters Esports: $0.495]
+------------------------------------------------------------
+🔸 [ MATCH #94 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Loyola Maryland at Holy Cross Winner?
+   Poly  : Loyola Maryland Greyhounds vs. Holy Cross Crusaders
+   Liquidez Poly: $2,694.96 | Liquidez Kalshi: $14,203.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.410
+     [COMPRAR Kalshi NO Holy Cross: $0.91] + [COMPRAR Poly Holy Cross: $0.500]
+------------------------------------------------------------
+🔸 [ MATCH #93 - COMPATÍVEL, MAS SEM SPREAD ]
+   Kalshi: Loyola Maryland at Holy Cross Winner?
+   Poly  : Loyola Maryland Greyhounds vs. Holy Cross Crusaders
+   Liquidez Poly: $2,694.96 | Liquidez Kalshi: $14,193.00
+   ► ESTRATÉGIA DE ENTRADA (NO Kalshi + Principal Poly): $ 1.410
+     [COMPRAR Kalshi NO Loyola Maryland: $0.91] + [COMPRAR Poly Loyola Maryland: $0.500]
+------------------------------------------------------------
+
+✅ Resumo: Scan concluído. 52 oportunidade(s) viável(is) de 178 jogos analisados.
